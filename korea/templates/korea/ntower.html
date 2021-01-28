@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>경복궁</title>
+    <title>N서울타워</title>
     <style>
         .map_wrap,
         .map_wrap * {
@@ -196,16 +196,12 @@
 <body>
 
     <div style="text-align: center;">
-        <h1><a>경복궁</a></h1>
-        경복궁(景福宮)은 대한민국 서울 세종로에 있는 대조선국 왕조의 법궁(法宮, 정궁)이다. 근정전을 중심으로 하고 있다.
-        <br>
-        1395년(태조 4년)에 창건하였다. ‘경복(景福)’은 시경에 나오는 말로 왕과 그 자손, 온 백성들이 태평성대의 큰 복을 누리기를 축원한다는 의미다.
-        <br>
-        풍수지리적으로도 백악산을 뒤로 하고 좌우에는 낙산과 인왕산으로 둘러싸여 있어 길지의 요건을 갖추고 있다.
-        <br>
-        1592년, 임진왜란으로 인해 불탄 이후 그 임무를 창덕궁에 넘겨주었다가 1865년(고종 2년)에 흥선대원군의 명으로 중건되었다.
-        <br>
-        일제 강점기에는 조선총독부 건물을 짓는 등 많은 전각들이 훼손되었으나, 1990년대부터 조선총독부 건물을 철거하는 등 복원사업을 벌인 덕분에 복원 작업은 현재 부분 완료된 상태다.
+        <h1><a>N서울타워</a></h1>
+        N서울타워(영어: N Seoul Tower)는 대한민국 서울특별시 용산구 용산동2가 남산 정상 부근에 위치한 전파 송출 및 관광용 타워이다. <br>
+        1969년에 착공하여 1975년 7월 30일 완공되었다. 높이는 236.7m, 해발 479.7m이다. 수도권의 지상파 방송사들이 이 타워를 이용하여 전파를 송출한다. <br>
+        전망대에서 서울 시내 전역을 내려다 볼 수 있으며, 맑은 날씨에 찾는 관광지로 잘 알려져 있다. 남산에 있어서 보통 남산타워라고 널리 부르고, <br>
+        서울에 있어서 서울타워라고 부르지만, 행정안전부에 등록된 정식 명칭은 "YTN서울타워"이다. <br>
+        건물을 철거하는 등 복원사업을 벌인 덕분에 복원 작업은 현재 부분 완료된 상태다.
     </div>
     <div id="roadview" style="width:500px;height:375px; margin : 0 auto;"></div>
     <script type="text/javascript"
@@ -214,7 +210,7 @@
         var roadviewContainer = document.getElementById('roadview'); //로드뷰를 표시할 div
         var roadview = new kakao.maps.Roadview(roadviewContainer); //로드뷰 객체
         var roadviewClient = new kakao.maps.RoadviewClient(); //좌표로부터 로드뷰 파노ID를 가져올 로드뷰 helper객체
-        var position = new kakao.maps.LatLng(37.57560428927295, 126.9767178822582);
+        var position = new kakao.maps.LatLng(37.55139053342976, 126.98823732677567);
 
         // 특정 위치의 좌표와 가까운 로드뷰의 panoId를 추출하여 로드뷰를 띄운다.
         roadviewClient.getNearestPanoId(position, 50, function (panoId) {
@@ -274,7 +270,7 @@
             }
 
             // 장소검색 객체를 통해 키워드로 장소검색을 요청합니다
-            ps.keywordSearch('경복궁 ' + keyword, placesSearchCB);
+            ps.keywordSearch('N서울타워 ' + keyword, placesSearchCB);
         }
 
         // 장소검색이 완료됐을 때 호출되는 콜백함수 입니다

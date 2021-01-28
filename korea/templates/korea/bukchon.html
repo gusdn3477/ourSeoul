@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>경복궁</title>
+    <title>북촌 한옥마을</title>
     <style>
         .map_wrap,
         .map_wrap * {
@@ -196,16 +196,13 @@
 <body>
 
     <div style="text-align: center;">
-        <h1><a>경복궁</a></h1>
-        경복궁(景福宮)은 대한민국 서울 세종로에 있는 대조선국 왕조의 법궁(法宮, 정궁)이다. 근정전을 중심으로 하고 있다.
-        <br>
-        1395년(태조 4년)에 창건하였다. ‘경복(景福)’은 시경에 나오는 말로 왕과 그 자손, 온 백성들이 태평성대의 큰 복을 누리기를 축원한다는 의미다.
-        <br>
-        풍수지리적으로도 백악산을 뒤로 하고 좌우에는 낙산과 인왕산으로 둘러싸여 있어 길지의 요건을 갖추고 있다.
-        <br>
-        1592년, 임진왜란으로 인해 불탄 이후 그 임무를 창덕궁에 넘겨주었다가 1865년(고종 2년)에 흥선대원군의 명으로 중건되었다.
-        <br>
-        일제 강점기에는 조선총독부 건물을 짓는 등 많은 전각들이 훼손되었으나, 1990년대부터 조선총독부 건물을 철거하는 등 복원사업을 벌인 덕분에 복원 작업은 현재 부분 완료된 상태다.
+        <h1><a>북촌 한옥마을</a></h1>
+        북촌 한옥마을은 서울특별시 종로구의 가회동과 삼청동 내에 위치한 한옥마을이다. 지리상으로 경복궁과 창덕궁, 종묘의 사이에 자리잡고 있다. <br>
+        조선 왕조의 두 궁궐 사이에 위치한 이 지역은 예로부터 청계천과 종로의 윗동네라는 의미로 ‘북촌’이라 불리었으며, <br>
+        현재의 가회동, 삼청동, 원서동, 재동, 계동 일대에 해당한다. 많은 사적과 문화재, 민속자료가 있어 도심 속의 박물관이라 불리기도 한다. <br>
+        경복궁과 마주하고 있는 삼청동길 주변에는 많은 갤러리가 늘어서 있고, 화동길을 비롯한 곳에서는 각종 먹거리와 특색있는 카페를 접할 수 있다. <br>
+        또한 원서동에는 전통 기능의 보유자 및 예술인들이 모여 살고 있다. <br>
+        1990년대 이후 다세대가구 주택이 급속하게 들어서며 많은 수의 한옥이 사라졌지만, 현재까지 양호한 상태의 한옥이 군집을 이룬 채 일부 지역에 남아 있다.
     </div>
     <div id="roadview" style="width:500px;height:375px; margin : 0 auto;"></div>
     <script type="text/javascript"
@@ -214,7 +211,7 @@
         var roadviewContainer = document.getElementById('roadview'); //로드뷰를 표시할 div
         var roadview = new kakao.maps.Roadview(roadviewContainer); //로드뷰 객체
         var roadviewClient = new kakao.maps.RoadviewClient(); //좌표로부터 로드뷰 파노ID를 가져올 로드뷰 helper객체
-        var position = new kakao.maps.LatLng(37.57560428927295, 126.9767178822582);
+        var position = new kakao.maps.LatLng(37.58259453137227, 126.98359945375697);
 
         // 특정 위치의 좌표와 가까운 로드뷰의 panoId를 추출하여 로드뷰를 띄운다.
         roadviewClient.getNearestPanoId(position, 50, function (panoId) {
@@ -274,7 +271,7 @@
             }
 
             // 장소검색 객체를 통해 키워드로 장소검색을 요청합니다
-            ps.keywordSearch('경복궁 ' + keyword, placesSearchCB);
+            ps.keywordSearch('북촌 ' + keyword, placesSearchCB);
         }
 
         // 장소검색이 완료됐을 때 호출되는 콜백함수 입니다
