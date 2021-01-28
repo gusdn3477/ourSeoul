@@ -17,7 +17,7 @@ urlpatterns = [
     path('hotplaces/bukchon/', views.bukchon, name='bukchon'),
     path('hotplaces/lotteworld/', views.lotteworld, name='lotteworld'),
     path('hotplaces/myeongdong/', views.myeondong, name='myeondong'),
-    path('hotplaces/ntower/', views.palace, name='ntower'),
+    path('hotplaces/ntower/', views.ntower, name='ntower'),
 
    # path('ntower/'), views.visit_ntower, name='ntower'),
 ]
