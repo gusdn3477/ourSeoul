@@ -6,3 +6,6 @@ def visit_palace(request):
 
 #def visit_ntower(request)i
 #    return render(request, 'korea/ntower.html')
+
+def mainpage(req):
+    return render(req, 'korea/mainpage.html')
