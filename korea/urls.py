@@ -9,9 +9,15 @@ urlpatterns = [
     path('myeongdong/', views.visit_myeongdong, name='palace'),
     path('lotteworld/', views.visit_lotteworld, name='palace'),
     path('', views.main, name='index'),
-    path('section_place/', views.section_place, name="secton_place"),
-    path('theme_place/', views.theme_place, name="theme_place"),
-    path('will/', views.will, name="will"),
-    
+    path('hotplaces/', views.hotplaces, name="hotplaces"),
+    path('region/', views.region, name="region"),
+    path('introduction/', views.introduction, name="introduction"),
+    path('hotplaces/palace/', views.palace, name='palace'),
+    path('hotplaces/63building/', views.highbuilding, name='63building'),
+    path('hotplaces/bukchon/', views.bukchon, name='bukchon'),
+    path('hotplaces/lotteworld/', views.lotteworld, name='lotteworld'),
+    path('hotplaces/myeongdong/', views.myeondong, name='myeondong'),
+    path('hotplaces/ntower/', views.palace, name='ntower'),
+
    # path('ntower/'), views.visit_ntower, name='ntower'),
 ]
