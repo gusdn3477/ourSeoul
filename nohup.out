@@ -1,0 +1,648 @@
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+[29/Jan/2021 09:21:57] "GET / HTTP/1.1" 200 11804
+[29/Jan/2021 09:21:58] "GET /static/%EB%82%A8%EC%82%B0%ED%83%80%EC%9B%8C.jpg HTTP/1.1" 304 0
+[29/Jan/2021 09:21:58] "GET /static/hangg.jpg HTTP/1.1" 304 0
+[29/Jan/2021 09:21:58] "GET /static/%EC%84%B8%EC%A2%85%EB%8C%80%EC%99%95%EB%8B%98.jpg HTTP/1.1" 304 0
+[29/Jan/2021 09:21:58] "GET /static/%EA%B0%95%EC%9B%90%EB%8F%84.jpg HTTP/1.1" 304 0
+[29/Jan/2021 09:21:58] "GET /static/seoulpic.png HTTP/1.1" 304 0
+[29/Jan/2021 09:21:58] "GET /static/program.png HTTP/1.1" 304 0
+[29/Jan/2021 09:21:58] "GET /static/contactus.png HTTP/1.1" 304 0
+[29/Jan/2021 09:21:58] "GET /static/codingon.png HTTP/1.1" 304 0
+Not Found: /favicon.ico
+[29/Jan/2021 09:21:58] "GET /favicon.ico HTTP/1.1" 404 3765
+Watching for file changes with StatReloader
+[29/Jan/2021 09:24:17] "GET / HTTP/1.1" 200 11804
+[29/Jan/2021 09:24:19] "GET /hotplaces/ HTTP/1.1" 200 8185
+[29/Jan/2021 09:24:19] "GET /static/kb.jpg HTTP/1.1" 304 0
+[29/Jan/2021 09:24:19] "GET /static/ns.jpg HTTP/1.1" 304 0
+[29/Jan/2021 09:24:19] "GET /static/bd.jpg HTTP/1.1" 304 0
+[29/Jan/2021 09:24:19] "GET /static/jt.jpg HTTP/1.1" 304 0
+[29/Jan/2021 09:24:19] "GET /static/md.jpg HTTP/1.1" 304 0
+[29/Jan/2021 09:24:19] "GET /static/to.jpg HTTP/1.1" 304 0
+Not Found: /humanframe/theme/basic/assets/images/img/pavi_16_16.png
+[29/Jan/2021 09:24:19] "GET /humanframe/theme/basic/assets/images/img/pavi_16_16.png HTTP/1.1" 404 3897
+[29/Jan/2021 09:24:20] "GET /region/ HTTP/1.1" 200 12458
+[29/Jan/2021 09:24:20] "GET /static/ss.jpg HTTP/1.1" 304 0
+[29/Jan/2021 09:24:20] "GET /static/gn.jpg HTTP/1.1" 304 0
+[29/Jan/2021 09:24:20] "GET /static/gd.png HTTP/1.1" 304 0
+[29/Jan/2021 09:24:20] "GET /static/gb.png HTTP/1.1" 304 0
+[29/Jan/2021 09:24:20] "GET /static/gs.png HTTP/1.1" 304 0
+[29/Jan/2021 09:24:20] "GET /static/gw.png HTTP/1.1" 304 0
+[29/Jan/2021 09:24:20] "GET /static/db.png HTTP/1.1" 304 0
+[29/Jan/2021 09:24:20] "GET /static/gr.png HTTP/1.1" 304 0
+[29/Jan/2021 09:24:20] "GET /static/nw.png HTTP/1.1" 304 0
+[29/Jan/2021 09:24:20] "GET /static/gj.png HTTP/1.1" 304 0
+[29/Jan/2021 09:24:20] "GET /static/gc.png HTTP/1.1" 304 0
+[29/Jan/2021 09:24:20] "GET /static/dm.png HTTP/1.1" 304 0
+[29/Jan/2021 09:24:20] "GET /static/dj.png HTTP/1.1" 304 0
+[29/Jan/2021 09:24:20] "GET /static/mp.png HTTP/1.1" 304 0
+[29/Jan/2021 09:24:20] "GET /static/sd.png HTTP/1.1" 304 0
+[29/Jan/2021 09:24:20] "GET /static/sc.png HTTP/1.1" 304 0
+[29/Jan/2021 09:24:20] "GET /static/sp.png HTTP/1.1" 304 0
+[29/Jan/2021 09:24:20] "GET /static/sb.png HTTP/1.1" 304 0
+[29/Jan/2021 09:24:20] "GET /static/yc.png HTTP/1.1" 304 0
+[29/Jan/2021 09:24:20] "GET /static/ys.png HTTP/1.1" 304 0
+[29/Jan/2021 09:24:20] "GET /static/ep.png HTTP/1.1" 304 0
+[29/Jan/2021 09:24:20] "GET /static/jn.png HTTP/1.1" 304 0
+[29/Jan/2021 09:24:20] "GET /static/yp.png HTTP/1.1" 304 0
+[29/Jan/2021 09:24:20] "GET /static/jg.png HTTP/1.1" 304 0
+[29/Jan/2021 09:24:20] "GET /static/jr.png HTTP/1.1" 304 0
+[29/Jan/2021 09:24:21] "GET /introduction/ HTTP/1.1" 200 10058
+[29/Jan/2021 09:24:31] "GET /introduction/ HTTP/1.1" 200 10058
+[29/Jan/2021 09:24:33] "GET /introduction/ HTTP/1.1" 200 10058
+[29/Jan/2021 09:24:34] "GET /hotplaces/ HTTP/1.1" 200 8185
+[29/Jan/2021 09:24:35] "GET /region/ HTTP/1.1" 200 12458
+[29/Jan/2021 09:25:06] "GET / HTTP/1.1" 200 11804
+[29/Jan/2021 09:25:08] "GET /static/hangg.jpg HTTP/1.1" 200 59964
+[29/Jan/2021 09:25:08] "GET /static/seoulpic.png HTTP/1.1" 200 36963
+[29/Jan/2021 09:25:08] "GET /static/contactus.png HTTP/1.1" 200 50673
+[29/Jan/2021 09:25:08] "GET /static/program.png HTTP/1.1" 200 118377
+[29/Jan/2021 09:25:08] "GET /static/%EA%B0%95%EC%9B%90%EB%8F%84.jpg HTTP/1.1" 200 212402
+[29/Jan/2021 09:25:08] "GET /static/%EB%82%A8%EC%82%B0%ED%83%80%EC%9B%8C.jpg HTTP/1.1" 200 596246
+[29/Jan/2021 09:25:08] "GET /static/%EC%84%B8%EC%A2%85%EB%8C%80%EC%99%95%EB%8B%98.jpg HTTP/1.1" 200 249361
+[29/Jan/2021 09:25:08] "GET /static/codingon.png HTTP/1.1" 200 9791
+Not Found: /favicon.ico
+[29/Jan/2021 09:25:09] "GET /favicon.ico HTTP/1.1" 404 3765
+[29/Jan/2021 09:25:11] "GET /hotplaces/ HTTP/1.1" 200 8185
+[29/Jan/2021 09:25:11] "GET /static/kb.jpg HTTP/1.1" 200 312630
+[29/Jan/2021 09:25:11] "GET /static/ns.jpg HTTP/1.1" 200 187222
+[29/Jan/2021 09:25:11] "GET /static/jt.jpg HTTP/1.1" 200 177873
+[29/Jan/2021 09:25:11] "GET /static/to.jpg HTTP/1.1" 200 238569
+[29/Jan/2021 09:25:12] "GET /static/md.jpg HTTP/1.1" 200 375956
+[29/Jan/2021 09:25:12] "GET /static/bd.jpg HTTP/1.1" 200 440629
+Not Found: /humanframe/theme/basic/assets/images/img/pavi_16_16.png
+[29/Jan/2021 09:25:12] "GET /humanframe/theme/basic/assets/images/img/pavi_16_16.png HTTP/1.1" 404 3897
+Not Found: /humanframe/theme/basic/assets/images/img/pavi_16_16.png
+[29/Jan/2021 09:25:12] "GET /humanframe/theme/basic/assets/images/img/pavi_16_16.png HTTP/1.1" 404 3897
+[29/Jan/2021 09:25:16] "GET /hotplaces/palace/ HTTP/1.1" 200 23342
+[29/Jan/2021 09:25:39] "GET /region HTTP/1.1" 301 0
+[29/Jan/2021 09:25:39] "GET /region/ HTTP/1.1" 200 12458
+[29/Jan/2021 09:25:39] "GET /static/ss.jpg HTTP/1.1" 200 46081
+[29/Jan/2021 09:25:39] "GET /static/gn.jpg HTTP/1.1" 200 2535
+[29/Jan/2021 09:25:39] "GET /static/gd.png HTTP/1.1" 200 2993
+[29/Jan/2021 09:25:39] "GET /static/gb.png HTTP/1.1" 200 3218
+[29/Jan/2021 09:25:39] "GET /static/gs.png HTTP/1.1" 200 3054
+[29/Jan/2021 09:25:39] "GET /static/gw.png HTTP/1.1" 200 3518
+[29/Jan/2021 09:25:39] "GET /static/gj.png HTTP/1.1" 200 3712
+[29/Jan/2021 09:25:39] "GET /static/gc.png HTTP/1.1" 200 3646
+[29/Jan/2021 09:25:39] "GET /static/gr.png HTTP/1.1" 200 3017
+[29/Jan/2021 09:25:39] "GET /static/nw.png HTTP/1.1" 200 3738
+[29/Jan/2021 09:25:39] "GET /static/yp.png HTTP/1.1" 200 3368
+[29/Jan/2021 09:25:39] "GET /static/sd.png HTTP/1.1" 200 2937
+[29/Jan/2021 09:25:39] "GET /static/dj.png HTTP/1.1" 200 3758
+[29/Jan/2021 09:25:39] "GET /static/mp.png HTTP/1.1" 200 2800
+[29/Jan/2021 09:25:39] "GET /static/db.png HTTP/1.1" 200 2898
+[29/Jan/2021 09:25:39] "GET /static/sp.png HTTP/1.1" 200 2730
+[29/Jan/2021 09:25:39] "GET /static/sc.png HTTP/1.1" 200 2888
+[29/Jan/2021 09:25:39] "GET /static/jr.png HTTP/1.1" 200 3413
+[29/Jan/2021 09:25:39] "GET /static/ep.png HTTP/1.1" 200 5199
+[29/Jan/2021 09:25:39] "GET /static/ys.png HTTP/1.1" 200 2991
+[29/Jan/2021 09:25:39] "GET /static/jn.png HTTP/1.1" 200 3537
+[29/Jan/2021 09:25:39] "GET /static/yc.png HTTP/1.1" 200 4013
+[29/Jan/2021 09:25:39] "GET /static/jg.png HTTP/1.1" 200 2856
+[29/Jan/2021 09:25:39] "GET /static/sb.png HTTP/1.1" 200 3643
+[29/Jan/2021 09:25:39] "GET /static/dm.png HTTP/1.1" 200 3238
+[29/Jan/2021 09:25:47] "GET /hotplaces/palace/ HTTP/1.1" 200 23342
+[29/Jan/2021 09:25:48] "GET /static/codingon.png HTTP/1.1" 200 9791
+[29/Jan/2021 09:25:48] "GET /hotplaces/ HTTP/1.1" 200 8185
+[29/Jan/2021 09:25:48] "GET /static/kb.jpg HTTP/1.1" 200 312630
+[29/Jan/2021 09:25:48] "GET /static/ns.jpg HTTP/1.1" 200 187222
+[29/Jan/2021 09:25:48] "GET /static/jt.jpg HTTP/1.1" 200 177873
+[29/Jan/2021 09:25:48] "GET /static/to.jpg HTTP/1.1" 200 238569
+[29/Jan/2021 09:25:49] "GET /static/md.jpg HTTP/1.1" 200 375956
+[29/Jan/2021 09:25:49] "GET /static/bd.jpg HTTP/1.1" 200 440629
+[29/Jan/2021 09:25:49] "GET / HTTP/1.1" 200 11804
+[29/Jan/2021 09:25:49] "GET /static/hangg.jpg HTTP/1.1" 200 59964
+[29/Jan/2021 09:25:49] "GET /static/%EC%84%B8%EC%A2%85%EB%8C%80%EC%99%95%EB%8B%98.jpg HTTP/1.1" 200 249361
+[29/Jan/2021 09:25:49] "GET /static/%EA%B0%95%EC%9B%90%EB%8F%84.jpg HTTP/1.1" 200 212402
+[29/Jan/2021 09:25:49] "GET /static/contactus.png HTTP/1.1" 200 50673
+[29/Jan/2021 09:25:49] "GET /static/seoulpic.png HTTP/1.1" 200 36963
+[29/Jan/2021 09:25:49] "GET /static/program.png HTTP/1.1" 200 118377
+----------------------------------------
+Exception happened during processing of request from ('110.35.138.90', 26692)
+----------------------------------------
+Exception happened during processing of request from ('110.35.138.90', 26691)
+[29/Jan/2021 09:25:50] "GET /static/%EB%82%A8%EC%82%B0%ED%83%80%EC%9B%8C.jpg HTTP/1.1" 200 409600
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 654, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 364, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 724, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 174, in handle
+    self.handle_one_request()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 182, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.6/socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 654, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 364, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 724, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 174, in handle
+    self.handle_one_request()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 182, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.6/socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.6/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.6/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.6/wsgiref/handlers.py", line 453, in _write
+    result = self.stdout.write(data)
+  File "/usr/lib/python3.6/socketserver.py", line 803, in write
+    self._sock.sendall(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[29/Jan/2021 09:25:50] "GET /static/%EB%82%A8%EC%82%B0%ED%83%80%EC%9B%8C.jpg HTTP/1.1" 500 59
+----------------------------------------
+Exception happened during processing of request from ('110.35.138.90', 26694)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.6/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.6/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.6/wsgiref/handlers.py", line 453, in _write
+    result = self.stdout.write(data)
+  File "/usr/lib/python3.6/socketserver.py", line 803, in write
+    self._sock.sendall(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/wsgiref/handlers.py", line 141, in run
+    self.handle_error()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 119, in handle_error
+    super().handle_error()
+  File "/usr/lib/python3.6/wsgiref/handlers.py", line 368, in handle_error
+    self.finish_response()
+  File "/usr/lib/python3.6/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.6/wsgiref/handlers.py", line 274, in write
+    self.send_headers()
+  File "/usr/lib/python3.6/wsgiref/handlers.py", line 331, in send_headers
+    if not self.origin_server or self.client_is_modern():
+  File "/usr/lib/python3.6/wsgiref/handlers.py", line 344, in client_is_modern
+    return self.environ['SERVER_PROTOCOL'].upper() != 'HTTP/0.9'
+TypeError: 'NoneType' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 654, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 364, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 724, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 174, in handle
+    self.handle_one_request()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 197, in handle_one_request
+    handler.run(self.server.get_app())
+  File "/usr/lib/python3.6/wsgiref/handlers.py", line 144, in run
+    self.close()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 114, in close
+    super().close()
+  File "/usr/lib/python3.6/wsgiref/simple_server.py", line 35, in close
+    self.status.split(' ',1)[0], self.bytes_sent
+AttributeError: 'NoneType' object has no attribute 'split'
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('110.35.138.90', 26693)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 654, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 364, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 724, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 174, in handle
+    self.handle_one_request()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 182, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.6/socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+[29/Jan/2021 09:26:44] "GET / HTTP/1.1" 200 11804
+[29/Jan/2021 09:26:45] "GET /static/hangg.jpg HTTP/1.1" 200 59964
+[29/Jan/2021 09:26:45] "GET /static/seoulpic.png HTTP/1.1" 200 36963
+[29/Jan/2021 09:26:45] "GET /static/contactus.png HTTP/1.1" 200 50673
+[29/Jan/2021 09:26:45] "GET /static/%EA%B0%95%EC%9B%90%EB%8F%84.jpg HTTP/1.1" 200 212402
+[29/Jan/2021 09:26:45] "GET /static/%EC%84%B8%EC%A2%85%EB%8C%80%EC%99%95%EB%8B%98.jpg HTTP/1.1" 200 249361
+[29/Jan/2021 09:26:45] "GET /static/program.png HTTP/1.1" 200 118377
+[29/Jan/2021 09:26:45] "GET /static/codingon.png HTTP/1.1" 200 9791
+[29/Jan/2021 09:26:45] "GET /static/%EB%82%A8%EC%82%B0%ED%83%80%EC%9B%8C.jpg HTTP/1.1" 200 596246
+Not Found: /favicon.ico
+[29/Jan/2021 09:26:46] "GET /favicon.ico HTTP/1.1" 404 3765
+[29/Jan/2021 09:26:54] "GET /hotplaces/ HTTP/1.1" 200 8185
+[29/Jan/2021 09:26:54] "GET /static/kb.jpg HTTP/1.1" 200 312630
+[29/Jan/2021 09:26:54] "GET /static/ns.jpg HTTP/1.1" 200 187222
+[29/Jan/2021 09:26:54] "GET /static/jt.jpg HTTP/1.1" 200 177873
+[29/Jan/2021 09:26:54] "GET /static/bd.jpg HTTP/1.1" 200 440629
+[29/Jan/2021 09:26:55] "GET /static/md.jpg HTTP/1.1" 200 375956
+[29/Jan/2021 09:26:55] "GET /static/to.jpg HTTP/1.1" 200 238569
+[29/Jan/2021 09:26:57] "GET /hotplaces/palace/ HTTP/1.1" 200 23342
+Not Found: /humanframe/theme/basic/assets/images/img/pavi_16_16.png
+[29/Jan/2021 09:27:08] "GET /humanframe/theme/basic/assets/images/img/pavi_16_16.png HTTP/1.1" 404 3897
+[29/Jan/2021 09:33:06] "GET / HTTP/1.1" 200 11804
+[29/Jan/2021 09:33:07] "GET /static/hangg.jpg HTTP/1.1" 200 59964
+[29/Jan/2021 09:33:07] "GET /static/%EC%84%B8%EC%A2%85%EB%8C%80%EC%99%95%EB%8B%98.jpg HTTP/1.1" 200 249361
+[29/Jan/2021 09:33:07] "GET /static/contactus.png HTTP/1.1" 200 50673
+[29/Jan/2021 09:33:07] "GET /static/seoulpic.png HTTP/1.1" 200 36963
+[29/Jan/2021 09:33:07] "GET /static/%EB%82%A8%EC%82%B0%ED%83%80%EC%9B%8C.jpg HTTP/1.1" 200 596246
+[29/Jan/2021 09:33:07] "GET /static/program.png HTTP/1.1" 200 118377
+[29/Jan/2021 09:33:07] "GET /static/%EA%B0%95%EC%9B%90%EB%8F%84.jpg HTTP/1.1" 200 212402
+[29/Jan/2021 09:33:07] "GET /static/codingon.png HTTP/1.1" 200 9791
+Not Found: /favicon.ico
+[29/Jan/2021 09:33:08] "GET /favicon.ico HTTP/1.1" 404 3765
+[29/Jan/2021 09:33:10] "GET /hotplaces/ HTTP/1.1" 200 8185
+[29/Jan/2021 09:33:10] "GET /static/kb.jpg HTTP/1.1" 200 312630
+[29/Jan/2021 09:33:10] "GET /static/ns.jpg HTTP/1.1" 200 187222
+[29/Jan/2021 09:33:10] "GET /static/jt.jpg HTTP/1.1" 200 177873
+[29/Jan/2021 09:33:10] "GET /static/bd.jpg HTTP/1.1" 200 440629
+[29/Jan/2021 09:33:10] "GET /static/md.jpg HTTP/1.1" 200 375956
+[29/Jan/2021 09:33:10] "GET /static/to.jpg HTTP/1.1" 200 238569
+Not Found: /humanframe/theme/basic/assets/images/img/pavi_16_16.png
+[29/Jan/2021 09:33:11] "GET /humanframe/theme/basic/assets/images/img/pavi_16_16.png HTTP/1.1" 404 3897
+Not Found: /humanframe/theme/basic/assets/images/img/pavi_16_16.png
+[29/Jan/2021 09:33:11] "GET /humanframe/theme/basic/assets/images/img/pavi_16_16.png HTTP/1.1" 404 3897
+[29/Jan/2021 09:33:14] "GET /region HTTP/1.1" 301 0
+[29/Jan/2021 09:33:14] "GET /region/ HTTP/1.1" 200 12458
+[29/Jan/2021 09:33:14] "GET /static/ss.jpg HTTP/1.1" 200 46081
+[29/Jan/2021 09:33:14] "GET /static/gn.jpg HTTP/1.1" 200 2535
+[29/Jan/2021 09:33:14] "GET /static/gd.png HTTP/1.1" 200 2993
+[29/Jan/2021 09:33:14] "GET /static/gb.png HTTP/1.1" 200 3218
+[29/Jan/2021 09:33:14] "GET /static/gj.png HTTP/1.1" 200 3712
+[29/Jan/2021 09:33:14] "GET /static/gr.png HTTP/1.1" 200 3017
+[29/Jan/2021 09:33:14] "GET /static/gs.png HTTP/1.1" 200 3054
+[29/Jan/2021 09:33:14] "GET /static/gw.png HTTP/1.1" 200 3518
+[29/Jan/2021 09:33:14] "GET /static/gc.png HTTP/1.1" 200 3646
+[29/Jan/2021 09:33:14] "GET /static/nw.png HTTP/1.1" 200 3738
+[29/Jan/2021 09:33:14] "GET /static/dm.png HTTP/1.1" 200 3238
+[29/Jan/2021 09:33:14] "GET /static/dj.png HTTP/1.1" 200 3758
+[29/Jan/2021 09:33:14] "GET /static/db.png HTTP/1.1" 200 2898
+[29/Jan/2021 09:33:14] "GET /static/mp.png HTTP/1.1" 200 2800
+[29/Jan/2021 09:33:14] "GET /static/ys.png HTTP/1.1" 200 2991
+[29/Jan/2021 09:33:14] "GET /static/ep.png HTTP/1.1" 200 5199
+[29/Jan/2021 09:33:14] "GET /static/sb.png HTTP/1.1" 200 3643
+[29/Jan/2021 09:33:14] "GET /static/yc.png HTTP/1.1" 200 4013
+[29/Jan/2021 09:33:14] "GET /static/yp.png HTTP/1.1" 200 3368
+[29/Jan/2021 09:33:14] "GET /static/jn.png HTTP/1.1" 200 3537
+[29/Jan/2021 09:33:14] "GET /static/sc.png HTTP/1.1" 200 2888
+[29/Jan/2021 09:33:14] "GET /static/sd.png HTTP/1.1" 200 2937
+[29/Jan/2021 09:33:14] "GET /static/sp.png HTTP/1.1" 200 2730
+[29/Jan/2021 09:33:14] "GET /static/jr.png HTTP/1.1" 200 3413
+[29/Jan/2021 09:33:14] "GET /static/jg.png HTTP/1.1" 200 2856
+[29/Jan/2021 09:33:17] "GET /hotplaces HTTP/1.1" 301 0
+[29/Jan/2021 09:33:17] "GET /hotplaces/ HTTP/1.1" 200 8185
+[29/Jan/2021 09:33:18] "GET /hotplaces/palace/ HTTP/1.1" 200 23342
+[29/Jan/2021 09:33:52] "GET / HTTP/1.1" 200 11804
+[29/Jan/2021 09:33:52] "GET /static/hangg.jpg HTTP/1.1" 200 59964
+[29/Jan/2021 09:33:52] "GET /static/seoulpic.png HTTP/1.1" 200 36963
+[29/Jan/2021 09:33:52] "GET /static/contactus.png HTTP/1.1" 200 50673
+[29/Jan/2021 09:33:52] "GET /static/program.png HTTP/1.1" 200 118377
+[29/Jan/2021 09:33:52] "GET /static/%EC%84%B8%EC%A2%85%EB%8C%80%EC%99%95%EB%8B%98.jpg HTTP/1.1" 200 249361
+[29/Jan/2021 09:33:52] "GET /static/%EA%B0%95%EC%9B%90%EB%8F%84.jpg HTTP/1.1" 200 212402
+[29/Jan/2021 09:33:52] "GET /static/codingon.png HTTP/1.1" 200 9791
+[29/Jan/2021 09:33:52] "GET /static/%EB%82%A8%EC%82%B0%ED%83%80%EC%9B%8C.jpg HTTP/1.1" 200 596246
+Not Found: /favicon.ico
+[29/Jan/2021 09:33:53] "GET /favicon.ico HTTP/1.1" 404 3765
+[29/Jan/2021 09:38:48] "GET / HTTP/1.1" 200 11804
+[29/Jan/2021 09:38:48] "GET /static/%EB%82%A8%EC%82%B0%ED%83%80%EC%9B%8C.jpg HTTP/1.1" 200 596246
+[29/Jan/2021 09:38:48] "GET /static/hangg.jpg HTTP/1.1" 200 59964
+[29/Jan/2021 09:38:48] "GET /static/seoulpic.png HTTP/1.1" 200 36963
+[29/Jan/2021 09:38:48] "GET /static/program.png HTTP/1.1" 200 118377
+[29/Jan/2021 09:38:48] "GET /static/%EC%84%B8%EC%A2%85%EB%8C%80%EC%99%95%EB%8B%98.jpg HTTP/1.1" 200 249361
+[29/Jan/2021 09:38:48] "GET /static/%EA%B0%95%EC%9B%90%EB%8F%84.jpg HTTP/1.1" 200 212402
+[29/Jan/2021 09:38:48] "GET /static/contactus.png HTTP/1.1" 200 50673
+[29/Jan/2021 09:38:48] "GET /static/codingon.png HTTP/1.1" 200 9791
+Not Found: /favicon.ico
+[29/Jan/2021 09:38:49] "GET /favicon.ico HTTP/1.1" 404 3765
+[29/Jan/2021 09:38:51] "GET /hotplaces/ HTTP/1.1" 200 8185
+[29/Jan/2021 09:38:51] "GET /static/kb.jpg HTTP/1.1" 200 312630
+[29/Jan/2021 09:38:52] "GET /static/ns.jpg HTTP/1.1" 200 187222
+[29/Jan/2021 09:38:52] "GET /static/jt.jpg HTTP/1.1" 200 177873
+[29/Jan/2021 09:38:52] "GET /static/md.jpg HTTP/1.1" 200 375956
+[29/Jan/2021 09:38:52] "GET /static/to.jpg HTTP/1.1" 200 238569
+[29/Jan/2021 09:38:52] "GET /static/bd.jpg HTTP/1.1" 200 440629
+Not Found: /humanframe/theme/basic/assets/images/img/pavi_16_16.png
+[29/Jan/2021 09:38:52] "GET /humanframe/theme/basic/assets/images/img/pavi_16_16.png HTTP/1.1" 404 3897
+Not Found: /humanframe/theme/basic/assets/images/img/pavi_16_16.png
+[29/Jan/2021 09:38:52] "GET /humanframe/theme/basic/assets/images/img/pavi_16_16.png HTTP/1.1" 404 3897
+[29/Jan/2021 09:41:57] "GET / HTTP/1.1" 200 11804
+Not Found: /favicon.ico
+[29/Jan/2021 09:41:58] "GET /favicon.ico HTTP/1.1" 404 3765
+[29/Jan/2021 09:41:59] "GET / HTTP/1.1" 200 11804
+[29/Jan/2021 09:42:00] "GET /static/hangg.jpg HTTP/1.1" 200 59964
+[29/Jan/2021 09:42:00] "GET /static/seoulpic.png HTTP/1.1" 200 36963
+[29/Jan/2021 09:42:00] "GET /static/program.png HTTP/1.1" 200 118377
+[29/Jan/2021 09:42:00] "GET /static/%EA%B0%95%EC%9B%90%EB%8F%84.jpg HTTP/1.1" 200 212402
+[29/Jan/2021 09:42:00] "GET /static/contactus.png HTTP/1.1" 200 50673
+[29/Jan/2021 09:42:00] "GET /static/%EC%84%B8%EC%A2%85%EB%8C%80%EC%99%95%EB%8B%98.jpg HTTP/1.1" 200 249361
+[29/Jan/2021 09:42:00] "GET /static/codingon.png HTTP/1.1" 200 9791
+[29/Jan/2021 09:42:00] "GET /static/%EB%82%A8%EC%82%B0%ED%83%80%EC%9B%8C.jpg HTTP/1.1" 200 596246
+Not Found: /favicon.ico
+[29/Jan/2021 09:42:01] "GET /favicon.ico HTTP/1.1" 404 3765
+[29/Jan/2021 09:42:05] "GET /hotplaces/ HTTP/1.1" 200 8185
+[29/Jan/2021 09:42:05] "GET /static/kb.jpg HTTP/1.1" 200 312630
+[29/Jan/2021 09:42:05] "GET /static/ns.jpg HTTP/1.1" 200 187222
+[29/Jan/2021 09:42:05] "GET /static/jt.jpg HTTP/1.1" 200 177873
+[29/Jan/2021 09:42:05] "GET /static/to.jpg HTTP/1.1" 200 238569
+[29/Jan/2021 09:42:05] "GET /static/bd.jpg HTTP/1.1" 200 440629
+[29/Jan/2021 09:42:06] "GET /static/md.jpg HTTP/1.1" 200 375956
+Not Found: /humanframe/theme/basic/assets/images/img/pavi_16_16.png
+[29/Jan/2021 09:42:06] "GET /humanframe/theme/basic/assets/images/img/pavi_16_16.png HTTP/1.1" 404 3897
+Not Found: /humanframe/theme/basic/assets/images/img/pavi_16_16.png
+[29/Jan/2021 09:42:06] "GET /humanframe/theme/basic/assets/images/img/pavi_16_16.png HTTP/1.1" 404 3897
+[29/Jan/2021 09:42:08] "GET /hotplaces/palace/ HTTP/1.1" 200 23342
+[29/Jan/2021 09:49:48] "GET / HTTP/1.1" 200 11804
+Not Found: /favicon.ico
+[29/Jan/2021 09:49:48] "GET /favicon.ico HTTP/1.1" 404 3765
+[29/Jan/2021 09:50:54] "GET /introduction/ HTTP/1.1" 200 10058
+Not Found: /favicon.ico
+[29/Jan/2021 09:50:59] "GET /favicon.ico HTTP/1.1" 404 3765
+[29/Jan/2021 09:52:29] "GET / HTTP/1.1" 200 11804
+[29/Jan/2021 09:52:57] "GET /hotplaces/ HTTP/1.1" 200 8185
+Not Found: /humanframe/theme/basic/assets/images/img/pavi_16_16.png
+[29/Jan/2021 09:52:58] "GET /humanframe/theme/basic/assets/images/img/pavi_16_16.png HTTP/1.1" 404 3897
+[29/Jan/2021 09:53:00] "GET /region/ HTTP/1.1" 200 12458
+[29/Jan/2021 09:53:02] "GET /hotplaces/ HTTP/1.1" 200 8185
+[29/Jan/2021 09:53:04] "GET /hotplaces/ HTTP/1.1" 200 8185
+[29/Jan/2021 09:53:07] "GET /hotplaces/ HTTP/1.1" 200 8185
+[29/Jan/2021 09:53:12] "GET /hotplaces/palace/ HTTP/1.1" 200 23342
+[29/Jan/2021 09:54:19] "GET / HTTP/1.1" 200 11804
+[29/Jan/2021 09:54:35] "GET /hotplaces/ HTTP/1.1" 200 8185
+[29/Jan/2021 09:54:36] "GET /hotplaces/63building/ HTTP/1.1" 200 22883
+[29/Jan/2021 09:54:54] "GET /region/ HTTP/1.1" 200 12458
+[29/Jan/2021 09:56:08] "GET / HTTP/1.1" 200 11804
+[29/Jan/2021 09:56:10] "GET /introduction/ HTTP/1.1" 200 10058
+[29/Jan/2021 10:13:37] "GET /hotplaces/ HTTP/1.1" 200 8185
+[29/Jan/2021 10:13:38] "GET /static/kb.jpg HTTP/1.1" 304 0
+[29/Jan/2021 10:13:38] "GET /static/ns.jpg HTTP/1.1" 304 0
+[29/Jan/2021 10:13:38] "GET /static/jt.jpg HTTP/1.1" 304 0
+[29/Jan/2021 10:13:38] "GET /static/codingon.png HTTP/1.1" 304 0
+[29/Jan/2021 10:13:38] "GET /static/bd.jpg HTTP/1.1" 304 0
+[29/Jan/2021 10:13:38] "GET /static/to.jpg HTTP/1.1" 304 0
+[29/Jan/2021 10:13:38] "GET /static/md.jpg HTTP/1.1" 304 0
+[29/Jan/2021 10:13:42] "GET /region/ HTTP/1.1" 200 12458
+[29/Jan/2021 10:13:42] "GET /static/gn.jpg HTTP/1.1" 304 0
+[29/Jan/2021 10:13:42] "GET /static/ss.jpg HTTP/1.1" 304 0
+[29/Jan/2021 10:13:42] "GET /static/gd.png HTTP/1.1" 304 0
+[29/Jan/2021 10:13:42] "GET /static/gb.png HTTP/1.1" 304 0
+[29/Jan/2021 10:13:42] "GET /static/gs.png HTTP/1.1" 304 0
+[29/Jan/2021 10:13:42] "GET /static/gw.png HTTP/1.1" 304 0
+[29/Jan/2021 10:13:42] "GET /static/nw.png HTTP/1.1" 304 0
+[29/Jan/2021 10:13:42] "GET /static/gj.png HTTP/1.1" 304 0
+[29/Jan/2021 10:13:42] "GET /static/gr.png HTTP/1.1" 304 0
+[29/Jan/2021 10:13:42] "GET /static/gc.png HTTP/1.1" 304 0
+[29/Jan/2021 10:13:42] "GET /static/db.png HTTP/1.1" 304 0
+[29/Jan/2021 10:13:42] "GET /static/dm.png HTTP/1.1" 304 0
+[29/Jan/2021 10:13:42] "GET /static/mp.png HTTP/1.1" 304 0
+[29/Jan/2021 10:13:42] "GET /static/sd.png HTTP/1.1" 304 0
+[29/Jan/2021 10:13:42] "GET /static/dj.png HTTP/1.1" 304 0
+[29/Jan/2021 10:13:42] "GET /static/sc.png HTTP/1.1" 304 0
+[29/Jan/2021 10:13:42] "GET /static/sb.png HTTP/1.1" 304 0
+[29/Jan/2021 10:13:42] "GET /static/sp.png HTTP/1.1" 304 0
+[29/Jan/2021 10:13:42] "GET /static/yc.png HTTP/1.1" 304 0
+[29/Jan/2021 10:13:42] "GET /static/yp.png HTTP/1.1" 304 0
+[29/Jan/2021 10:13:42] "GET /static/ys.png HTTP/1.1" 304 0
+[29/Jan/2021 10:13:42] "GET /static/ep.png HTTP/1.1" 304 0
+[29/Jan/2021 10:13:42] "GET /static/jn.png HTTP/1.1" 304 0
+[29/Jan/2021 10:13:42] "GET /static/jg.png HTTP/1.1" 304 0
+[29/Jan/2021 10:13:42] "GET /static/jr.png HTTP/1.1" 304 0
+[29/Jan/2021 10:18:53] "GET / HTTP/1.1" 200 11804
+[29/Jan/2021 10:18:54] "GET /static/hangg.jpg HTTP/1.1" 200 59964
+[29/Jan/2021 10:18:54] "GET /static/codingon.png HTTP/1.1" 200 9791
+[29/Jan/2021 10:18:54] "GET /static/contactus.png HTTP/1.1" 200 50673
+[29/Jan/2021 10:18:54] "GET /static/%EB%82%A8%EC%82%B0%ED%83%80%EC%9B%8C.jpg HTTP/1.1" 200 596246
+[29/Jan/2021 10:18:54] "GET /static/seoulpic.png HTTP/1.1" 200 36963
+[29/Jan/2021 10:18:54] "GET /static/%EA%B0%95%EC%9B%90%EB%8F%84.jpg HTTP/1.1" 200 212402
+[29/Jan/2021 10:18:54] "GET /static/%EC%84%B8%EC%A2%85%EB%8C%80%EC%99%95%EB%8B%98.jpg HTTP/1.1" 200 249361
+[29/Jan/2021 10:18:54] "GET /static/program.png HTTP/1.1" 200 118377
+Not Found: /favicon.ico
+[29/Jan/2021 10:18:54] "GET /favicon.ico HTTP/1.1" 404 3765
+[29/Jan/2021 10:19:02] "GET /hotplaces/ HTTP/1.1" 200 8185
+[29/Jan/2021 10:19:02] "GET /static/kb.jpg HTTP/1.1" 200 312630
+[29/Jan/2021 10:19:02] "GET /static/ns.jpg HTTP/1.1" 200 187222
+[29/Jan/2021 10:19:02] "GET /static/jt.jpg HTTP/1.1" 200 177873
+[29/Jan/2021 10:19:02] "GET /static/bd.jpg HTTP/1.1" 200 440629
+[29/Jan/2021 10:19:03] "GET /static/md.jpg HTTP/1.1" 200 375956
+[29/Jan/2021 10:19:03] "GET /static/to.jpg HTTP/1.1" 200 238569
+Not Found: /humanframe/theme/basic/assets/images/img/pavi_16_16.png
+[29/Jan/2021 10:19:03] "GET /humanframe/theme/basic/assets/images/img/pavi_16_16.png HTTP/1.1" 404 3897
+Not Found: /humanframe/theme/basic/assets/images/img/pavi_16_16.png
+[29/Jan/2021 10:19:03] "GET /humanframe/theme/basic/assets/images/img/pavi_16_16.png HTTP/1.1" 404 3897
+[29/Jan/2021 10:19:07] "GET /hotplaces/myeongdong/ HTTP/1.1" 200 22124
+[29/Jan/2021 10:41:27] "GET / HTTP/1.1" 200 11804
+[29/Jan/2021 10:41:27] "GET /static/%EB%82%A8%EC%82%B0%ED%83%80%EC%9B%8C.jpg HTTP/1.1" 304 0
+[29/Jan/2021 10:41:27] "GET /static/hangg.jpg HTTP/1.1" 304 0
+[29/Jan/2021 10:41:27] "GET /static/%EC%84%B8%EC%A2%85%EB%8C%80%EC%99%95%EB%8B%98.jpg HTTP/1.1" 304 0
+[29/Jan/2021 10:41:27] "GET /static/%EA%B0%95%EC%9B%90%EB%8F%84.jpg HTTP/1.1" 304 0
+[29/Jan/2021 10:41:27] "GET /static/program.png HTTP/1.1" 304 0
+[29/Jan/2021 10:41:27] "GET /static/contactus.png HTTP/1.1" 304 0
+[29/Jan/2021 10:41:27] "GET /static/seoulpic.png HTTP/1.1" 304 0
+[29/Jan/2021 10:41:32] "GET /introduction/ HTTP/1.1" 200 10058
+[29/Jan/2021 10:41:35] "GET /hotplaces/ HTTP/1.1" 200 8185
+[29/Jan/2021 10:41:39] "GET /hotplaces/lotteworld/ HTTP/1.1" 200 22572
+[29/Jan/2021 10:41:54] "GET /region/ HTTP/1.1" 200 12458
+[29/Jan/2021 12:06:32] "GET / HTTP/1.1" 200 11804
+[29/Jan/2021 12:06:34] "GET /static/hangg.jpg HTTP/1.1" 200 59964
+[29/Jan/2021 12:06:34] "GET /static/%EB%82%A8%EC%82%B0%ED%83%80%EC%9B%8C.jpg HTTP/1.1" 200 596246
+[29/Jan/2021 12:06:34] "GET /static/%EC%84%B8%EC%A2%85%EB%8C%80%EC%99%95%EB%8B%98.jpg HTTP/1.1" 200 249361
+[29/Jan/2021 12:06:34] "GET /static/seoulpic.png HTTP/1.1" 200 36963
+[29/Jan/2021 12:06:34] "GET /static/program.png HTTP/1.1" 200 118377
+[29/Jan/2021 12:06:34] "GET /static/contactus.png HTTP/1.1" 200 50673
+[29/Jan/2021 12:06:34] "GET /static/%EA%B0%95%EC%9B%90%EB%8F%84.jpg HTTP/1.1" 200 212402
+[29/Jan/2021 12:06:34] "GET /static/codingon.png HTTP/1.1" 200 9791
+Not Found: /favicon.ico
+[29/Jan/2021 12:06:35] "GET /favicon.ico HTTP/1.1" 404 3765
+[29/Jan/2021 12:06:39] "GET /region/ HTTP/1.1" 200 12458
+[29/Jan/2021 12:06:39] "GET /static/ss.jpg HTTP/1.1" 200 46081
+[29/Jan/2021 12:06:39] "GET /static/gn.jpg HTTP/1.1" 200 2535
+[29/Jan/2021 12:06:39] "GET /static/gd.png HTTP/1.1" 200 2993
+[29/Jan/2021 12:06:39] "GET /static/gw.png HTTP/1.1" 200 3518
+[29/Jan/2021 12:06:39] "GET /static/gs.png HTTP/1.1" 200 3054
+[29/Jan/2021 12:06:39] "GET /static/gr.png HTTP/1.1" 200 3017
+[29/Jan/2021 12:06:39] "GET /static/gj.png HTTP/1.1" 200 3712
+[29/Jan/2021 12:06:39] "GET /static/gb.png HTTP/1.1" 200 3218
+[29/Jan/2021 12:06:39] "GET /static/sp.png HTTP/1.1" 200 2730
+[29/Jan/2021 12:06:39] "GET /static/mp.png HTTP/1.1" 200 2800
+[29/Jan/2021 12:06:39] "GET /static/sd.png HTTP/1.1" 200 2937
+[29/Jan/2021 12:06:39] "GET /static/jn.png HTTP/1.1" 200 3537
+[29/Jan/2021 12:06:39] "GET /static/ep.png HTTP/1.1" 200 5199
+[29/Jan/2021 12:06:39] "GET /static/sc.png HTTP/1.1" 200 2888
+[29/Jan/2021 12:06:39] "GET /static/jg.png HTTP/1.1" 200 2856
+[29/Jan/2021 12:06:39] "GET /static/gc.png HTTP/1.1" 200 3646
+[29/Jan/2021 12:06:39] "GET /static/ys.png HTTP/1.1" 200 2991
+[29/Jan/2021 12:06:39] "GET /static/db.png HTTP/1.1" 200 2898
+[29/Jan/2021 12:06:39] "GET /static/jr.png HTTP/1.1" 200 3413
+[29/Jan/2021 12:06:39] "GET /static/dm.png HTTP/1.1" 200 3238
+[29/Jan/2021 12:06:39] "GET /static/yc.png HTTP/1.1" 200 4013
+[29/Jan/2021 12:06:39] "GET /static/dj.png HTTP/1.1" 200 3758
+[29/Jan/2021 12:06:39] "GET /static/yp.png HTTP/1.1" 200 3368
+[29/Jan/2021 12:06:39] "GET /static/nw.png HTTP/1.1" 200 3738
+[29/Jan/2021 12:06:39] "GET /static/sb.png HTTP/1.1" 200 3643
+[29/Jan/2021 12:06:42] "GET /hotplaces HTTP/1.1" 301 0
+[29/Jan/2021 12:06:42] "GET /hotplaces/ HTTP/1.1" 200 8185
+[29/Jan/2021 12:06:42] "GET /static/kb.jpg HTTP/1.1" 200 312630
+[29/Jan/2021 12:06:42] "GET /static/ns.jpg HTTP/1.1" 200 187222
+[29/Jan/2021 12:06:42] "GET /static/jt.jpg HTTP/1.1" 200 177873
+[29/Jan/2021 12:06:42] "GET /static/bd.jpg HTTP/1.1" 200 440629
+[29/Jan/2021 12:06:42] "GET /static/md.jpg HTTP/1.1" 200 375956
+[29/Jan/2021 12:06:43] "GET /static/to.jpg HTTP/1.1" 200 238569
+Not Found: /humanframe/theme/basic/assets/images/img/pavi_16_16.png
+[29/Jan/2021 12:06:44] "GET /humanframe/theme/basic/assets/images/img/pavi_16_16.png HTTP/1.1" 404 3897
+Not Found: /humanframe/theme/basic/assets/images/img/pavi_16_16.png
+[29/Jan/2021 12:06:44] "GET /humanframe/theme/basic/assets/images/img/pavi_16_16.png HTTP/1.1" 404 3897
+[29/Jan/2021 12:06:45] "GET /hotplaces/palace/ HTTP/1.1" 200 23342
+[29/Jan/2021 13:45:19] "GET / HTTP/1.1" 200 11804
+[29/Jan/2021 13:45:20] "GET /static/hangg.jpg HTTP/1.1" 200 59964
+[29/Jan/2021 13:45:20] "GET /static/seoulpic.png HTTP/1.1" 200 36963
+[29/Jan/2021 13:45:20] "GET /static/contactus.png HTTP/1.1" 200 50673
+[29/Jan/2021 13:45:21] "GET /static/program.png HTTP/1.1" 200 118377
+[29/Jan/2021 13:45:21] "GET /static/codingon.png HTTP/1.1" 200 9791
+[29/Jan/2021 13:45:21] "GET /static/%EA%B0%95%EC%9B%90%EB%8F%84.jpg HTTP/1.1" 200 212402
+[29/Jan/2021 13:45:21] "GET /static/%EC%84%B8%EC%A2%85%EB%8C%80%EC%99%95%EB%8B%98.jpg HTTP/1.1" 200 249361
+[29/Jan/2021 13:45:21] "GET /static/%EB%82%A8%EC%82%B0%ED%83%80%EC%9B%8C.jpg HTTP/1.1" 200 596246
+Not Found: /favicon.ico
+[29/Jan/2021 13:45:21] "GET /favicon.ico HTTP/1.1" 404 3765
+[29/Jan/2021 13:45:26] "GET /hotplaces/ HTTP/1.1" 200 8185
+[29/Jan/2021 13:45:27] "GET /static/kb.jpg HTTP/1.1" 200 312630
+[29/Jan/2021 13:45:27] "GET /static/ns.jpg HTTP/1.1" 200 187222
+[29/Jan/2021 13:45:27] "GET /static/jt.jpg HTTP/1.1" 200 177873
+[29/Jan/2021 13:45:27] "GET /static/bd.jpg HTTP/1.1" 200 440629
+[29/Jan/2021 13:45:27] "GET /static/md.jpg HTTP/1.1" 200 375956
+[29/Jan/2021 13:45:28] "GET /static/to.jpg HTTP/1.1" 200 238569
+[29/Jan/2021 14:01:52] "GET /static/kb.jpg HTTP/1.1" 200 278528
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.6/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.6/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.6/wsgiref/handlers.py", line 453, in _write
+    result = self.stdout.write(data)
+  File "/usr/lib/python3.6/socketserver.py", line 803, in write
+    self._sock.sendall(b)
+TimeoutError: [Errno 110] Connection timed out
+[29/Jan/2021 14:01:52] "GET /static/kb.jpg HTTP/1.1" 500 59
+----------------------------------------
+Exception happened during processing of request from ('117.111.13.197', 45433)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.6/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.6/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.6/wsgiref/handlers.py", line 453, in _write
+    result = self.stdout.write(data)
+  File "/usr/lib/python3.6/socketserver.py", line 803, in write
+    self._sock.sendall(b)
+TimeoutError: [Errno 110] Connection timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/wsgiref/handlers.py", line 141, in run
+    self.handle_error()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 119, in handle_error
+    super().handle_error()
+  File "/usr/lib/python3.6/wsgiref/handlers.py", line 368, in handle_error
+    self.finish_response()
+  File "/usr/lib/python3.6/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.6/wsgiref/handlers.py", line 274, in write
+    self.send_headers()
+  File "/usr/lib/python3.6/wsgiref/handlers.py", line 331, in send_headers
+    if not self.origin_server or self.client_is_modern():
+  File "/usr/lib/python3.6/wsgiref/handlers.py", line 344, in client_is_modern
+    return self.environ['SERVER_PROTOCOL'].upper() != 'HTTP/0.9'
+TypeError: 'NoneType' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 654, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 364, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 724, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 174, in handle
+    self.handle_one_request()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 197, in handle_one_request
+    handler.run(self.server.get_app())
+  File "/usr/lib/python3.6/wsgiref/handlers.py", line 144, in run
+    self.close()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 114, in close
+    super().close()
+  File "/usr/lib/python3.6/wsgiref/simple_server.py", line 35, in close
+    self.status.split(' ',1)[0], self.bytes_sent
+AttributeError: 'NoneType' object has no attribute 'split'
+----------------------------------------
+[29/Jan/2021 14:51:44] "GET / HTTP/1.1" 200 11804
+[29/Jan/2021 14:51:44] "GET /static/%EB%82%A8%EC%82%B0%ED%83%80%EC%9B%8C.jpg HTTP/1.1" 304 0
+[29/Jan/2021 14:51:44] "GET /static/hangg.jpg HTTP/1.1" 304 0
+[29/Jan/2021 14:51:44] "GET /static/%EC%84%B8%EC%A2%85%EB%8C%80%EC%99%95%EB%8B%98.jpg HTTP/1.1" 304 0
+[29/Jan/2021 14:51:44] "GET /static/seoulpic.png HTTP/1.1" 304 0
+[29/Jan/2021 14:51:44] "GET /static/%EA%B0%95%EC%9B%90%EB%8F%84.jpg HTTP/1.1" 304 0
+[29/Jan/2021 14:51:44] "GET /static/program.png HTTP/1.1" 304 0
+[29/Jan/2021 14:51:44] "GET /static/contactus.png HTTP/1.1" 304 0
+[29/Jan/2021 14:51:44] "GET /static/codingon.png HTTP/1.1" 304 0
+Not Found: /favicon.ico
+[29/Jan/2021 14:51:45] "GET /favicon.ico HTTP/1.1" 404 3765
+[29/Jan/2021 14:51:49] "GET /introduction/ HTTP/1.1" 200 10058
+[29/Jan/2021 14:52:21] "GET /hotplaces/ HTTP/1.1" 200 8185
+[29/Jan/2021 14:52:21] "GET /static/kb.jpg HTTP/1.1" 304 0
+[29/Jan/2021 14:52:21] "GET /static/ns.jpg HTTP/1.1" 304 0
+[29/Jan/2021 14:52:21] "GET /static/jt.jpg HTTP/1.1" 304 0
+[29/Jan/2021 14:52:21] "GET /static/bd.jpg HTTP/1.1" 304 0
+[29/Jan/2021 14:52:21] "GET /static/to.jpg HTTP/1.1" 304 0
+[29/Jan/2021 14:52:21] "GET /static/md.jpg HTTP/1.1" 304 0
+Not Found: /humanframe/theme/basic/assets/images/img/pavi_16_16.png
+[29/Jan/2021 14:52:22] "GET /humanframe/theme/basic/assets/images/img/pavi_16_16.png HTTP/1.1" 404 3897
+[29/Jan/2021 14:52:25] "GET /region/ HTTP/1.1" 200 12458
+[29/Jan/2021 14:52:25] "GET /static/gn.jpg HTTP/1.1" 304 0
+[29/Jan/2021 14:52:25] "GET /static/ss.jpg HTTP/1.1" 304 0
+[29/Jan/2021 14:52:25] "GET /static/gb.png HTTP/1.1" 304 0
+[29/Jan/2021 14:52:25] "GET /static/gw.png HTTP/1.1" 304 0
+[29/Jan/2021 14:52:25] "GET /static/gj.png HTTP/1.1" 304 0
+[29/Jan/2021 14:52:25] "GET /static/gr.png HTTP/1.1" 304 0
+[29/Jan/2021 14:52:25] "GET /static/gs.png HTTP/1.1" 304 0
+[29/Jan/2021 14:52:25] "GET /static/gd.png HTTP/1.1" 304 0
+[29/Jan/2021 14:52:26] "GET /static/db.png HTTP/1.1" 304 0
+[29/Jan/2021 14:52:26] "GET /static/gc.png HTTP/1.1" 304 0
+[29/Jan/2021 14:52:26] "GET /static/dm.png HTTP/1.1" 304 0
+[29/Jan/2021 14:52:26] "GET /static/dj.png HTTP/1.1" 304 0
+[29/Jan/2021 14:52:26] "GET /static/nw.png HTTP/1.1" 304 0
+[29/Jan/2021 14:52:26] "GET /static/mp.png HTTP/1.1" 304 0
+[29/Jan/2021 14:52:26] "GET /static/sd.png HTTP/1.1" 304 0
+[29/Jan/2021 14:52:26] "GET /static/sc.png HTTP/1.1" 304 0
+[29/Jan/2021 14:52:26] "GET /static/sb.png HTTP/1.1" 304 0
+[29/Jan/2021 14:52:26] "GET /static/yp.png HTTP/1.1" 304 0
+[29/Jan/2021 14:52:26] "GET /static/yc.png HTTP/1.1" 304 0
+[29/Jan/2021 14:52:26] "GET /static/sp.png HTTP/1.1" 304 0
+[29/Jan/2021 14:52:26] "GET /static/ys.png HTTP/1.1" 304 0
+[29/Jan/2021 14:52:26] "GET /static/jr.png HTTP/1.1" 304 0
+[29/Jan/2021 14:52:26] "GET /static/ep.png HTTP/1.1" 304 0
+[29/Jan/2021 14:52:26] "GET /static/jn.png HTTP/1.1" 304 0
+[29/Jan/2021 14:52:26] "GET /static/jg.png HTTP/1.1" 304 0
+[29/Jan/2021 14:52:29] "GET /introduction/ HTTP/1.1" 200 10058
