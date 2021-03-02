@@ -9,7 +9,7 @@ https://docs.djangoproject.com/en/3.1/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/3.1/ref/settings/
 """
-
+import os, json
 from pathlib import Path
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
@@ -20,13 +20,25 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = '1w4h13dln0+$$rmz)y3(@ljnf=i$px+t$78u-fbyp56r+_arnu'
+secret_file = os.path.join(BASE_DIR, 'secrets.json')
 
+with open(secret_file) as f:
+    secrets = json.loads(f.read())
+
+def get_secret(setting, secrets=secrets):
+    try:
+        return secrets[setting]
+
+    except KeyError:
+        error_msg = "Set the {} environment variable".format(setting)
+        raise ImproperlyConfigured(error_msg)
+
+SECRET_KEY = get_secret("SECRET_KEY")
+# Secret 키 분리 완료!
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
-
+# 디버그 모드 False인 경우, 웹 서버에서 미디어 파일을 이동하도록 하게끔 변경되어 미디어 파일이 출력되지 않는 경우가 생긴다.
 ALLOWED_HOSTS = ['*']
-
 
 # Application definition
 
@@ -38,6 +50,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'korea',
+    'accounts',
 ]
 
 MIDDLEWARE = [
