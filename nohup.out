@@ -5512,3 +5512,133 @@ Watching for file changes with StatReloader
 [02/Mar/2021 10:04:01] "GET /accounts/logout HTTP/1.1" 301 0
 [02/Mar/2021 10:04:01] "GET /accounts/logout/ HTTP/1.1" 302 0
 [02/Mar/2021 10:04:01] "GET /home/ HTTP/1.1" 200 16
+[02/Mar/2021 12:17:34] code 400, message Bad request version ('\x89\x8a¹8\x02\x96')
+[02/Mar/2021 12:17:34] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[02/Mar/2021 12:21:49] "GET / HTTP/1.1" 200 11804
+----------------------------------------
+Exception happened during processing of request from ('74.120.14.54', 32784)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 654, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 364, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 724, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 172, in handle
+    self.handle_one_request()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 182, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.6/socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+[02/Mar/2021 13:42:11] "GET / HTTP/1.1" 200 11804
+----------------------------------------
+Exception happened during processing of request from ('74.120.14.54', 60610)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 654, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 364, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 724, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 174, in handle
+    self.handle_one_request()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 182, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.6/socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+[02/Mar/2021 13:42:12] "GET / HTTP/1.1" 200 11804
+[02/Mar/2021 14:10:05] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[02/Mar/2021 14:10:05] "  /*à     Cookie: mstshash=Administr" 400 -
+[02/Mar/2021 15:55:15] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[02/Mar/2021 15:55:15] "  /*à     Cookie: mstshash=Administr" 400 -
+[02/Mar/2021 17:56:26] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[02/Mar/2021 17:56:26] "  /*à     Cookie: mstshash=Administr" 400 -
+[02/Mar/2021 19:29:12] "GET / HTTP/1.1" 200 11804
+[02/Mar/2021 19:54:04] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[02/Mar/2021 19:54:04] "  /*à     Cookie: mstshash=Administr" 400 -
+[02/Mar/2021 21:48:20] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[02/Mar/2021 21:48:20] "  /*à     Cookie: mstshash=Administr" 400 -
+[02/Mar/2021 23:39:33] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[02/Mar/2021 23:39:33] "  /*à     Cookie: mstshash=Administr" 400 -
+[03/Mar/2021 00:04:27] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[03/Mar/2021 00:04:27] "  /*à     Cookie: mstshash=Administr" 400 -
+----------------------------------------
+Exception happened during processing of request from ('167.248.133.56', 34946)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 654, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 364, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 724, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 172, in handle
+    self.handle_one_request()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 182, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.6/socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+[03/Mar/2021 01:17:21] "GET / HTTP/1.1" 200 11804
+----------------------------------------
+Exception happened during processing of request from ('167.248.133.56', 54342)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 654, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 364, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 724, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 174, in handle
+    self.handle_one_request()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 182, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.6/socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+[03/Mar/2021 01:17:22] "GET / HTTP/1.1" 200 11804
+[03/Mar/2021 01:28:45] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[03/Mar/2021 01:28:45] "  /*à     Cookie: mstshash=Administr" 400 -
+[03/Mar/2021 03:05:41] code 400, message Bad HTTP/0.9 request type ('Z¥\x01')
+[03/Mar/2021 03:05:41] "Z¥     " 400 -
+[03/Mar/2021 03:25:03] "GET / HTTP/1.1" 200 11804
+[03/Mar/2021 07:12:13] "GET / HTTP/1.1" 200 11804
+[03/Mar/2021 07:12:13] "GET /static/codingon.png HTTP/1.1" 200 9791
+Not Found: /favicon.ico
+[03/Mar/2021 07:12:13] "GET /favicon.ico HTTP/1.1" 404 3979
+[03/Mar/2021 07:12:15] "GET /introduction/ HTTP/1.1" 200 10114
+[03/Mar/2021 07:12:16] "GET /region HTTP/1.1" 301 0
+[03/Mar/2021 07:12:16] "GET /region/ HTTP/1.1" 200 12458
+[03/Mar/2021 07:12:16] "GET /static/gn.jpg HTTP/1.1" 200 2535
+[03/Mar/2021 07:12:16] "GET /static/ss.jpg HTTP/1.1" 200 46081
+[03/Mar/2021 07:12:16] "GET /static/gd.png HTTP/1.1" 200 2993
+[03/Mar/2021 07:12:16] "GET /static/gb.png HTTP/1.1" 200 3218
+[03/Mar/2021 07:12:16] "GET /static/gs.png HTTP/1.1" 200 3054
+[03/Mar/2021 07:12:16] "GET /static/gw.png HTTP/1.1" 200 3518
+[03/Mar/2021 07:12:16] "GET /static/gj.png HTTP/1.1" 200 3712
+[03/Mar/2021 07:12:16] "GET /static/gc.png HTTP/1.1" 200 3646
+[03/Mar/2021 07:12:16] "GET /static/nw.png HTTP/1.1" 200 3738
+[03/Mar/2021 07:12:16] "GET /static/gr.png HTTP/1.1" 200 3017
+[03/Mar/2021 07:12:16] "GET /static/mp.png HTTP/1.1" 200 2800
+[03/Mar/2021 07:12:16] "GET /static/db.png HTTP/1.1" 200 2898
+[03/Mar/2021 07:12:16] "GET /static/dm.png HTTP/1.1" 200 3238
+[03/Mar/2021 07:12:16] "GET /static/dj.png HTTP/1.1" 200 3758
+[03/Mar/2021 07:12:16] "GET /static/sc.png HTTP/1.1" 200 2888
+[03/Mar/2021 07:12:16] "GET /static/sd.png HTTP/1.1" 200 2937
+[03/Mar/2021 07:12:16] "GET /static/sp.png HTTP/1.1" 200 2730
+[03/Mar/2021 07:12:16] "GET /static/sb.png HTTP/1.1" 200 3643
+[03/Mar/2021 07:12:17] "GET /static/yc.png HTTP/1.1" 200 4013
+[03/Mar/2021 07:12:17] "GET /static/yp.png HTTP/1.1" 200 3368
+[03/Mar/2021 07:12:17] "GET /static/ys.png HTTP/1.1" 200 2991
+[03/Mar/2021 07:12:17] "GET /static/ep.png HTTP/1.1" 200 5199
+[03/Mar/2021 07:12:17] "GET /static/jn.png HTTP/1.1" 200 3537
+[03/Mar/2021 07:12:17] "GET /static/jg.png HTTP/1.1" 200 2856
+[03/Mar/2021 07:12:17] "GET /static/jr.png HTTP/1.1" 200 3413
+[03/Mar/2021 07:12:18] "GET / HTTP/1.1" 200 11804
+[03/Mar/2021 07:13:23] "GET / HTTP/1.1" 200 11804
