@@ -15,6 +15,7 @@
 - 2021/01/28 Naver Cloud Platform을 통하여 배포
 - 2021/02 Secret Key 분리
 - 2021/03/02 회원가입, 로그인, 로그아웃 85% 구현
+- 2021/03/05 메인 화면에 Contact란 추가
 - 향후 계획 : 사진 업로드를 포함한 글쓰기 기능 구현
 
 ![우리의서울](https://user-images.githubusercontent.com/46596758/106293378-49086900-6291-11eb-8d14-abba7d9c6c1d.JPG)

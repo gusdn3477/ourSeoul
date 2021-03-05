@@ -8,13 +8,28 @@ def main(request):
         return render(request, 'korea/index.html')
 
     elif request.method == 'POST':
+
+        res = {}
         email = request.POST['email']
         contents = request.POST['contents']
 
-        new_contents = Contact(email=email, contents = contents)
-        new_contents.save()
+        if not email and not contents:
+            res['error'] = '이메일과 내용을 입력해 주세요'
 
-        return render(request, 'korea/index.html')
+        elif not email:
+            res['error'] = '이메일 주소를 입력해 주세요'
+
+        elif len(contents) < 10:
+            res['error'] = '내용을 10자 이상 입력해 주세요.'
+
+
+        if not res:
+            new_contents = Contact(email=email, contents = contents)
+            new_contents.save()
+            return render(request, 'korea/index.html', res)
+
+        else:
+            return render(request, 'korea/index.html', res)
 
 def hotplaces(request):
     return render(request, 'korea/hotplaces.html')
