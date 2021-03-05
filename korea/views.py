@@ -1,34 +1,44 @@
 from django.shortcuts import render
-
+from .models import Contact
 # Create your views here
 
+def main(request):
 
-def main(req):
-    return render(req, 'korea/index.html')
+    if request.method =='GET':
+        return render(request, 'korea/index.html')
 
-def hotplaces(req):
-    return render(req, 'korea/hotplaces.html')
+    elif request.method == 'POST':
+        email = request.POST['email']
+        contents = request.POST['contents']
 
-def region(req):
-    return render(req, 'korea/region.html')    
+        new_contents = Contact(email=email, contents = contents)
+        new_contents.save()
 
-def introduction(req):
-    return render(req, 'korea/introduction.html')
+        return render(request, 'korea/index.html')
 
-def palace(req):
-    return render(req, 'korea/palace.html')
+def hotplaces(request):
+    return render(request, 'korea/hotplaces.html')
 
-def highbuilding(req):
-    return render(req, 'korea/63building.html')
+def region(request):
+    return render(request, 'korea/region.html')    
 
-def bukchon(req):
-    return render(req, 'korea/bukchon.html')
+def introduction(request):
+    return render(request, 'korea/introduction.html')
 
-def lotteworld(req):
-    return render(req, 'korea/lotteworld.html')
+def palace(request):
+    return render(request, 'korea/palace.html')
 
-def myeondong(req):
-    return render(req, 'korea/myeongdong.html')
+def highbuilding(request):
+    return render(request, 'korea/63building.html')
 
-def ntower(req):
-    return render(req, 'korea/ntower.html')
+def bukchon(request):
+    return render(request, 'korea/bukchon.html')
+
+def lotteworld(request):
+    return render(request, 'korea/lotteworld.html')
+
+def myeondong(request):
+    return render(request, 'korea/myeongdong.html')
+
+def ntower(request):
+    return render(request, 'korea/ntower.html')
