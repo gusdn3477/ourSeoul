@@ -17,6 +17,7 @@ from django.contrib import admin
 from django.urls import path, include
 import accounts.views
 from accounts.views import home
+import main.views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
@@ -24,4 +25,5 @@ urlpatterns = [
     path('accounts/', include('accounts.urls')),
     path('home/', home),
     path('board/', include('board.urls')),
+    path('main/', include('main.urls')),
 ]
