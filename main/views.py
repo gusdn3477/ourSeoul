@@ -14,21 +14,22 @@ def posting(request, pk):
 
 def new_post(request):
     if request.method == 'POST':
-        if request.POST['mainphoto']:
+        if request.POST.get('mainphoto'):
             new_article = Post.objects.create(
-                postname=request.POST['postname'],
-                contents=request.POST['contents'],
-                mainphoto=request.POST['mainphoto'],
+                postname=request.POST.get('postname'),
+                contents=request.POST.get('contents'),
+                mainphoto=request.POST.get('mainphoto'),
             )
 
         else:
-            new_article=POST.objects.create(
-                postname=request.POST['postname'],
-                contents=request.POST['contents'],
-                mainphoto=request.POST['mainphoto'],
+            print('파일 없음')
+            new_article=Post.objects.create(
+                postname=request.POST.get('postname'),
+                contents=request.POST.get('contents'),
+                mainphoto=request.POST.get('mainphoto'),
             )
 
-        return redirect('/blog/')
+        return redirect('/main/blog/')
     return render(request, 'main/new_post.html')
 
 def remove_post(request, pk):
