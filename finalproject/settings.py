@@ -40,6 +40,8 @@ DEBUG = True
 # 디버그 모드 False인 경우, 웹 서버에서 미디어 파일을 이동하도록 하게끔 변경되어 미디어 파일이 출력되지 않는 경우가 생긴다.
 ALLOWED_HOSTS = ['*']
 
+LOGIN_REDIRECT_URL = '/pybo'
+LOGOUT_REDIRECT_URL = '/pybo'
 # Application definition
 
 INSTALLED_APPS = [
@@ -54,6 +56,7 @@ INSTALLED_APPS = [
     'board',
     'main',
     'pybo',
+    'common',
 ]
 
 MIDDLEWARE = [

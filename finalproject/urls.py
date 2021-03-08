@@ -17,19 +17,22 @@ from django.contrib import admin
 from django.urls import path, include
 import accounts.views
 from accounts.views import home
-import main.views
-import pybo.views
+#import main.views
+#import pybo.views
+from pybo import views
 from django.conf import settings
 from django.conf.urls.static import static
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', include('korea.urls')),
+    #path('', include('korea.urls')),
     path('accounts/', include('accounts.urls')),
     path('home/', home),
     path('board/', include('board.urls')),
     path('main/', include('main.urls')),
     path('pybo/', include('pybo.urls')),
+    path('common/', include('common.urls')),
+    #path('', views.index, name='index'),
 ]
 
 urlpatterns  += static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)

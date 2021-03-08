@@ -27,22 +27,36 @@ def new_post(request):
         return HttpResponse('Failed to Upload File')'''
 
     if request.method == 'POST':
-        if request.POST['mainphoto']:
+        
+        form = Post()
+        form.postname = request.POST['postname']
+        form.contents = request.POST['contents']
+
+        try:
+            form.mainphoto = request.FILES['mainphoto']
+
+        except:
+            pass
+
+        form.save()
+        '''
+        mainphoto = request.FILES['mainphoto']
+
+        if mainphoto:
             new_article = Post.objects.create(
                 postname=request.POST['postname'],
                 contents=request.POST['contents'],
-                mainphoto=request.POST['mainphoto'],
+                mainphoto=mainphoto,
             )
 
         else:
-            print('파일 없음')
             new_article=Post.objects.create(
                 postname=request.POST['postname'],
                 contents=request.POST['contents'],
-                mainphoto=request.POST['mainphoto'],
+                #mainphoto=request.FILES['mainphoto'],
             )
 
-        
+        '''
         return redirect('/main/blog/')
     return render(request, 'main/new_post.html')
 
