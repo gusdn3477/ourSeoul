@@ -1,7 +1,7 @@
 from django.shortcuts import render, redirect, get_object_or_404
 from django.http import HttpResponse
-from .models import Question, Answer, Comment
-from .forms import QuestionForm, AnswerForm, CommentForm
+from .models import Question, Answer#, Comment
+from .forms import QuestionForm, AnswerForm#, CommentForm
 from django.utils import timezone
 from django.core.paginator import Paginator
 from django.contrib.auth.decorators import login_required
@@ -153,7 +153,7 @@ def question_delete(request, question_id):
     question.delete()
     return redirect('pybo:index')
 
-
+'''
 @login_required(login_url='common:login')
 def comment_create_question(request, question_id):
     """
@@ -278,3 +278,4 @@ def comment_delete_answer(request, answer_id):
         comment.delete()
 
     return redirect('pybo:detail', question_id = comment.answer.question.id)
+'''

@@ -13,10 +13,10 @@ urlpatterns = [
     path('question/delete/<int:question_id>/', views.question_delete, name='question_delete'),
     
     # 댓글 관련 함수
-    path('comment/create/question/<int:question_id>/', views.comment_create_question, name='comment_create_question'),
-    path('comment/modify/question/<int:question_id>/', views.comment_modify_question, name='comment_modify_question'),
-    path('comment/delete/question/<int:question_id>/', views.comment_delete_question, name='comment_delete_question'),
-    path('comment/create/answer/<int:answer_id>/', views.comment_create_answer, name='comment_create_answer'),
-    path('comment/modify/answer/<int:answer_id>/', views.comment_modify_answer, name='comment_modify_answer'),
-    path('comment/delete/answer/<int:answer_id>/', views.comment_delete_answer, name='comment_delete_answer'),
+    #path('comment/create/question/<int:question_id>/', views.comment_create_question, name='comment_create_question'),
+    #path('comment/modify/question/<int:question_id>/', views.comment_modify_question, name='comment_modify_question'),
+    #path('comment/delete/question/<int:question_id>/', views.comment_delete_question, name='comment_delete_question'),
+    #path('comment/create/answer/<int:answer_id>/', views.comment_create_answer, name='comment_create_answer'),
+    #path('comment/modify/answer/<int:answer_id>/', views.comment_modify_answer, name='comment_modify_answer'),
+    #path('comment/delete/answer/<int:answer_id>/', views.comment_delete_answer, name='comment_delete_answer'),
 ]
