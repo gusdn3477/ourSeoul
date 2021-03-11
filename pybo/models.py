@@ -5,7 +5,7 @@ from django.contrib.auth.models import User
 class Question(models.Model):
     subject = models.CharField(max_length=200)
     content = models.TextField()
-    photo = models.ImageField(upload_to='images', null=True, blank = True)
+    image = models.ImageField(upload_to='images/%Y%M%d', null=True, blank = True)
     create_date = models.DateTimeField()
     author = models.ForeignKey(User, on_delete=models.CASCADE)
     modify_date = models.DateTimeField(null=True, blank=True)

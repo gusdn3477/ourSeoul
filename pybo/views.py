@@ -34,7 +34,6 @@ def detail(request, question_id):
 
 
 @login_required(login_url = 'common:login')
-
 def answer_create(request, question_id):
 
     """
@@ -97,16 +96,23 @@ def answer_delete(request, answer_id):
 
 @login_required(login_url = 'common:login')
 def question_create(request):
-
     """
     질문 등록
     """
     if request.method == "POST":
         form = QuestionForm(request.POST)
+
         if form.is_valid():
             question = form.save(commit=False)
             question.author = request.user
             question.create_date = timezone.now()
+            
+            try:
+                question.image = request.FILES['image']
+
+            except:
+                pass
+
             question.save()
             return redirect('pybo:index')
 
