@@ -5642,3 +5642,1128 @@ Not Found: /favicon.ico
 [03/Mar/2021 07:12:17] "GET /static/jr.png HTTP/1.1" 200 3413
 [03/Mar/2021 07:12:18] "GET / HTTP/1.1" 200 11804
 [03/Mar/2021 07:13:23] "GET / HTTP/1.1" 200 11804
+Watching for file changes with StatReloader
+[10/Mar/2021 00:32:12] "GET / HTTP/1.1" 200 12903
+Not Found: /favicon.ico
+[10/Mar/2021 00:32:12] "GET /favicon.ico HTTP/1.1" 404 4657
+[10/Mar/2021 00:32:33] "GET /pybo/ HTTP/1.1" 200 4004
+[10/Mar/2021 00:32:34] "GET / HTTP/1.1" 200 12903
+[10/Mar/2021 00:38:54] "GET / HTTP/1.1" 200 12903
+[10/Mar/2021 00:41:17] "GET /introduction/ HTTP/1.1" 200 10167
+[10/Mar/2021 00:41:18] "GET /hotplaces/ HTTP/1.1" 200 8209
+Not Found: /humanframe/theme/basic/assets/images/img/pavi_16_16.png
+[10/Mar/2021 00:41:19] "GET /humanframe/theme/basic/assets/images/img/pavi_16_16.png HTTP/1.1" 404 4789
+[10/Mar/2021 00:42:07] "GET /region/ HTTP/1.1" 200 12495
+[10/Mar/2021 00:43:03] "GET / HTTP/1.1" 200 12903
+[10/Mar/2021 00:45:13] "GET / HTTP/1.1" 200 12903
+[10/Mar/2021 00:45:14] "GET /hotplaces/ HTTP/1.1" 200 8209
+[10/Mar/2021 00:45:15] "GET /region/ HTTP/1.1" 200 12495
+[10/Mar/2021 00:45:16] "GET /pybo/ HTTP/1.1" 200 4004
+[10/Mar/2021 00:45:19] "GET / HTTP/1.1" 200 12903
+[10/Mar/2021 00:45:20] "GET /pybo/ HTTP/1.1" 200 4004
+[10/Mar/2021 00:45:21] "GET /pybo/ HTTP/1.1" 200 4004
+[10/Mar/2021 00:45:23] "GET /pybo/13/ HTTP/1.1" 200 4151
+[10/Mar/2021 00:45:27] "GET /common/login/ HTTP/1.1" 200 3355
+[10/Mar/2021 00:45:31] "POST /common/login/ HTTP/1.1" 302 0
+[10/Mar/2021 00:45:31] "GET /pybo HTTP/1.1" 301 0
+[10/Mar/2021 00:45:31] "GET /pybo/ HTTP/1.1" 200 4039
+[10/Mar/2021 00:45:32] "GET /pybo/13/ HTTP/1.1" 200 4449
+[10/Mar/2021 00:45:33] "GET /pybo/question/modify/13/ HTTP/1.1" 200 3340
+[10/Mar/2021 00:45:39] "POST /pybo/question/modify/13/ HTTP/1.1" 302 0
+[10/Mar/2021 00:45:39] "GET /pybo/13/ HTTP/1.1" 200 4419
+[10/Mar/2021 00:45:43] "GET /pybo/question/modify/13/ HTTP/1.1" 200 3308
+[10/Mar/2021 00:45:53] "POST /pybo/question/modify/13/ HTTP/1.1" 302 0
+[10/Mar/2021 00:45:53] "GET /pybo/13/ HTTP/1.1" 200 4373
+[10/Mar/2021 00:45:56] "GET /pybo/ HTTP/1.1" 200 4039
+[10/Mar/2021 00:46:00] "GET / HTTP/1.1" 200 12903
+[10/Mar/2021 00:46:04] "GET /pybo/ HTTP/1.1" 200 4039
+[10/Mar/2021 00:46:56] "GET / HTTP/1.1" 200 12903
+[10/Mar/2021 00:46:58] "GET /pybo/ HTTP/1.1" 200 4039
+[10/Mar/2021 00:46:59] "GET /common/logout/ HTTP/1.1" 302 0
+[10/Mar/2021 00:46:59] "GET /pybo/ HTTP/1.1" 200 4004
+[10/Mar/2021 00:47:00] "GET /common/login/ HTTP/1.1" 200 3355
+[10/Mar/2021 00:47:03] "POST /common/login/ HTTP/1.1" 200 3669
+[10/Mar/2021 00:47:06] "POST /common/login/ HTTP/1.1" 200 3670
+[10/Mar/2021 00:47:08] "GET /common/signup/ HTTP/1.1" 200 3718
+[10/Mar/2021 00:47:18] "GET /pybo/ HTTP/1.1" 200 4004
+[10/Mar/2021 00:47:19] "GET /common/login/ HTTP/1.1" 200 3355
+[10/Mar/2021 01:04:03] "GET / HTTP/1.1" 200 12903
+[10/Mar/2021 02:28:13] code 400, message Bad request syntax ('\x16\x03\x01\x00\x7f\x01\x00\x00{\x03\x03Ý\x04\x05\xad½{W\t\x83Ñeõ\x05 g(\x8eàåS\x89IáùÉ"Wé%31\x18\x00\x00\x1cÀ/À+À0À,À\x13À\tÀ\x14À')
+[10/Mar/2021 02:28:13] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[10/Mar/2021 04:43:14] code 400, message Bad request syntax ('\x16\x03\x01\x00\x7f\x01\x00\x00{\x03\x03X®¡²Î\x88r".°\x1a½°\x1fðU\x0c\x03e±NWìßHË\x0e\x9eÇ3w\x02\x00\x00\x1cÀ/À+À0À,À\x13À\tÀ\x14À')
+[10/Mar/2021 04:43:14] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[10/Mar/2021 05:33:04] "GET / HTTP/1.1" 200 12903
+[10/Mar/2021 09:16:20] code 400, message Bad request syntax ('\x16\x03\x01\x00\x7f\x01\x00\x00{\x03\x03ÿzô\x16?VVÞù\x98H\x1ds\x9dqV\x84\t]Bn\x8aonà½Ù\x95\x9b\x03r\x81\x00\x00\x1cÀ/À+À0À,À\x13À\tÀ\x14À')
+[10/Mar/2021 09:16:20] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /_ignition/execute-solution
+[10/Mar/2021 09:16:20] "POST /_ignition/execute-solution HTTP/1.1" 404 4703
+[10/Mar/2021 10:02:26] "GET / HTTP/1.1" 200 12903
+[10/Mar/2021 10:33:49] code 400, message Bad request syntax ('\x16\x03\x01\x00\x7f\x01\x00\x00{\x03\x03\x9eA8I]TOIýÅÿ\x82°ãÄ\x08\t\x7fÁ\x12Ù"tE\x1a \x15i/\x03b\t\x00\x00\x1cÀ/À+À0À,À\x13À\tÀ\x14À')
+[10/Mar/2021 10:33:49] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /_ignition/execute-solution
+[10/Mar/2021 10:33:49] "POST /_ignition/execute-solution HTTP/1.1" 404 4703
+----------------------------------------
+Exception happened during processing of request from ('74.120.14.39', 45344)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 654, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 364, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 724, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 172, in handle
+    self.handle_one_request()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 182, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.6/socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+[10/Mar/2021 11:15:23] "GET / HTTP/1.1" 200 12903
+----------------------------------------
+Exception happened during processing of request from ('74.120.14.39', 44840)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 654, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 364, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 724, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 174, in handle
+    self.handle_one_request()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 182, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.6/socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+[10/Mar/2021 11:15:23] "GET / HTTP/1.1" 200 12903
+[10/Mar/2021 11:49:39] "GET / HTTP/1.1" 200 12903
+[10/Mar/2021 11:49:42] "GET /static/%EB%82%A8%EC%82%B0%ED%83%80%EC%9B%8C.jpg HTTP/1.1" 200 596246
+[10/Mar/2021 11:49:42] "GET /static/hangg.jpg HTTP/1.1" 200 59964
+[10/Mar/2021 11:49:42] "GET /static/%EC%84%B8%EC%A2%85%EB%8C%80%EC%99%95%EB%8B%98.jpg HTTP/1.1" 200 249361
+[10/Mar/2021 11:49:42] "GET /static/seoulpic.png HTTP/1.1" 200 36963
+[10/Mar/2021 11:49:42] "GET /static/contactus.png HTTP/1.1" 200 50673
+[10/Mar/2021 11:49:42] "GET /static/codingon.png HTTP/1.1" 200 9791
+[10/Mar/2021 11:49:42] "GET /static/%EA%B0%95%EC%9B%90%EB%8F%84.jpg HTTP/1.1" 200 212402
+[10/Mar/2021 11:49:42] "GET /static/program.png HTTP/1.1" 200 118377
+Not Found: /favicon.ico
+[10/Mar/2021 11:49:43] "GET /favicon.ico HTTP/1.1" 404 4657
+[10/Mar/2021 11:49:46] "GET /hotplaces/ HTTP/1.1" 200 8209
+[10/Mar/2021 11:49:46] "GET /static/kb.jpg HTTP/1.1" 200 312630
+[10/Mar/2021 11:49:47] "GET /static/ns.jpg HTTP/1.1" 200 187222
+[10/Mar/2021 11:49:47] "GET /static/jt.jpg HTTP/1.1" 200 177873
+[10/Mar/2021 11:49:47] "GET /static/to.jpg HTTP/1.1" 200 238569
+[10/Mar/2021 11:49:47] "GET /static/bd.jpg HTTP/1.1" 200 440629
+[10/Mar/2021 11:49:47] "GET /static/md.jpg HTTP/1.1" 200 375956
+Not Found: /humanframe/theme/basic/assets/images/img/pavi_16_16.png
+[10/Mar/2021 11:49:48] "GET /humanframe/theme/basic/assets/images/img/pavi_16_16.png HTTP/1.1" 404 4789
+[10/Mar/2021 11:49:49] "GET /region HTTP/1.1" 301 0
+[10/Mar/2021 11:49:49] "GET /region/ HTTP/1.1" 200 12495
+[10/Mar/2021 11:49:49] "GET /static/ss.jpg HTTP/1.1" 200 46081
+[10/Mar/2021 11:49:49] "GET /static/gn.jpg HTTP/1.1" 200 2535
+[10/Mar/2021 11:49:49] "GET /static/gd.png HTTP/1.1" 200 2993
+[10/Mar/2021 11:49:49] "GET /static/gw.png HTTP/1.1" 200 3518
+[10/Mar/2021 11:49:49] "GET /static/gb.png HTTP/1.1" 200 3218
+[10/Mar/2021 11:49:49] "GET /static/gs.png HTTP/1.1" 200 3054
+[10/Mar/2021 11:49:49] "GET /static/gj.png HTTP/1.1" 200 3712
+[10/Mar/2021 11:49:49] "GET /static/gc.png HTTP/1.1" 200 3646
+[10/Mar/2021 11:49:49] "GET /static/gr.png HTTP/1.1" 200 3017
+[10/Mar/2021 11:49:49] "GET /static/nw.png HTTP/1.1" 200 3738
+[10/Mar/2021 11:49:49] "GET /static/db.png HTTP/1.1" 200 2898
+[10/Mar/2021 11:49:49] "GET /static/dm.png HTTP/1.1" 200 3238
+[10/Mar/2021 11:49:49] "GET /static/dj.png HTTP/1.1" 200 3758
+[10/Mar/2021 11:49:49] "GET /static/sc.png HTTP/1.1" 200 2888
+[10/Mar/2021 11:49:49] "GET /static/mp.png HTTP/1.1" 200 2800
+[10/Mar/2021 11:49:49] "GET /static/sd.png HTTP/1.1" 200 2937
+[10/Mar/2021 11:49:50] "GET /static/sb.png HTTP/1.1" 200 3643
+[10/Mar/2021 11:49:50] "GET /static/sp.png HTTP/1.1" 200 2730
+[10/Mar/2021 11:49:50] "GET /static/yc.png HTTP/1.1" 200 4013
+[10/Mar/2021 11:49:50] "GET /static/yp.png HTTP/1.1" 200 3368
+[10/Mar/2021 11:49:50] "GET /static/ys.png HTTP/1.1" 200 2991
+[10/Mar/2021 11:49:50] "GET /static/ep.png HTTP/1.1" 200 5199
+[10/Mar/2021 11:49:50] "GET /static/jn.png HTTP/1.1" 200 3537
+[10/Mar/2021 11:49:50] "GET /static/jg.png HTTP/1.1" 200 2856
+[10/Mar/2021 11:49:50] "GET /static/jr.png HTTP/1.1" 200 3413
+[10/Mar/2021 11:49:53] "GET /pybo/ HTTP/1.1" 200 4004
+----------------------------------------
+Exception happened during processing of request from ('211.36.132.48', 46717)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 654, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 364, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 724, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 174, in handle
+    self.handle_one_request()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 182, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.6/socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('211.36.132.48', 57501)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 654, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 364, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 724, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 174, in handle
+    self.handle_one_request()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 182, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.6/socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('211.36.132.48', 42012)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 654, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 364, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 724, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 174, in handle
+    self.handle_one_request()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 182, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.6/socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('211.36.132.48', 11500)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 654, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 364, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 724, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 174, in handle
+    self.handle_one_request()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 182, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.6/socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('211.36.132.48', 11794)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 654, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 364, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 724, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 174, in handle
+    self.handle_one_request()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 182, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.6/socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('211.36.132.48', 37453)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 654, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 364, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 724, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 174, in handle
+    self.handle_one_request()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 182, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.6/socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+[10/Mar/2021 12:10:45] code 400, message Bad request syntax ('\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x03²ï1+fË¦èØ³\x852\x85\x1e\x055éÐ,Éé\x02¶\x1fM:vîãò<-\x00\x00 Ì¨Ì©À/À0À+À,À\x13À\tÀ\x14À')
+[10/Mar/2021 12:10:45] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /_ignition/execute-solution
+[10/Mar/2021 12:10:45] "POST /_ignition/execute-solution HTTP/1.1" 404 4703
+[10/Mar/2021 12:41:04] "GET / HTTP/1.1" 200 12903
+[10/Mar/2021 12:57:08] "GET / HTTP/1.1" 200 12903
+[10/Mar/2021 12:57:08] "GET /static/codingon.png HTTP/1.1" 304 0
+Not Found: /favicon.ico
+[10/Mar/2021 12:57:08] "GET /favicon.ico HTTP/1.1" 404 4657
+[10/Mar/2021 13:00:15] "GET / HTTP/1.1" 200 12903
+[10/Mar/2021 13:00:22] "GET /introduction/ HTTP/1.1" 200 10167
+[10/Mar/2021 13:00:23] "GET /hotplaces/ HTTP/1.1" 200 8209
+Not Found: /humanframe/theme/basic/assets/images/img/pavi_16_16.png
+[10/Mar/2021 13:00:23] "GET /humanframe/theme/basic/assets/images/img/pavi_16_16.png HTTP/1.1" 404 4789
+[10/Mar/2021 13:00:24] "GET /region/ HTTP/1.1" 200 12495
+[10/Mar/2021 13:00:26] "GET /pybo/ HTTP/1.1" 200 4004
+[10/Mar/2021 14:15:24] "GET /admin/ HTTP/1.1" 302 0
+[10/Mar/2021 14:15:24] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2211
+[10/Mar/2021 14:15:24] "GET /static/admin/css/login.css HTTP/1.1" 200 1185
+[10/Mar/2021 14:15:24] "GET /admin/ HTTP/1.1" 302 0
+[10/Mar/2021 14:15:24] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2211
+[10/Mar/2021 14:15:29] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[10/Mar/2021 14:15:29] "GET /admin/ HTTP/1.1" 200 9626
+[10/Mar/2021 14:15:35] "GET /admin/auth/group/ HTTP/1.1" 200 7647
+[10/Mar/2021 14:15:35] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[10/Mar/2021 14:15:35] "GET /admin/jsi18n/ HTTP/1.1" 200 8314
+[10/Mar/2021 14:15:35] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[10/Mar/2021 14:15:35] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[10/Mar/2021 14:15:35] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[10/Mar/2021 14:15:35] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[10/Mar/2021 14:15:35] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+[10/Mar/2021 14:15:35] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[10/Mar/2021 14:15:35] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[10/Mar/2021 14:15:36] "GET /admin/ HTTP/1.1" 200 9626
+[10/Mar/2021 14:15:38] "GET /admin/auth/user/ HTTP/1.1" 200 11702
+[10/Mar/2021 14:15:38] "GET /admin/jsi18n/ HTTP/1.1" 200 8314
+[10/Mar/2021 14:15:38] "GET /static/admin/img/icon-no.svg HTTP/1.1" 200 560
+[10/Mar/2021 14:15:38] "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+[10/Mar/2021 14:15:40] "GET /admin/ HTTP/1.1" 200 9626
+[10/Mar/2021 14:15:41] "GET /admin/board/board/ HTTP/1.1" 200 9043
+[10/Mar/2021 14:15:41] "GET /admin/jsi18n/ HTTP/1.1" 200 8314
+[10/Mar/2021 14:15:42] "GET /admin/ HTTP/1.1" 200 9626
+[10/Mar/2021 14:15:43] "GET /admin/pybo/question/ HTTP/1.1" 200 8885
+[10/Mar/2021 14:15:44] "GET /admin/jsi18n/ HTTP/1.1" 200 8314
+[10/Mar/2021 14:15:45] "GET /admin/ HTTP/1.1" 200 9626
+[10/Mar/2021 14:15:54] "GET /admin/pybo/question/ HTTP/1.1" 200 8885
+[10/Mar/2021 14:15:54] "GET /admin/jsi18n/ HTTP/1.1" 200 8314
+[10/Mar/2021 14:15:56] "GET /admin/ HTTP/1.1" 200 9626
+[10/Mar/2021 14:15:57] "GET /admin/auth/user/ HTTP/1.1" 200 11702
+[10/Mar/2021 14:15:57] "GET /admin/jsi18n/ HTTP/1.1" 200 8314
+[10/Mar/2021 14:15:59] "GET /admin/logout/ HTTP/1.1" 302 0
+[10/Mar/2021 14:15:59] "GET /pybo/ HTTP/1.1" 200 4004
+[10/Mar/2021 15:18:19] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00\x7f\x01\x00\x00{\x03\x03u')
+[10/Mar/2021 15:18:19] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /_ignition/execute-solution
+[10/Mar/2021 15:18:19] "POST /_ignition/execute-solution HTTP/1.1" 404 4703
+[10/Mar/2021 15:37:29] "GET / HTTP/1.1" 200 12903
+[10/Mar/2021 16:21:16] code 400, message Bad request version ('À\x14À')
+[10/Mar/2021 16:21:16] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /_ignition/execute-solution
+[10/Mar/2021 16:21:16] "POST /_ignition/execute-solution HTTP/1.1" 404 4703
+[10/Mar/2021 17:05:21] "GET / HTTP/1.1" 200 12903
+[10/Mar/2021 17:05:22] "GET /static/%EB%82%A8%EC%82%B0%ED%83%80%EC%9B%8C.jpg HTTP/1.1" 200 596246
+[10/Mar/2021 17:05:22] "GET /static/hangg.jpg HTTP/1.1" 200 59964
+[10/Mar/2021 17:05:22] "GET /static/%EC%84%B8%EC%A2%85%EB%8C%80%EC%99%95%EB%8B%98.jpg HTTP/1.1" 200 249361
+[10/Mar/2021 17:05:22] "GET /static/%EA%B0%95%EC%9B%90%EB%8F%84.jpg HTTP/1.1" 200 212402
+[10/Mar/2021 17:05:22] "GET /static/seoulpic.png HTTP/1.1" 200 36963
+[10/Mar/2021 17:05:22] "GET /static/program.png HTTP/1.1" 200 118377
+[10/Mar/2021 17:05:22] "GET /static/contactus.png HTTP/1.1" 200 50673
+[10/Mar/2021 17:05:22] "GET /static/codingon.png HTTP/1.1" 200 9791
+Not Found: /favicon.ico
+[10/Mar/2021 17:05:22] "GET /favicon.ico HTTP/1.1" 404 4657
+[10/Mar/2021 17:06:04] "GET / HTTP/1.1" 200 12903
+[10/Mar/2021 17:06:05] "GET /static/hangg.jpg HTTP/1.1" 200 59964
+[10/Mar/2021 17:06:05] "GET /static/program.png HTTP/1.1" 200 118377
+[10/Mar/2021 17:06:05] "GET /static/%EC%84%B8%EC%A2%85%EB%8C%80%EC%99%95%EB%8B%98.jpg HTTP/1.1" 200 249361
+[10/Mar/2021 17:06:05] "GET /static/seoulpic.png HTTP/1.1" 200 36963
+[10/Mar/2021 17:06:05] "GET /static/contactus.png HTTP/1.1" 200 50673
+[10/Mar/2021 17:06:05] "GET /static/codingon.png HTTP/1.1" 200 9791
+[10/Mar/2021 17:06:05] "GET /static/%EA%B0%95%EC%9B%90%EB%8F%84.jpg HTTP/1.1" 200 212402
+[10/Mar/2021 17:06:05] "GET /static/%EB%82%A8%EC%82%B0%ED%83%80%EC%9B%8C.jpg HTTP/1.1" 200 596246
+Not Found: /favicon.ico
+[10/Mar/2021 17:06:05] "GET /favicon.ico HTTP/1.1" 404 4657
+[10/Mar/2021 17:06:06] "GET /hotplaces/ HTTP/1.1" 200 8209
+[10/Mar/2021 17:06:06] "GET /static/kb.jpg HTTP/1.1" 200 312630
+[10/Mar/2021 17:06:06] "GET /static/ns.jpg HTTP/1.1" 200 187222
+[10/Mar/2021 17:06:06] "GET /static/jt.jpg HTTP/1.1" 200 177873
+[10/Mar/2021 17:06:06] "GET /static/bd.jpg HTTP/1.1" 200 440629
+[10/Mar/2021 17:06:06] "GET /static/md.jpg HTTP/1.1" 200 375956
+[10/Mar/2021 17:06:06] "GET /static/to.jpg HTTP/1.1" 200 238569
+Not Found: /humanframe/theme/basic/assets/images/img/pavi_16_16.png
+[10/Mar/2021 17:06:06] "GET /humanframe/theme/basic/assets/images/img/pavi_16_16.png HTTP/1.1" 404 4789
+[10/Mar/2021 17:06:44] "GET /pybo/ HTTP/1.1" 200 4004
+[10/Mar/2021 17:06:47] "GET /pybo/13/ HTTP/1.1" 200 4075
+[10/Mar/2021 17:06:53] "GET /common/login/ HTTP/1.1" 200 3355
+[10/Mar/2021 17:06:55] "GET / HTTP/1.1" 200 12903
+[10/Mar/2021 17:06:58] "GET /hotplaces/ HTTP/1.1" 200 8209
+[10/Mar/2021 17:06:58] "GET /static/kb.jpg HTTP/1.1" 200 312630
+[10/Mar/2021 17:06:58] "GET /static/ns.jpg HTTP/1.1" 200 187222
+[10/Mar/2021 17:06:58] "GET /static/jt.jpg HTTP/1.1" 200 177873
+[10/Mar/2021 17:06:58] "GET /static/bd.jpg HTTP/1.1" 200 440629
+[10/Mar/2021 17:06:58] "GET /static/md.jpg HTTP/1.1" 200 375956
+[10/Mar/2021 17:06:58] "GET /static/to.jpg HTTP/1.1" 200 238569
+Not Found: /humanframe/theme/basic/assets/images/img/pavi_16_16.png
+[10/Mar/2021 17:06:59] "GET /humanframe/theme/basic/assets/images/img/pavi_16_16.png HTTP/1.1" 404 4789
+[10/Mar/2021 17:07:00] "GET /hotplaces/ntower/ HTTP/1.1" 200 23337
+[10/Mar/2021 17:10:41] "GET /hotplaces/myeongdong/ HTTP/1.1" 200 22171
+[10/Mar/2021 17:10:49] "GET /hotplaces/palace/ HTTP/1.1" 200 23389
+[10/Mar/2021 17:10:53] "GET / HTTP/1.1" 200 12903
+[10/Mar/2021 17:10:54] "GET /static/%EB%82%A8%EC%82%B0%ED%83%80%EC%9B%8C.jpg HTTP/1.1" 200 596246
+[10/Mar/2021 17:10:54] "GET /static/hangg.jpg HTTP/1.1" 200 59964
+[10/Mar/2021 17:10:54] "GET /static/%EC%84%B8%EC%A2%85%EB%8C%80%EC%99%95%EB%8B%98.jpg HTTP/1.1" 200 249361
+[10/Mar/2021 17:10:54] "GET /static/%EA%B0%95%EC%9B%90%EB%8F%84.jpg HTTP/1.1" 200 212402
+[10/Mar/2021 17:10:54] "GET /static/program.png HTTP/1.1" 200 118377
+[10/Mar/2021 17:10:54] "GET /static/seoulpic.png HTTP/1.1" 200 36963
+[10/Mar/2021 17:10:54] "GET /static/contactus.png HTTP/1.1" 200 50673
+[10/Mar/2021 17:10:54] "GET /static/codingon.png HTTP/1.1" 200 9791
+Not Found: /favicon.ico
+[10/Mar/2021 17:10:54] "GET /favicon.ico HTTP/1.1" 404 4657
+[10/Mar/2021 17:11:02] "GET / HTTP/1.1" 200 12903
+[10/Mar/2021 17:11:03] "GET / HTTP/1.1" 200 12903
+[10/Mar/2021 17:11:03] "GET /static/hangg.jpg HTTP/1.1" 200 59964
+[10/Mar/2021 17:11:03] "GET /static/%EB%82%A8%EC%82%B0%ED%83%80%EC%9B%8C.jpg HTTP/1.1" 200 596246
+[10/Mar/2021 17:11:03] "GET /static/seoulpic.png HTTP/1.1" 200 36963
+[10/Mar/2021 17:11:03] "GET /static/contactus.png HTTP/1.1" 200 50673
+[10/Mar/2021 17:11:03] "GET /static/%EC%84%B8%EC%A2%85%EB%8C%80%EC%99%95%EB%8B%98.jpg HTTP/1.1" 200 249361
+[10/Mar/2021 17:11:03] "GET /static/program.png HTTP/1.1" 200 118377
+[10/Mar/2021 17:11:03] "GET /static/%EA%B0%95%EC%9B%90%EB%8F%84.jpg HTTP/1.1" 200 212402
+[10/Mar/2021 17:11:03] "GET /static/codingon.png HTTP/1.1" 200 9791
+Not Found: /favicon.ico
+[10/Mar/2021 17:11:03] "GET /favicon.ico HTTP/1.1" 404 4657
+[10/Mar/2021 17:11:08] "GET /introduction/ HTTP/1.1" 200 10167
+[10/Mar/2021 17:11:09] "GET /hotplaces HTTP/1.1" 301 0
+[10/Mar/2021 17:11:09] "GET /hotplaces/ HTTP/1.1" 200 8209
+[10/Mar/2021 17:11:09] "GET /static/kb.jpg HTTP/1.1" 200 312630
+[10/Mar/2021 17:11:09] "GET /static/ns.jpg HTTP/1.1" 200 187222
+[10/Mar/2021 17:11:09] "GET /static/jt.jpg HTTP/1.1" 200 177873
+[10/Mar/2021 17:11:09] "GET /static/bd.jpg HTTP/1.1" 200 440629
+[10/Mar/2021 17:11:09] "GET /static/md.jpg HTTP/1.1" 200 375956
+[10/Mar/2021 17:11:09] "GET /static/to.jpg HTTP/1.1" 200 238569
+Not Found: /humanframe/theme/basic/assets/images/img/pavi_16_16.png
+[10/Mar/2021 17:11:10] "GET /humanframe/theme/basic/assets/images/img/pavi_16_16.png HTTP/1.1" 404 4789
+[10/Mar/2021 17:11:12] "GET /introduction/ HTTP/1.1" 200 10167
+[10/Mar/2021 17:11:12] "GET /region HTTP/1.1" 301 0
+[10/Mar/2021 17:11:12] "GET /region/ HTTP/1.1" 200 12495
+[10/Mar/2021 17:11:12] "GET /static/gn.jpg HTTP/1.1" 200 2535
+[10/Mar/2021 17:11:12] "GET /static/ss.jpg HTTP/1.1" 200 46081
+[10/Mar/2021 17:11:12] "GET /static/gd.png HTTP/1.1" 200 2993
+[10/Mar/2021 17:11:12] "GET /static/gs.png HTTP/1.1" 200 3054
+[10/Mar/2021 17:11:12] "GET /static/gb.png HTTP/1.1" 200 3218
+[10/Mar/2021 17:11:12] "GET /static/gw.png HTTP/1.1" 200 3518
+[10/Mar/2021 17:11:12] "GET /static/gj.png HTTP/1.1" 200 3712
+[10/Mar/2021 17:11:12] "GET /static/gr.png HTTP/1.1" 200 3017
+[10/Mar/2021 17:11:12] "GET /static/gc.png HTTP/1.1" 200 3646
+[10/Mar/2021 17:11:12] "GET /static/mp.png HTTP/1.1" 200 2800
+[10/Mar/2021 17:11:12] "GET /static/db.png HTTP/1.1" 200 2898
+[10/Mar/2021 17:11:12] "GET /static/sd.png HTTP/1.1" 200 2937
+[10/Mar/2021 17:11:12] "GET /static/dj.png HTTP/1.1" 200 3758
+[10/Mar/2021 17:11:12] "GET /static/nw.png HTTP/1.1" 200 3738
+[10/Mar/2021 17:11:12] "GET /static/dm.png HTTP/1.1" 200 3238
+[10/Mar/2021 17:11:12] "GET /static/sc.png HTTP/1.1" 200 2888
+[10/Mar/2021 17:11:12] "GET /static/sb.png HTTP/1.1" 200 3643
+[10/Mar/2021 17:11:12] "GET /static/ys.png HTTP/1.1" 200 2991
+[10/Mar/2021 17:11:12] "GET /static/ep.png HTTP/1.1" 200 5199
+[10/Mar/2021 17:11:12] "GET /static/sp.png HTTP/1.1" 200 2730
+[10/Mar/2021 17:11:12] "GET /static/yc.png HTTP/1.1" 200 4013
+[10/Mar/2021 17:11:12] "GET /static/jn.png HTTP/1.1" 200 3537
+[10/Mar/2021 17:11:12] "GET /static/yp.png HTTP/1.1" 200 3368
+[10/Mar/2021 17:11:12] "GET /static/jr.png HTTP/1.1" 200 3413
+[10/Mar/2021 17:11:12] "GET /static/jg.png HTTP/1.1" 200 2856
+[10/Mar/2021 17:11:16] "GET /pybo/ HTTP/1.1" 200 4004
+[10/Mar/2021 17:11:17] "GET /hotplaces HTTP/1.1" 301 0
+[10/Mar/2021 17:11:17] "GET /hotplaces/ HTTP/1.1" 200 8209
+[10/Mar/2021 17:11:17] "GET /static/kb.jpg HTTP/1.1" 200 312630
+[10/Mar/2021 17:11:17] "GET /static/ns.jpg HTTP/1.1" 200 187222
+[10/Mar/2021 17:11:17] "GET /static/jt.jpg HTTP/1.1" 200 177873
+[10/Mar/2021 17:11:17] "GET /static/bd.jpg HTTP/1.1" 200 440629
+[10/Mar/2021 17:11:17] "GET /static/md.jpg HTTP/1.1" 200 375956
+[10/Mar/2021 17:11:17] "GET /static/to.jpg HTTP/1.1" 200 238569
+Not Found: /humanframe/theme/basic/assets/images/img/pavi_16_16.png
+[10/Mar/2021 17:11:18] "GET /humanframe/theme/basic/assets/images/img/pavi_16_16.png HTTP/1.1" 404 4789
+Not Found: /humanframe/theme/basic/assets/images/img/pavi_16_16.png
+[10/Mar/2021 17:11:18] "GET /humanframe/theme/basic/assets/images/img/pavi_16_16.png HTTP/1.1" 404 4789
+[10/Mar/2021 17:11:20] "GET /pybo/13/ HTTP/1.1" 200 4075
+[10/Mar/2021 17:11:20] "GET /region HTTP/1.1" 301 0
+[10/Mar/2021 17:11:20] "GET /region/ HTTP/1.1" 200 12495
+[10/Mar/2021 17:11:20] "GET /static/gn.jpg HTTP/1.1" 200 2535
+[10/Mar/2021 17:11:20] "GET /static/ss.jpg HTTP/1.1" 200 46081
+[10/Mar/2021 17:11:20] "GET /static/gd.png HTTP/1.1" 200 2993
+[10/Mar/2021 17:11:20] "GET /static/gb.png HTTP/1.1" 200 3218
+[10/Mar/2021 17:11:20] "GET /static/gs.png HTTP/1.1" 200 3054
+[10/Mar/2021 17:11:20] "GET /static/gj.png HTTP/1.1" 200 3712
+[10/Mar/2021 17:11:20] "GET /static/gw.png HTTP/1.1" 200 3518
+[10/Mar/2021 17:11:20] "GET /static/gr.png HTTP/1.1" 200 3017
+[10/Mar/2021 17:11:20] "GET /static/ys.png HTTP/1.1" 200 2991
+[10/Mar/2021 17:11:20] "GET /static/gc.png HTTP/1.1" 200 3646
+[10/Mar/2021 17:11:20] "GET /static/sp.png HTTP/1.1" 200 2730
+[10/Mar/2021 17:11:20] "GET /static/jr.png HTTP/1.1" 200 3413
+[10/Mar/2021 17:11:20] "GET /static/yc.png HTTP/1.1" 200 4013
+[10/Mar/2021 17:11:20] "GET /static/sc.png HTTP/1.1" 200 2888
+[10/Mar/2021 17:11:20] "GET /static/jn.png HTTP/1.1" 200 3537
+[10/Mar/2021 17:11:20] "GET /static/yp.png HTTP/1.1" 200 3368
+[10/Mar/2021 17:11:20] "GET /static/nw.png HTTP/1.1" 200 3738
+[10/Mar/2021 17:11:20] "GET /static/dm.png HTTP/1.1" 200 3238
+[10/Mar/2021 17:11:20] "GET /static/mp.png HTTP/1.1" 200 2800
+[10/Mar/2021 17:11:20] "GET /static/db.png HTTP/1.1" 200 2898
+[10/Mar/2021 17:11:20] "GET /static/sb.png HTTP/1.1" 200 3643
+[10/Mar/2021 17:11:20] "GET /static/sd.png HTTP/1.1" 200 2937
+[10/Mar/2021 17:11:20] "GET /static/dj.png HTTP/1.1" 200 3758
+[10/Mar/2021 17:11:20] "GET /static/jg.png HTTP/1.1" 200 2856
+[10/Mar/2021 17:11:20] "GET /static/ep.png HTTP/1.1" 200 5199
+[10/Mar/2021 17:11:23] "POST /pybo/answer/create/13/ HTTP/1.1" 302 0
+[10/Mar/2021 17:11:23] "GET /common/login/?next=/pybo/answer/create/13/ HTTP/1.1" 200 3378
+[10/Mar/2021 17:11:25] "GET /common/signup/ HTTP/1.1" 200 3718
+[10/Mar/2021 17:11:31] "GET /region/ HTTP/1.1" 200 12495
+[10/Mar/2021 17:11:33] "GET /pybo/ HTTP/1.1" 200 4004
+[10/Mar/2021 17:11:37] "POST /common/signup/ HTTP/1.1" 200 4750
+[10/Mar/2021 17:11:39] "GET / HTTP/1.1" 200 12903
+[10/Mar/2021 17:12:03] "POST /common/signup/ HTTP/1.1" 200 4062
+[10/Mar/2021 17:12:12] "POST /common/signup/ HTTP/1.1" 302 0
+[10/Mar/2021 17:12:12] "GET / HTTP/1.1" 200 12903
+[10/Mar/2021 17:12:16] "GET /region/ HTTP/1.1" 200 12495
+[10/Mar/2021 17:16:50] "GET / HTTP/1.1" 200 12903
+[10/Mar/2021 17:16:55] "GET /introduction/ HTTP/1.1" 200 10167
+[10/Mar/2021 18:00:44] "GET / HTTP/1.1" 200 12903
+[10/Mar/2021 18:00:52] "GET /pybo/ HTTP/1.1" 200 4004
+[10/Mar/2021 19:19:24] "GET / HTTP/1.1" 200 12903
+[10/Mar/2021 19:37:06] "GET / HTTP/1.1" 200 12903
+[10/Mar/2021 19:37:06] "GET /static/hangg.jpg HTTP/1.1" 200 59964
+[10/Mar/2021 19:37:06] "GET /static/seoulpic.png HTTP/1.1" 200 36963
+[10/Mar/2021 19:37:06] "GET /static/%EA%B0%95%EC%9B%90%EB%8F%84.jpg HTTP/1.1" 200 212402
+[10/Mar/2021 19:37:06] "GET /static/%EB%82%A8%EC%82%B0%ED%83%80%EC%9B%8C.jpg HTTP/1.1" 200 596246
+[10/Mar/2021 19:37:06] "GET /static/program.png HTTP/1.1" 200 118377
+[10/Mar/2021 19:37:06] "GET /static/%EC%84%B8%EC%A2%85%EB%8C%80%EC%99%95%EB%8B%98.jpg HTTP/1.1" 200 249361
+[10/Mar/2021 19:37:06] "GET /static/contactus.png HTTP/1.1" 200 50673
+[10/Mar/2021 19:37:06] "GET /static/codingon.png HTTP/1.1" 200 9791
+[10/Mar/2021 21:09:53] "GET / HTTP/1.1" 200 12903
+[10/Mar/2021 22:50:13] code 400, message Bad request syntax ('\x16\x03\x01\x00\x89\x01\x00\x00\x85\x03\x03Ì>ò\x98{{Y§Í\x9a¾\xadGÊÄx\x03ÖÏC?Jº\x01úÊ\x0b1\x85hYÿ\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\tÀ\x14À')
+[10/Mar/2021 22:50:13] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+----------------------------------------
+Exception happened during processing of request from ('217.182.193.223', 64206)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 654, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 364, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 724, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 174, in handle
+    self.handle_one_request()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 182, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.6/socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+[11/Mar/2021 03:45:08] code 400, message Bad request version ('À\x14À')
+[11/Mar/2021 03:45:08] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /_ignition/execute-solution
+[11/Mar/2021 03:45:08] "POST /_ignition/execute-solution HTTP/1.1" 404 4703
+[11/Mar/2021 13:35:32] "GET / HTTP/1.1" 200 12903
+[11/Mar/2021 13:35:33] "GET /static/hangg.jpg HTTP/1.1" 200 59964
+[11/Mar/2021 13:35:33] "GET /static/seoulpic.png HTTP/1.1" 200 36963
+[11/Mar/2021 13:35:33] "GET /static/contactus.png HTTP/1.1" 200 50673
+[11/Mar/2021 13:35:33] "GET /static/%EC%84%B8%EC%A2%85%EB%8C%80%EC%99%95%EB%8B%98.jpg HTTP/1.1" 200 249361
+[11/Mar/2021 13:35:33] "GET /static/%EB%82%A8%EC%82%B0%ED%83%80%EC%9B%8C.jpg HTTP/1.1" 200 596246
+[11/Mar/2021 13:35:33] "GET /static/program.png HTTP/1.1" 200 118377
+[11/Mar/2021 13:35:33] "GET /static/%EA%B0%95%EC%9B%90%EB%8F%84.jpg HTTP/1.1" 200 212402
+[11/Mar/2021 13:35:34] "GET /static/codingon.png HTTP/1.1" 200 9791
+Not Found: /favicon.ico
+[11/Mar/2021 13:35:34] "GET /favicon.ico HTTP/1.1" 404 4657
+[11/Mar/2021 13:37:18] "GET / HTTP/1.1" 200 12903
+Not Found: /favicon.ico
+[11/Mar/2021 13:37:20] "GET /favicon.ico HTTP/1.1" 404 4657
+[11/Mar/2021 13:37:30] "GET /hotplaces/ HTTP/1.1" 200 8209
+[11/Mar/2021 13:37:32] "GET /static/kb.jpg HTTP/1.1" 200 312630
+[11/Mar/2021 13:37:32] "GET /static/ns.jpg HTTP/1.1" 200 187222
+[11/Mar/2021 13:37:32] "GET /static/jt.jpg HTTP/1.1" 200 177873
+[11/Mar/2021 13:37:32] "GET /static/bd.jpg HTTP/1.1" 200 440629
+[11/Mar/2021 13:37:32] "GET /static/to.jpg HTTP/1.1" 200 238569
+[11/Mar/2021 13:37:32] "GET /static/md.jpg HTTP/1.1" 200 375956
+Not Found: /humanframe/theme/basic/assets/images/img/pavi_16_16.png
+[11/Mar/2021 13:37:33] "GET /humanframe/theme/basic/assets/images/img/pavi_16_16.png HTTP/1.1" 404 4789
+[11/Mar/2021 13:37:37] "GET /region HTTP/1.1" 301 0
+[11/Mar/2021 13:37:37] "GET /region/ HTTP/1.1" 200 12495
+[11/Mar/2021 13:37:38] "GET /static/ss.jpg HTTP/1.1" 200 46081
+[11/Mar/2021 13:37:38] "GET /static/gn.jpg HTTP/1.1" 200 2535
+[11/Mar/2021 13:37:38] "GET /static/gb.png HTTP/1.1" 200 3218
+[11/Mar/2021 13:37:38] "GET /static/gd.png HTTP/1.1" 200 2993
+[11/Mar/2021 13:37:38] "GET /static/gs.png HTTP/1.1" 200 3054
+[11/Mar/2021 13:37:38] "GET /static/gw.png HTTP/1.1" 200 3518
+[11/Mar/2021 13:37:38] "GET /static/gj.png HTTP/1.1" 200 3712
+[11/Mar/2021 13:37:38] "GET /static/gr.png HTTP/1.1" 200 3017
+[11/Mar/2021 13:37:38] "GET /static/nw.png HTTP/1.1" 200 3738
+[11/Mar/2021 13:37:38] "GET /static/gc.png HTTP/1.1" 200 3646
+[11/Mar/2021 13:37:38] "GET /static/db.png HTTP/1.1" 200 2898
+[11/Mar/2021 13:37:38] "GET /static/dm.png HTTP/1.1" 200 3238
+[11/Mar/2021 13:37:38] "GET /static/dj.png HTTP/1.1" 200 3758
+[11/Mar/2021 13:37:38] "GET /static/mp.png HTTP/1.1" 200 2800
+[11/Mar/2021 13:37:38] "GET /static/sd.png HTTP/1.1" 200 2937
+[11/Mar/2021 13:37:38] "GET /static/sb.png HTTP/1.1" 200 3643
+[11/Mar/2021 13:37:38] "GET /static/sc.png HTTP/1.1" 200 2888
+[11/Mar/2021 13:37:38] "GET /static/yc.png HTTP/1.1" 200 4013
+[11/Mar/2021 13:37:38] "GET /static/yp.png HTTP/1.1" 200 3368
+[11/Mar/2021 13:37:38] "GET /static/sp.png HTTP/1.1" 200 2730
+[11/Mar/2021 13:37:38] "GET /static/ep.png HTTP/1.1" 200 5199
+[11/Mar/2021 13:37:38] "GET /static/jn.png HTTP/1.1" 200 3537
+[11/Mar/2021 13:37:38] "GET /static/ys.png HTTP/1.1" 200 2991
+[11/Mar/2021 13:37:38] "GET /static/jg.png HTTP/1.1" 200 2856
+[11/Mar/2021 13:37:38] "GET /static/jr.png HTTP/1.1" 200 3413
+[11/Mar/2021 13:37:41] "GET /pybo/ HTTP/1.1" 200 4004
+[11/Mar/2021 13:37:44] "GET /pybo/13/ HTTP/1.1" 200 4075
+[11/Mar/2021 13:37:48] "POST /pybo/answer/create/13/ HTTP/1.1" 302 0
+[11/Mar/2021 13:37:48] "GET /common/login/?next=/pybo/answer/create/13/ HTTP/1.1" 200 3378
+[11/Mar/2021 13:37:51] "GET /common/signup/ HTTP/1.1" 200 3718
+[11/Mar/2021 13:37:55] "GET / HTTP/1.1" 200 12903
+[11/Mar/2021 13:53:19] "GET / HTTP/1.1" 200 12903
+Not Found: /favicon.ico
+[11/Mar/2021 13:53:21] "GET /favicon.ico HTTP/1.1" 404 4657
+[11/Mar/2021 14:01:03] "GET / HTTP/1.1" 200 12903
+[11/Mar/2021 14:01:04] "GET /static/hangg.jpg HTTP/1.1" 200 59964
+[11/Mar/2021 14:01:04] "GET /static/seoulpic.png HTTP/1.1" 200 36963
+[11/Mar/2021 14:01:04] "GET /static/%EB%82%A8%EC%82%B0%ED%83%80%EC%9B%8C.jpg HTTP/1.1" 200 596246
+[11/Mar/2021 14:01:04] "GET /static/contactus.png HTTP/1.1" 200 50673
+[11/Mar/2021 14:01:04] "GET /static/program.png HTTP/1.1" 200 118377
+[11/Mar/2021 14:01:04] "GET /static/codingon.png HTTP/1.1" 200 9791
+[11/Mar/2021 14:01:04] "GET /static/%EC%84%B8%EC%A2%85%EB%8C%80%EC%99%95%EB%8B%98.jpg HTTP/1.1" 200 249361
+[11/Mar/2021 14:01:04] "GET /static/%EA%B0%95%EC%9B%90%EB%8F%84.jpg HTTP/1.1" 200 212402
+Not Found: /favicon.ico
+[11/Mar/2021 14:01:05] "GET /favicon.ico HTTP/1.1" 404 4657
+[11/Mar/2021 14:02:37] "GET / HTTP/1.1" 200 12903
+[11/Mar/2021 14:02:38] "GET /static/hangg.jpg HTTP/1.1" 200 59964
+[11/Mar/2021 14:02:38] "GET /static/%EB%82%A8%EC%82%B0%ED%83%80%EC%9B%8C.jpg HTTP/1.1" 200 596246
+[11/Mar/2021 14:02:38] "GET /static/seoulpic.png HTTP/1.1" 200 36963
+[11/Mar/2021 14:02:38] "GET /static/%EC%84%B8%EC%A2%85%EB%8C%80%EC%99%95%EB%8B%98.jpg HTTP/1.1" 200 249361
+[11/Mar/2021 14:02:38] "GET /static/contactus.png HTTP/1.1" 200 50673
+[11/Mar/2021 14:02:38] "GET /static/%EA%B0%95%EC%9B%90%EB%8F%84.jpg HTTP/1.1" 200 212402
+[11/Mar/2021 14:02:38] "GET /static/program.png HTTP/1.1" 200 118377
+[11/Mar/2021 14:02:38] "GET /static/codingon.png HTTP/1.1" 200 9791
+Not Found: /favicon.ico
+[11/Mar/2021 14:02:38] "GET /favicon.ico HTTP/1.1" 404 4657
+[11/Mar/2021 14:04:34] "GET / HTTP/1.1" 200 12903
+[11/Mar/2021 14:04:52] "GET /introduction/ HTTP/1.1" 200 10167
+[11/Mar/2021 14:04:55] "GET /hotplaces HTTP/1.1" 301 0
+[11/Mar/2021 14:04:55] "GET /hotplaces/ HTTP/1.1" 200 8209
+[11/Mar/2021 14:04:55] "GET /static/kb.jpg HTTP/1.1" 200 312630
+[11/Mar/2021 14:04:55] "GET /static/ns.jpg HTTP/1.1" 200 187222
+[11/Mar/2021 14:04:55] "GET /static/jt.jpg HTTP/1.1" 200 177873
+[11/Mar/2021 14:04:55] "GET /static/to.jpg HTTP/1.1" 200 238569
+[11/Mar/2021 14:04:55] "GET /static/md.jpg HTTP/1.1" 200 375956
+[11/Mar/2021 14:04:55] "GET /static/bd.jpg HTTP/1.1" 200 440629
+Not Found: /humanframe/theme/basic/assets/images/img/pavi_16_16.png
+[11/Mar/2021 14:04:56] "GET /humanframe/theme/basic/assets/images/img/pavi_16_16.png HTTP/1.1" 404 4789
+[11/Mar/2021 14:05:12] "GET /region/ HTTP/1.1" 200 12495
+[11/Mar/2021 14:05:12] "GET /static/ss.jpg HTTP/1.1" 200 46081
+[11/Mar/2021 14:05:12] "GET /static/gn.jpg HTTP/1.1" 200 2535
+[11/Mar/2021 14:05:12] "GET /static/gd.png HTTP/1.1" 200 2993
+[11/Mar/2021 14:05:12] "GET /static/gs.png HTTP/1.1" 200 3054
+[11/Mar/2021 14:05:12] "GET /static/gw.png HTTP/1.1" 200 3518
+[11/Mar/2021 14:05:12] "GET /static/gb.png HTTP/1.1" 200 3218
+[11/Mar/2021 14:05:12] "GET /static/gj.png HTTP/1.1" 200 3712
+[11/Mar/2021 14:05:12] "GET /static/gr.png HTTP/1.1" 200 3017
+[11/Mar/2021 14:05:12] "GET /static/ys.png HTTP/1.1" 200 2991
+[11/Mar/2021 14:05:12] "GET /static/gc.png HTTP/1.1" 200 3646
+[11/Mar/2021 14:05:12] "GET /static/dj.png HTTP/1.1" 200 3758
+[11/Mar/2021 14:05:12] "GET /static/jr.png HTTP/1.1" 200 3413
+[11/Mar/2021 14:05:12] "GET /static/ep.png HTTP/1.1" 200 5199
+[11/Mar/2021 14:05:12] "GET /static/sp.png HTTP/1.1" 200 2730
+[11/Mar/2021 14:05:12] "GET /static/mp.png HTTP/1.1" 200 2800
+[11/Mar/2021 14:05:12] "GET /static/nw.png HTTP/1.1" 200 3738
+[11/Mar/2021 14:05:12] "GET /static/dm.png HTTP/1.1" 200 3238
+[11/Mar/2021 14:05:12] "GET /static/sd.png HTTP/1.1" 200 2937
+[11/Mar/2021 14:05:12] "GET /static/jn.png HTTP/1.1" 200 3537
+[11/Mar/2021 14:05:12] "GET /static/sb.png HTTP/1.1" 200 3643
+[11/Mar/2021 14:05:12] "GET /static/jg.png HTTP/1.1" 200 2856
+[11/Mar/2021 14:05:12] "GET /static/sc.png HTTP/1.1" 200 2888
+[11/Mar/2021 14:05:12] "GET /static/db.png HTTP/1.1" 200 2898
+[11/Mar/2021 14:05:12] "GET /static/yc.png HTTP/1.1" 200 4013
+[11/Mar/2021 14:05:12] "GET /static/yp.png HTTP/1.1" 200 3368
+[11/Mar/2021 14:05:23] "GET /pybo/ HTTP/1.1" 200 4004
+[11/Mar/2021 14:05:26] "GET /pybo/13/ HTTP/1.1" 200 4075
+[11/Mar/2021 14:05:52] "GET /hotplaces/ HTTP/1.1" 200 8209
+Not Found: /humanframe/theme/basic/assets/images/img/pavi_16_16.png
+[11/Mar/2021 14:05:54] "GET /humanframe/theme/basic/assets/images/img/pavi_16_16.png HTTP/1.1" 404 4789
+[11/Mar/2021 14:07:09] "GET /hotplaces/ HTTP/1.1" 200 8209
+[11/Mar/2021 14:07:11] "GET /region HTTP/1.1" 301 0
+[11/Mar/2021 14:07:11] "GET /region/ HTTP/1.1" 200 12495
+[11/Mar/2021 14:07:11] "GET /static/gn.jpg HTTP/1.1" 200 2535
+[11/Mar/2021 14:07:11] "GET /static/ss.jpg HTTP/1.1" 200 46081
+[11/Mar/2021 14:07:11] "GET /static/gb.png HTTP/1.1" 200 3218
+[11/Mar/2021 14:07:11] "GET /static/gd.png HTTP/1.1" 200 2993
+[11/Mar/2021 14:07:11] "GET /static/gs.png HTTP/1.1" 200 3054
+[11/Mar/2021 14:07:11] "GET /static/gj.png HTTP/1.1" 200 3712
+[11/Mar/2021 14:07:11] "GET /static/gr.png HTTP/1.1" 200 3017
+[11/Mar/2021 14:07:11] "GET /static/gw.png HTTP/1.1" 200 3518
+[11/Mar/2021 14:07:11] "GET /static/nw.png HTTP/1.1" 200 3738
+[11/Mar/2021 14:07:11] "GET /static/gc.png HTTP/1.1" 200 3646
+[11/Mar/2021 14:07:11] "GET /static/db.png HTTP/1.1" 200 2898
+[11/Mar/2021 14:07:11] "GET /static/dj.png HTTP/1.1" 200 3758
+[11/Mar/2021 14:07:11] "GET /static/mp.png HTTP/1.1" 200 2800
+[11/Mar/2021 14:07:11] "GET /static/dm.png HTTP/1.1" 200 3238
+[11/Mar/2021 14:07:11] "GET /static/yc.png HTTP/1.1" 200 4013
+[11/Mar/2021 14:07:11] "GET /static/sp.png HTTP/1.1" 200 2730
+[11/Mar/2021 14:07:11] "GET /static/sc.png HTTP/1.1" 200 2888
+[11/Mar/2021 14:07:11] "GET /static/sb.png HTTP/1.1" 200 3643
+[11/Mar/2021 14:07:11] "GET /static/yp.png HTTP/1.1" 200 3368
+[11/Mar/2021 14:07:11] "GET /static/sd.png HTTP/1.1" 200 2937
+[11/Mar/2021 14:07:11] "GET /static/ys.png HTTP/1.1" 200 2991
+[11/Mar/2021 14:07:11] "GET /static/ep.png HTTP/1.1" 200 5199
+[11/Mar/2021 14:07:11] "GET /static/jn.png HTTP/1.1" 200 3537
+[11/Mar/2021 14:07:11] "GET /static/jr.png HTTP/1.1" 200 3413
+[11/Mar/2021 14:07:11] "GET /static/jg.png HTTP/1.1" 200 2856
+[11/Mar/2021 14:07:13] "GET /pybo/ HTTP/1.1" 200 4004
+[11/Mar/2021 14:07:16] "GET /pybo/13/ HTTP/1.1" 200 4075
+[11/Mar/2021 14:25:59] "GET / HTTP/1.1" 200 12903
+[11/Mar/2021 14:26:12] "GET / HTTP/1.1" 200 12903
+[11/Mar/2021 15:10:14] "GET / HTTP/1.1" 200 12903
+Not Found: /favicon.ico
+[11/Mar/2021 15:10:15] "GET /favicon.ico HTTP/1.1" 404 4657
+[11/Mar/2021 15:10:21] "GET /hotplaces/ HTTP/1.1" 200 8209
+[11/Mar/2021 15:10:21] "GET /static/kb.jpg HTTP/1.1" 200 312630
+[11/Mar/2021 15:10:21] "GET /static/ns.jpg HTTP/1.1" 200 187222
+[11/Mar/2021 15:10:21] "GET /static/jt.jpg HTTP/1.1" 200 177873
+[11/Mar/2021 15:10:21] "GET /static/bd.jpg HTTP/1.1" 200 440629
+[11/Mar/2021 15:10:21] "GET /static/md.jpg HTTP/1.1" 200 375956
+[11/Mar/2021 15:10:21] "GET /static/to.jpg HTTP/1.1" 200 238569
+Not Found: /humanframe/theme/basic/assets/images/img/pavi_16_16.png
+[11/Mar/2021 15:10:22] "GET /humanframe/theme/basic/assets/images/img/pavi_16_16.png HTTP/1.1" 404 4789
+[11/Mar/2021 15:10:25] "GET /hotplaces/bukchon/ HTTP/1.1" 200 19907
+[11/Mar/2021 15:10:37] "GET /hotplaces/myeongdong/ HTTP/1.1" 200 22171
+[11/Mar/2021 15:12:27] "GET /hotplaces/bukchon/ HTTP/1.1" 200 19907
+[11/Mar/2021 15:12:33] "GET /hotplaces/myeongdong/ HTTP/1.1" 200 22171
+[11/Mar/2021 15:19:13] "GET /hotplaces/ HTTP/1.1" 200 8209
+[11/Mar/2021 15:19:14] "GET /introduction HTTP/1.1" 301 0
+Internal Server Error: /introduction/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/FinalProject_complete/korea/views.py", line 41, in introduction
+    return render(request, 'korea/introduction.html')
+  File "/usr/local/lib/python3.6/dist-packages/django/shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/backends/django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/engine.py", line 143, in get_template
+    template, origin = self.find_template(template_name)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/engine.py", line 125, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/loaders/base.py", line 30, in get_template
+    contents, origin, origin.template_name, self.engine,
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 155, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 193, in compile_nodelist
+    return parser.parse()
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 478, in parse
+    raise self.error(token, e)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 476, in parse
+    compiled_result = compile_func(self, token)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/loader_tags.py", line 269, in do_extends
+    parent_name = parser.compile_filter(bits[1])
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 563, in compile_filter
+    return FilterExpression(token, self)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 663, in __init__
+    "from '%s'" % (token[upto:], token))
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: '/base.html' from 'korea/base.html'
+[11/Mar/2021 15:19:14] "GET /introduction/ HTTP/1.1" 500 141457
+[11/Mar/2021 15:20:08] "GET /introduction/ HTTP/1.1" 200 4385
+[11/Mar/2021 15:20:34] "GET /introduction/ HTTP/1.1" 200 10501
+Not Found: /introduction/introduction/
+[11/Mar/2021 15:20:37] "GET /introduction/introduction/ HTTP/1.1" 404 4702
+Not Found: /introduction/introduction/
+[11/Mar/2021 15:20:55] "GET /introduction/introduction/ HTTP/1.1" 404 4702
+Not Found: /introduction/introduction/
+[11/Mar/2021 15:20:55] "GET /introduction/introduction/ HTTP/1.1" 404 4702
+Not Found: /introduction/introduction/
+[11/Mar/2021 15:21:12] "GET /introduction/introduction/ HTTP/1.1" 404 4702
+Not Found: /introduction/hotplaces/
+[11/Mar/2021 15:21:15] "GET /introduction/hotplaces/ HTTP/1.1" 404 4693
+[11/Mar/2021 15:21:19] "GET / HTTP/1.1" 200 12903
+[11/Mar/2021 15:21:21] "GET /hotplaces/ HTTP/1.1" 200 8209
+[11/Mar/2021 15:21:22] "GET /region HTTP/1.1" 301 0
+[11/Mar/2021 15:21:22] "GET /region/ HTTP/1.1" 200 12495
+[11/Mar/2021 15:21:22] "GET /static/gn.jpg HTTP/1.1" 200 2535
+[11/Mar/2021 15:21:22] "GET /static/ss.jpg HTTP/1.1" 200 46081
+[11/Mar/2021 15:21:22] "GET /static/gd.png HTTP/1.1" 200 2993
+[11/Mar/2021 15:21:22] "GET /static/gb.png HTTP/1.1" 200 3218
+[11/Mar/2021 15:21:22] "GET /static/gs.png HTTP/1.1" 200 3054
+[11/Mar/2021 15:21:22] "GET /static/gw.png HTTP/1.1" 200 3518
+[11/Mar/2021 15:21:22] "GET /static/gc.png HTTP/1.1" 200 3646
+[11/Mar/2021 15:21:22] "GET /static/gj.png HTTP/1.1" 200 3712
+[11/Mar/2021 15:21:22] "GET /static/nw.png HTTP/1.1" 200 3738
+[11/Mar/2021 15:21:22] "GET /static/db.png HTTP/1.1" 200 2898
+[11/Mar/2021 15:21:22] "GET /static/dm.png HTTP/1.1" 200 3238
+[11/Mar/2021 15:21:22] "GET /static/gr.png HTTP/1.1" 200 3017
+[11/Mar/2021 15:21:22] "GET /static/dj.png HTTP/1.1" 200 3758
+[11/Mar/2021 15:21:22] "GET /static/mp.png HTTP/1.1" 200 2800
+[11/Mar/2021 15:21:22] "GET /static/sd.png HTTP/1.1" 200 2937
+[11/Mar/2021 15:21:22] "GET /static/sc.png HTTP/1.1" 200 2888
+[11/Mar/2021 15:21:22] "GET /static/sb.png HTTP/1.1" 200 3643
+[11/Mar/2021 15:21:22] "GET /static/sp.png HTTP/1.1" 200 2730
+[11/Mar/2021 15:21:22] "GET /static/yc.png HTTP/1.1" 200 4013
+[11/Mar/2021 15:21:22] "GET /static/yp.png HTTP/1.1" 200 3368
+[11/Mar/2021 15:21:22] "GET /static/ys.png HTTP/1.1" 200 2991
+[11/Mar/2021 15:21:22] "GET /static/ep.png HTTP/1.1" 200 5199
+[11/Mar/2021 15:21:22] "GET /static/jn.png HTTP/1.1" 200 3537
+[11/Mar/2021 15:21:22] "GET /static/jg.png HTTP/1.1" 200 2856
+[11/Mar/2021 15:21:22] "GET /static/jr.png HTTP/1.1" 200 3413
+[11/Mar/2021 15:21:23] "GET /introduction/ HTTP/1.1" 200 10167
+[11/Mar/2021 15:21:24] "GET /introduction/ HTTP/1.1" 200 10167
+[11/Mar/2021 15:21:26] "GET /pybo/ HTTP/1.1" 200 4004
+[11/Mar/2021 15:21:29] "GET /introduction/ HTTP/1.1" 200 10167
+Internal Server Error: /introduction/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/FinalProject_complete/korea/views.py", line 41, in introduction
+    return render(request, 'korea/introduction.html')
+  File "/usr/local/lib/python3.6/dist-packages/django/shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/backends/django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/engine.py", line 143, in get_template
+    template, origin = self.find_template(template_name)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/engine.py", line 125, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/loaders/base.py", line 30, in get_template
+    contents, origin, origin.template_name, self.engine,
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 155, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 193, in compile_nodelist
+    return parser.parse()
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 478, in parse
+    raise self.error(token, e)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 476, in parse
+    compiled_result = compile_func(self, token)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/loader_tags.py", line 270, in do_extends
+    nodelist = parser.parse()
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 478, in parse
+    raise self.error(token, e)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 476, in parse
+    compiled_result = compile_func(self, token)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/loader_tags.py", line 213, in do_block
+    nodelist = parser.parse(('endblock',))
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 483, in parse
+    self.unclosed_block_tag(parse_until)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 544, in unclosed_block_tag
+    raise self.error(token, msg)
+django.template.exceptions.TemplateSyntaxError: Unclosed tag on line 3: 'block'. Looking for one of: endblock.
+[11/Mar/2021 15:26:27] "GET /introduction/ HTTP/1.1" 500 155291
+[11/Mar/2021 15:30:51] "GET /introduction/ HTTP/1.1" 200 10153
+[11/Mar/2021 15:31:19] "GET /introduction/ HTTP/1.1" 200 10167
+[11/Mar/2021 15:31:40] "GET /introduction/ HTTP/1.1" 200 10153
+[11/Mar/2021 15:33:05] "GET / HTTP/1.1" 200 12903
+[11/Mar/2021 15:34:22] "GET / HTTP/1.1" 200 12903
+[11/Mar/2021 15:34:23] "GET /hotplaces/ HTTP/1.1" 200 8209
+Internal Server Error: /hotplaces/lotteworld/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 170, in render
+    return self._render(context)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/loader_tags.py", line 127, in render
+    compiled_parent = self.get_parent(context)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/loader_tags.py", line 124, in get_parent
+    return self.find_template(parent, context)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/loader_tags.py", line 104, in find_template
+    template_name, skip=history,
+  File "/usr/local/lib/python3.6/dist-packages/django/template/engine.py", line 129, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: korea.base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/FinalProject_complete/korea/views.py", line 53, in lotteworld
+    return render(request, 'korea/lotteworld.html')
+  File "/usr/local/lib/python3.6/dist-packages/django/shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/backends/django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/backends/django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: korea.base.html
+[11/Mar/2021 15:34:29] "GET /hotplaces/lotteworld/ HTTP/1.1" 500 123576
+[11/Mar/2021 15:34:45] "GET /hotplaces/lotteworld/ HTTP/1.1" 200 18476
+[11/Mar/2021 15:37:55] "GET /hotplaces/lotteworld/ HTTP/1.1" 200 22618
+[11/Mar/2021 15:37:58] "GET / HTTP/1.1" 200 12903
+[11/Mar/2021 15:37:59] "GET /introduction/ HTTP/1.1" 200 10153
+Not Found: /introduction/hotplaces/
+[11/Mar/2021 15:38:01] "GET /introduction/hotplaces/ HTTP/1.1" 404 4693
+Not Found: /introduction/hotplaces/
+[11/Mar/2021 15:38:04] "GET /introduction/hotplaces/ HTTP/1.1" 404 4693
+Not Found: /introduction/hotplaces/
+[11/Mar/2021 15:38:27] "GET /introduction/hotplaces/ HTTP/1.1" 404 4693
+[11/Mar/2021 15:38:29] "GET /introduction/ HTTP/1.1" 200 10153
+Not Found: /introduction/introduction/
+[11/Mar/2021 15:38:30] "GET /introduction/introduction/ HTTP/1.1" 404 4702
+Not Found: /introduction/hotplaces/
+[11/Mar/2021 15:38:32] "GET /introduction/hotplaces/ HTTP/1.1" 404 4693
+Not Found: /introduction/region/
+[11/Mar/2021 15:38:35] "GET /introduction/region/ HTTP/1.1" 404 4684
+[11/Mar/2021 15:38:44] "GET / HTTP/1.1" 200 12903
+[11/Mar/2021 15:38:45] "GET /introduction/ HTTP/1.1" 200 10153
+Not Found: /introduction/hotplaces/
+[11/Mar/2021 15:38:46] "GET /introduction/hotplaces/ HTTP/1.1" 404 4693
+Not Found: /introduction/introduction/
+[11/Mar/2021 15:38:48] "GET /introduction/introduction/ HTTP/1.1" 404 4702
+[11/Mar/2021 15:38:58] "GET / HTTP/1.1" 200 12903
+[11/Mar/2021 15:38:59] "GET /introduction/ HTTP/1.1" 200 10153
+Not Found: /introduction/introduction/
+[11/Mar/2021 15:39:00] "GET /introduction/introduction/ HTTP/1.1" 404 4702
+[11/Mar/2021 15:39:34] code 400, message Bad request syntax ("\x16\x03\x01\x00\x7f\x01\x00\x00{\x03\x03ïd\x08ªtéa^7'¹\x04yJÙû\x15¦\x9b\x06£\x08ÖÕe\xa0ärÍ¤ùé\x00\x00\x1cÀ/À+À0À,À\x13À\tÀ\x14À")
+[11/Mar/2021 15:39:34] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[11/Mar/2021 15:40:27] "GET /introduction/ HTTP/1.1" 200 10153
+[11/Mar/2021 15:40:29] "GET /introduction/ HTTP/1.1" 200 10153
+[11/Mar/2021 15:40:30] "GET /introduction/ HTTP/1.1" 200 10153
+[11/Mar/2021 15:41:28] "GET / HTTP/1.1" 200 12913
+[11/Mar/2021 15:41:29] "GET / HTTP/1.1" 200 12913
+Not Found: /korea/introduction.html
+[11/Mar/2021 15:41:30] "GET /korea/introduction.html HTTP/1.1" 404 4693
+[11/Mar/2021 15:43:10] "GET /introduction/ HTTP/1.1" 200 10156
+[11/Mar/2021 15:43:10] "GET /introduction/ HTTP/1.1" 200 10156
+[11/Mar/2021 15:43:11] "GET /introduction/ HTTP/1.1" 200 10156
+[11/Mar/2021 15:43:12] "GET /introduction/ HTTP/1.1" 200 10156
+[11/Mar/2021 15:43:12] "GET /introduction/ HTTP/1.1" 200 10156
+[11/Mar/2021 15:43:22] "GET / HTTP/1.1" 200 12906
+Not Found: /{% url 'index' %
+[11/Mar/2021 15:43:24] "GET /%7B%%20url%20'index'%20% HTTP/1.1" 404 4714
+Not Found: /{% url 'index' %
+[11/Mar/2021 15:43:39] "GET /%7B%%20url%20'index'%20% HTTP/1.1" 404 4714
+Not Found: /introduction/{% url 'index' %
+[11/Mar/2021 15:43:41] "GET /introduction/%7B%%20url%20'index'%20% HTTP/1.1" 404 4753
+Internal Server Error: /introduction/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/urls/base.py", line 72, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+KeyError: 'korea'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/FinalProject_complete/korea/views.py", line 41, in introduction
+    return render(request, 'korea/introduction.html')
+  File "/usr/local/lib/python3.6/dist-packages/django/shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 170, in render
+    return self._render(context)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/usr/local/lib/python3.6/dist-packages/django/urls/base.py", line 83, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'korea' is not a registered namespace
+[11/Mar/2021 15:43:56] "GET /introduction/ HTTP/1.1" 500 141613
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/urls/base.py", line 72, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+KeyError: 'korea'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/FinalProject_complete/korea/views.py", line 8, in main
+    return render(request, 'korea/index.html')
+  File "/usr/local/lib/python3.6/dist-packages/django/shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 170, in render
+    return self._render(context)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/usr/local/lib/python3.6/dist-packages/django/urls/base.py", line 83, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'korea' is not a registered namespace
+[11/Mar/2021 15:43:58] "GET / HTTP/1.1" 500 141352
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/urls/base.py", line 72, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+KeyError: 'korea'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/FinalProject_complete/korea/views.py", line 8, in main
+    return render(request, 'korea/index.html')
+  File "/usr/local/lib/python3.6/dist-packages/django/shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 170, in render
+    return self._render(context)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/usr/local/lib/python3.6/dist-packages/django/urls/base.py", line 83, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'korea' is not a registered namespace
+[11/Mar/2021 15:43:58] "GET / HTTP/1.1" 500 141352
+[11/Mar/2021 15:44:06] "GET / HTTP/1.1" 200 12891
+[11/Mar/2021 15:44:07] "GET / HTTP/1.1" 200 12891
+[11/Mar/2021 15:44:08] "GET / HTTP/1.1" 200 12891
+[11/Mar/2021 15:44:09] "GET / HTTP/1.1" 200 12891
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/FinalProject_complete/korea/views.py", line 8, in main
+    return render(request, 'korea/index.html')
+  File "/usr/local/lib/python3.6/dist-packages/django/shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 170, in render
+    return self._render(context)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/loader_tags.py", line 127, in render
+    compiled_parent = self.get_parent(context)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/loader_tags.py", line 124, in get_parent
+    return self.find_template(parent, context)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/loader_tags.py", line 104, in find_template
+    template_name, skip=history,
+  File "/usr/local/lib/python3.6/dist-packages/django/template/engine.py", line 125, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/loaders/base.py", line 30, in get_template
+    contents, origin, origin.template_name, self.engine,
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 155, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 193, in compile_nodelist
+    return parser.parse()
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 478, in parse
+    raise self.error(token, e)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 476, in parse
+    compiled_result = compile_func(self, token)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/defaulttags.py", line 1372, in url
+    viewname = parser.compile_filter(bits[1])
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 563, in compile_filter
+    return FilterExpression(token, self)
+  File "/usr/local/lib/python3.6/dist-packages/django/template/base.py", line 663, in __init__
+    "from '%s'" % (token[upto:], token))
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: ''hotplaces' from ''hotplaces'
+[11/Mar/2021 15:45:23] "GET / HTTP/1.1" 500 161158
+[11/Mar/2021 15:45:41] "GET / HTTP/1.1" 200 12923
+Not Found: /U% url 'index' %}
+[11/Mar/2021 15:45:43] "GET /U%%20url%20'index'%20%%7D HTTP/1.1" 404 4717
+Not Found: /U% url 'index' %}
+[11/Mar/2021 15:46:18] "GET /U%%20url%20'index'%20%%7D HTTP/1.1" 404 4717
+[11/Mar/2021 15:46:20] "GET / HTTP/1.1" 200 12907
+[11/Mar/2021 15:46:21] "GET /introduction/ HTTP/1.1" 200 10157
+[11/Mar/2021 15:46:24] "GET /hotplaces/ HTTP/1.1" 200 8209
+[11/Mar/2021 15:46:26] "GET /region/ HTTP/1.1" 200 12495
+[11/Mar/2021 15:46:27] "GET /pybo/ HTTP/1.1" 200 4004
+[11/Mar/2021 15:46:29] "GET / HTTP/1.1" 200 12907
+[11/Mar/2021 15:46:30] "GET /pybo/ HTTP/1.1" 200 4004
+[11/Mar/2021 15:46:31] "GET / HTTP/1.1" 200 12907
+[11/Mar/2021 15:46:33] "GET /pybo/ HTTP/1.1" 200 4004
+[11/Mar/2021 15:46:33] "GET /pybo/ HTTP/1.1" 200 4004
+[11/Mar/2021 15:46:34] "GET /pybo/ HTTP/1.1" 200 4004
+[11/Mar/2021 15:46:34] "GET / HTTP/1.1" 200 12907
+[11/Mar/2021 15:47:09] "GET /region/ HTTP/1.1" 200 12495
+[11/Mar/2021 15:47:11] "GET /region/ HTTP/1.1" 200 12495
+[11/Mar/2021 15:47:12] "GET /hotplaces HTTP/1.1" 301 0
+[11/Mar/2021 15:47:12] "GET /hotplaces/ HTTP/1.1" 200 8209
+[11/Mar/2021 15:47:13] "GET /introduction/ HTTP/1.1" 200 10157
+[11/Mar/2021 15:47:14] "GET /pybo/ HTTP/1.1" 200 4004
+[11/Mar/2021 15:47:15] "GET / HTTP/1.1" 200 12907
+[11/Mar/2021 15:47:17] "GET /region/ HTTP/1.1" 200 12495
+[11/Mar/2021 15:49:50] "GET /region/ HTTP/1.1" 200 12042
+[11/Mar/2021 15:49:52] "GET /pybo/ HTTP/1.1" 200 4004
+[11/Mar/2021 15:49:53] "GET / HTTP/1.1" 200 12907
+[11/Mar/2021 15:49:55] "GET /region/ HTTP/1.1" 200 12042
+[11/Mar/2021 15:49:56] "GET /hotplaces/ HTTP/1.1" 200 8209
+[11/Mar/2021 15:49:56] "GET /introduction/ HTTP/1.1" 200 10157
+[11/Mar/2021 15:49:57] "GET /pybo/ HTTP/1.1" 200 4004
