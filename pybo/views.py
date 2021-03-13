@@ -123,6 +123,7 @@ def question_create(request):
 
     return render(request, 'pybo/question_form.html', context)
 
+
 @login_required(login_url='common:login')
 def question_modify(request, question_id):
     """
@@ -139,6 +140,13 @@ def question_modify(request, question_id):
             question = form.save(commit=False)
             question.author = request.user
             question.modify_date = timezone.now()
+
+            try:
+                question.image = request.FILES['image']
+
+            except:
+                pass
+
             question.save()
             return redirect('pybo:detail', question_id=question.id)
 

