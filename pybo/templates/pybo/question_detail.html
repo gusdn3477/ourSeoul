@@ -43,7 +43,8 @@
             {% if request.user == question.author %}
             <div class="my-3">
                 <a href="{% url 'pybo:question_modify' question.id %}" class="btn btn-sm btn-outline-secondary">수정</a>
-                <a href="#" data-uri = "{% url 'pybo:question_delete' question.id %}" class="delete btn btn-sm btn-outline-secondary">삭제</a>
+                <a href="#" data-uri="{% url 'pybo:question_delete' question.id %}"
+                    class="delete btn btn-sm btn-outline-secondary">삭제</a>
             </div>
             {% endif %}
         </div>
@@ -81,7 +82,7 @@
         </div>
     </div>
     {% endfor %}
-    
+
     <form action="{% url 'pybo:answer_create' question.id %}" method='post' class='my-3'>
         {% csrf_token %}
 
@@ -101,7 +102,7 @@
             <textarea {% if not user.is_authenticated %}disabled{% endif %} name="content" id="content"
                 class="form-control" rows="10"></textarea>
         </div>
-        <input type="submit" value="답변등록" class="btn btn-primary">
+        <input type="submit" value="답변등록" class="btn btn-primary" id="submit">
     </form>
 </div>
 
@@ -113,10 +114,21 @@
 
     $(document).ready(function () {
         $(".delete").on('click', function () {
-            if(confirm("정말로 삭제하시겠습니까?")){
+            if (confirm("정말로 삭제하시겠습니까?")) {
                 location.href = $(this).data('uri');
             }
         });
     });
+
+    var checkUnload = true;
+    $(window).on("beforeunload", function(){
+
+        if(checkUnload) return "이 페이지를 벗어나면 작성된 내용은 저장되지 않습니다. 페이지에서 벗어나시겠습니까?";
+    });
+    
+    $('#submit').on("click", function(){
+        checkUnload = false;
+    });
+
 </script>
 {% endblock %}

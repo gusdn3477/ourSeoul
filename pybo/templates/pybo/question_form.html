@@ -28,8 +28,23 @@
                       id="content" rows="10">{{ form.content.value|default_if_none:'' }}</textarea>
         </div>
         <input type="file" name="image">
-        <button type="submit" class="btn btn-primary">저장하기</button>
+        <button type="submit" class="btn btn-primary" id="save">저장하기</button>
     </form>
 </div>
 
+{% endblock %}
+
+{% block script %}
+<script>
+    var checkUnload = true;
+    $(window).on("beforeunload", function(){
+
+        if(checkUnload) return "이 페이지를 벗어나면 작성된 내용은 저장되지 않습니다. 페이지에서 벗어나시겠습니까?";
+    });
+    
+    $('#save').on("click", function(){
+        checkUnload = false;
+    });
+
+</script>
 {% endblock %}
