@@ -42,7 +42,7 @@
 
             {% if request.user == question.author %}
             <div class="my-3">
-                <a href="{% url 'pybo:question_modify' question.id %}" class="btn btn-sm btn-outline-secondary">수정</a>
+                <a href="{% url 'pybo:question_modify' question.id %}" class="edit btn btn-sm btn-outline-secondary">수정</a>
                 <a href="#" data-uri="{% url 'pybo:question_delete' question.id %}"
                     class="delete btn btn-sm btn-outline-secondary">삭제</a>
             </div>
@@ -75,8 +75,8 @@
 
             {% if request.user == answer.author %}
             <div class="my-3">
-                <a href="{% url 'pybo:answer_modify' answer.id %}" class="btn btn-sm btn-outline-secondary">수정</a>
-                <a href="{% url 'pybo:answer_delete' answer.id %}" class="btn btn-sm btn-outline-secondary">삭제</a>
+                <a href="{% url 'pybo:answer_modify' answer.id %}" class="edit btn btn-sm btn-outline-secondary">수정</a>
+                <a href="#" class="delete btn btn-sm btn-outline-secondary" data-uri="{% url 'pybo:answer_delete' answer.id %}">삭제</a>
             </div>
             {% endif %}
         </div>
@@ -126,7 +126,7 @@
         if(checkUnload) return "이 페이지를 벗어나면 작성된 내용은 저장되지 않습니다. 페이지에서 벗어나시겠습니까?";
     });
     
-    $('#submit').on("click", function(){
+    $('#submit, .delete, .edit').on("click", function(){
         checkUnload = false;
     });
 
